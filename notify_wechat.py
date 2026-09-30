@@ -5,12 +5,20 @@ import json
 import os
 from pathlib import Path
 import re
+import ssl
 from urllib.error import URLError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parent
 BASE = "https://zhangypsam.github.io/daily-report"
+
+# The local Windows root store contains an expired chain; use installed CA roots.
+try:
+    import certifi
+except ImportError:
+    certifi = None
+TLS = ssl.create_default_context(cafile=certifi.where() if certifi else None)
 
 
 def payload(post, date):
@@ -36,14 +44,14 @@ def main():
         return
     # Confirm the report URL is reachable before sending its link.
     try:
-        with urlopen(f"{BASE}/{today}/", timeout=30) as response:
+        with urlopen(f"{BASE}/{today}/", timeout=30, context=TLS) as response:
             if response.status != 200:
                 raise SystemExit("Report is not published; WeChat skipped.")
         request = Request(
             f"https://sctapi.ftqq.com/{key}.send",
             data=urlencode(payload(post, today)).encode(),
         )
-        with urlopen(request, timeout=30) as response:
+        with urlopen(request, timeout=30, context=TLS) as response:
             result = json.load(response)
     except URLError:
         raise SystemExit("WeChat network request failed; check service availability.") from None
