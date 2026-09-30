@@ -38,6 +38,10 @@ def main():
     if not re.fullmatch(r"SCT[A-Za-z0-9]+", key):
         raise SystemExit("Expected a ServerChan Turbo SCT SendKey.")
     today = dt.datetime.now(dt.timezone(dt.timedelta(hours=8))).date().isoformat()
+    marker = ROOT / ".wechat_sent_date"
+    if marker.exists() and marker.read_text(encoding="utf-8").strip() == today:
+        print("Today's digest notification was already sent; skipped.")
+        return
     post = ROOT / "docs" / "_posts" / f"{today}-summary-zh.md"
     if not post.exists():
         print("No current-day report; WeChat skipped.")
@@ -57,6 +61,7 @@ def main():
         raise SystemExit("WeChat network request failed; check service availability.") from None
     if result.get("code") != 0:
         raise SystemExit(f"WeChat service rejected delivery (code={result.get('code')}).")
+    marker.write_text(today, encoding="utf-8")
     print("WeChat notification accepted by ServerChan.")
 
 

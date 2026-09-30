@@ -37,9 +37,3 @@ jobs:
       - name: Publish
         id: deployment
         uses: actions/deploy-pages@v4
-      - uses: actions/checkout@v6
-      - name: WeChat notification
-        if: github.event_name == 'push'
-        env:
-          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
-        run: python3 notify_wechat.py

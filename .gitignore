@@ -2,3 +2,4 @@ _site/
 .jekyll-cache/
 .env*
 __pycache__/
+.wechat_sent_date

@@ -4,13 +4,13 @@
 
 每天北京时间 08:00，由本机 Codex 定时任务读取 Horizon 当前配置、采集最近 24 小时消息，核验并生成中文日报。主题：AI 工具、AI 热门新闻、AI 变现、黄金投资资讯、国际政治、财经新闻。每类最多 5 条，总上限为 5 × 主题数，不凑数。
 
-Codex 将报告写入 `docs/_posts/YYYY-MM-DD-summary-zh.md` 并推送本仓库。GitHub Actions 用 Horizon 原有的 Jekyll 站点方式构建并发布 GitHub Pages；发布成功后，通过 Server酱 Turbo 发送微信通知和日报链接。每日 UTC 00:00 的计划任务只重新发布已有内容，不生成新闻，不推送旧日报。
+Codex 将报告写入 `docs/_posts/YYYY-MM-DD-summary-zh.md` 并推送本仓库。GitHub Actions 用 Horizon 原有的 Jekyll 站点方式构建并发布 GitHub Pages；发布成功后，本机 Codex 通过 Server酱 Turbo 发送微信通知和日报链接。每日 UTC 00:00 的计划任务只重新发布已有内容，不生成新闻，不推送旧日报。
 
 ## 运行条件
 
 - 电脑开机且 Codex 应用运行；使用现有 Codex 登录，不调用 Horizon 的付费模型 API。
 - GitHub 已登录并可推送本仓库。站点及本仓库为公开内容，仅提交日报、站点文件和工作流，不提交密钥、浏览器登录态或 Horizon 原始配置。
-- 微信需要登录 https://sct.ftqq.com/sendkey/ 获取 Turbo SCT SendKey，并配置微信通道；将其保存为仓库 Actions secret `SERVERCHAN_SENDKEY`。没有密钥时，站点正常发布，微信步骤明确报告未配置。
+- 微信需要登录 https://sct.ftqq.com/sendkey/ 获取 Turbo SCT SendKey，并配置微信通道；密钥只保存在本机 `Horizon/.env.wechat`，由 Codex 安全加载 `SERVERCHAN_SENDKEY` 后运行 `notify_wechat.py`，不上传到 GitHub。没有密钥时，站点正常发布，通知程序明确报告未配置。
 - Horizon 自带微信机器人也可扫码绑定，但其回复额度需要用户发消息刷新，故本方案使用 Server酱。免费额度与通道要求以服务官方说明为准。
 
 ## 修改主题和筛选规则
@@ -19,4 +19,4 @@ Codex 将报告写入 `docs/_posts/YYYY-MM-DD-summary-zh.md` 并推送本仓库�
 
 ## 验证
 
-`python check_publish.py` 验证发布格式与微信通知内容生成。Actions 的 build/deploy 成功后应可访问首页和当天日报。微信步骤成功表示服务已接收请求，仍需在微信检查实际到达。
+`python check_publish.py` 验证发布格式与微信通知内容生成。Actions 的 build/deploy 成功后应可访问首页和当天日报。微信程序成功表示服务已接收请求，仍需在微信检查实际到达。
