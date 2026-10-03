@@ -1,0 +1,10 @@
+<figure class="source-image">
+  <img src="{{ include.image.src | escape }}" alt="{{ include.image.alt | escape }}"
+       width="{{ include.image.width | escape }}" height="{{ include.image.height | escape }}"
+       loading="lazy" decoding="async" referrerpolicy="no-referrer" crossorigin="anonymous">
+  <p class="image-fallback" hidden>来源图片暂无法显示，请查看下方原文图源。</p>
+  <figcaption>
+    <span>{{ include.image.caption | escape }}</span>
+    <span class="image-credit"><a href="{{ include.image.source_url | escape }}">原文图源</a> · {{ include.image.credit | escape }} · <a href="{{ include.image.rights_url | escape }}">{{ include.image.license_name | escape }}</a></span>
+  </figcaption>
+</figure>

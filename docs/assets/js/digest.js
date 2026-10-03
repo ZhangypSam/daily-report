@@ -2,6 +2,14 @@
 (() => {
   'use strict';
   const main = document.querySelector('.main-content');
+  main.querySelectorAll('.source-image img').forEach(img => {
+    const unavailable = () => {
+      img.hidden = true;
+      img.closest('.source-image').querySelector('.image-fallback').hidden = false;
+    };
+    img.addEventListener('error', unavailable, { once: true });
+    if (img.complete && !img.naturalWidth) unavailable();
+  });
   const categories = ['AI 工具', 'AI 热门新闻', 'AI 变现', '黄金投资资讯', '国际政治', '财经新闻'];
   const ids = new Set([...document.querySelectorAll('[id]')].map(el => el.id));
   function ensureId(element, base) {

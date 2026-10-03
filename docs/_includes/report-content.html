@@ -13,6 +13,7 @@
         {% assign expected_title = entry.title | escape %}
         {% if expected_title == title %}
           {% include source-metadata.html sources=entry.sources %}
+          {% if entry.image %}{% include source-image.html image=entry.image %}{% endif %}
           {% break %}
         {% endif %}
       {% endfor %}
