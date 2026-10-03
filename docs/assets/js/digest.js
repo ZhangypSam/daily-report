@@ -58,6 +58,15 @@
   });
   main.querySelectorAll('p').forEach(p => {
     if (/^Codex 解读[：:]/.test(p.textContent.trim())) p.classList.add('analysis');
+    else {
+      const label = [...p.children].find(el => el.tagName === 'STRONG' && /Codex 解读[：:]$/.test(el.textContent.trim()));
+      if (label) {
+        const range = document.createRange();
+        range.setStartBefore(label); range.setEnd(p, p.childNodes.length);
+        const reading = document.createElement('span'); reading.className = 'codex-reading';
+        reading.append(range.extractContents()); p.append(reading);
+      }
+    }
     if (/^(来源与时间|来源链接)[：:]/.test(p.textContent.trim())) p.classList.add('source-line');
   });
   groups[0].before(toc);
