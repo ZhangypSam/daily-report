@@ -123,4 +123,4 @@ permalink: /reader-picks/2026-10-01/
 
 本次回顾选自 Hacker News、RSS、Reddit、Telegram、GDELT 和 Google News 候选。社区与聚合平台提供线索，事实说明优先引用原始公告、官方数据或原创报道。本批次 X 浏览器连接不可用，OSS Insight 排名数据不可用，OpenBB 未安装，不能视为已经完成这些来源的采集。
 
-[阅读 2026-10-01 日报]({{ '/2026-10-01/' | relative_url }}) · [返回首页]({{ '/' | relative_url }})
+[返回首页]({{ '/' | relative_url }})
