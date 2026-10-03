@@ -20,3 +20,9 @@ Codex 将报告写入 `docs/_posts/YYYY-MM-DD-summary-zh.md` 并推送本仓库�
 ## 验证
 
 `python check_publish.py` 验证发布格式与微信通知内容生成。Actions 的 build/deploy 成功后应可访问首页和当天日报。微信程序成功表示服务已接收请求，仍需在微信检查实际到达。
+
+## 日报阅读结构
+
+`docs/_layouts/default.html` 与 `docs/assets/` 提供共享阅读布局。首页自动突出最新一期；文章根据六类二级标题、新闻三级标题生成导航和条目卡片，手机端目录默认收起。禁用 JavaScript 时完整正文和来源仍可阅读。
+
+本次只更新公开阅读布局，生产生成规则保持不变。拟议的私有 `Horizon/日报结构模板.md` 尚未启用，须确认后审定新的 overlay 提交并另行更新生产固定 SHA。三级标题继续只用于新闻，保持现有前三标题通知兼容；已归档文章不追溯改写。
