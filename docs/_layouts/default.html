@@ -16,7 +16,7 @@
     <nav aria-label="网站导航"><a href="{{ '/' | relative_url }}">日报归档</a><a href="{{ '/feed.xml' | relative_url }}">订阅 RSS</a></nav>
   </header>
   <div class="reading-layout">
-    <main id="main" class="main-content" tabindex="-1">{{ content }}</main>
+    <main id="main" class="main-content" tabindex="-1">{% include report-content.html %}</main>
   </div>
   <footer class="site-footer">有来源，有判断，留有边界。<a href="#main">回到顶部 ↑</a></footer>
 </body>

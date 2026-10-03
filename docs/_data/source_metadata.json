@@ -1,0 +1,301 @@
+{
+  "2026-10-02": [
+    {
+      "title": "1. Pi 1.0 发布，Pi Durable 同步探索可恢复的长期代理任务",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Earendil · Pi 1.0",
+          "url": "https://earendil.com/posts/pi-1-0/",
+          "author": "Earendil",
+          "section": "Posts",
+          "published": "2026-10-01（原文仅日期，时区未提供）"
+        },
+        {
+          "role": "辅来源",
+          "site": "Earendil · Pi Durable",
+          "url": "https://earendil.com/posts/pi-durable/",
+          "author": "Earendil Engineering",
+          "section": "Posts",
+          "published": "2026-10-01（原文仅日期，时区未提供）"
+        }
+      ]
+    },
+    {
+      "title": "2. llama.cpp 连续更新：减少 direct-io 路径中的张量重复复制",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · ggml-org/llama.cpp · b11324",
+          "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11324",
+          "section": "Releases",
+          "published": "2026-10-02 03:24（北京时间 UTC+08:00）"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub · ggml-org/llama.cpp · b11327",
+          "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11327",
+          "section": "Releases",
+          "published": "2026-10-02 04:55（北京时间 UTC+08:00）"
+        }
+      ]
+    },
+    {
+      "title": "3. Cloudflare 发布 Clef 决策模型，强化结构化判断与概率输出",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Cloudflare Blog",
+          "url": "https://blog.cloudflare.com/clef-decision-models/",
+          "published": "2026-10-01 23:34（北京时间 UTC+08:00）"
+        }
+      ]
+    },
+    {
+      "title": "4. Cloudflare 征集面向 AI 代理的下一代 Git 平台，最高奖为 2.5 万美元服务额度",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Cloudflare Blog",
+          "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+          "published": "2026-10-01 21:00（北京时间 UTC+08:00）"
+        }
+      ]
+    },
+    {
+      "title": "5. FX168 引述美国银行：第四季度金价存在回落至每盎司 3,750 美元的风险",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "FX168",
+          "url": "https://www.fx168news.com/article/%E9%BB%84%E9%87%91-1099088",
+          "note": "原文正文与结构化时间标记有冲突，未以 Google News 收录时间替代发布时间。"
+        }
+      ]
+    },
+    {
+      "title": "6. Reuters：美国要求法德释放柴油储备，否则可能限制柴油出口",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Reuters · AOL 授权转载",
+          "url": "https://www.aol.ca/articles/exclusive-us-tells-france-germany-075101000.html",
+          "published": "2026-10-01（原文仅日期，时区未提供）",
+          "updated": "2026-10-02 03:55（北京时间 UTC+08:00；转载更新）"
+        }
+      ]
+    },
+    {
+      "title": "7. 韩国反驳阿拉斯加 LNG 投资已敲定的说法，强调商业可行性",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-01/korea-disputes-trump-s-claim-it-agreed-to-invest-in-alaska-lng",
+          "published": "2026-10-01 17:09（北京时间 UTC+08:00）"
+        }
+      ]
+    },
+    {
+      "title": "8. 俄罗斯驱逐一批匈牙利外交人员，回应此前匈方驱逐行动",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Euronews / AFP",
+          "url": "https://www.euronews.com/2026/10/01/russia-expels-hungarian-diplomats-as-budapest-breaks-with-orban-era",
+          "published": "2026-10-01 22:18（北京时间 UTC+08:00）"
+        }
+      ]
+    },
+    {
+      "title": "9. 美国长期国债收益率冲高后回落，关注报价时点而非早间标题",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html",
+          "published": "2026-10-01（原文仅日期，时区未提供）"
+        }
+      ]
+    },
+    {
+      "title": "10. 美国 9 月 ISM 制造业 PMI 为 54.5，价格指数升至 77.9",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "ISM",
+          "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/september/",
+          "published": "2026-10（现有记录仅确认发布月份）",
+          "note": "报告数据所属月份：2026-09。"
+        }
+      ]
+    }
+  ],
+  "2026-10-03": [
+    {
+      "title": "1. llama.cpp 更新：新增决策模型接口与多模型支持",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · ggml-org/llama.cpp · b11361",
+          "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11361",
+          "section": "Releases",
+          "author": "github-actions[bot]",
+          "author_label": "发布账号",
+          "published": "2026-10-03 07:53:18（北京时间 UTC+08:00）"
+        }
+      ]
+    },
+    {
+      "title": "2. OpenAI 发布 GPT-6 系列使用指南，强调按任务衡量成本与完成质量",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI",
+          "url": "https://openai.com/index/practical-guide-building-gpt-6/",
+          "published": "2026-10-02（原文仅日期，时区未提供）"
+        },
+        {
+          "role": "社媒线索",
+          "site": "Telegram",
+          "url": "https://telegram.me/zaihuapd/44177",
+          "section": "zaihuapd",
+          "author": "zaihuapd",
+          "author_label": "频道账号",
+          "posted": "2026-10-03 00:21:39（北京时间 UTC+08:00）"
+        }
+      ]
+    },
+    {
+      "title": "3. LDraw Nova 作者展示 AI 生成积木 CAD 模型的开源工具链",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · anteloc/ldraw-nova",
+          "url": "https://github.com/anteloc/ldraw-nova"
+        },
+        {
+          "role": "作者展示帖",
+          "site": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49937916",
+          "author": "antelocnova",
+          "author_label": "发帖账号",
+          "posted": "2026-10-03 04:00:15（北京时间 UTC+08:00）",
+          "section": "Show HN"
+        }
+      ]
+    },
+    {
+      "title": "4. Supabase 宣布收购 Turso，面向 AI 代理扩展按需数据库",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Supabase",
+          "url": "https://supabase.com/blog/supabase-is-acquiring-turso",
+          "published": "2026-10-02 09:00（原文结构化时间未提供时区）"
+        },
+        {
+          "role": "社媒线索",
+          "site": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49934784",
+          "author": "cvburgess",
+          "author_label": "发帖账号",
+          "posted": "2026-10-02 23:43:03（北京时间 UTC+08:00）"
+        }
+      ]
+    },
+    {
+      "title": "5. Wagtail 团队公布一个月 AI 编程成本复盘：实验预算需要单列",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Wagtail",
+          "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+          "author": "Thibaud Colas",
+          "published": "2026-10-02（原文仅日期，时区未提供）"
+        },
+        {
+          "role": "社媒线索",
+          "site": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49934620",
+          "author": "ThibWeb",
+          "author_label": "发帖账号",
+          "posted": "2026-10-02 23:29:15（北京时间 UTC+08:00）"
+        }
+      ]
+    },
+    {
+      "title": "6. 美国非农公布后黄金盘中突破 4,220 美元，数据与行情合并观察",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "美国劳工统计局 BLS",
+          "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+          "published": "2026-10-02 20:30:00（北京时间 UTC+08:00）"
+        },
+        {
+          "role": "辅来源",
+          "site": "21 财经",
+          "url": "https://m.21jingji.com/article/20261002/herald/ff58098526eae4a7105c866403c88166.html",
+          "published": "2026-10-02 22:29:00（北京时间 UTC+08:00）"
+        }
+      ]
+    },
+    {
+      "title": "7. 新浪快讯：SPDR 黄金持仓较前一交易日增加 0.85 吨",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新浪财经",
+          "url": "https://wap.cj.sina.cn/pc/7x24/5123716",
+          "section": "7×24 快讯",
+          "published": "2026-10-02 13:30:43（北京时间 UTC+08:00）",
+          "note": "持仓数据所属日期：2026-10-01。"
+        }
+      ]
+    },
+    {
+      "title": "8. 韩国要求乌克兰就公开战俘转移信息道歉，乌方称外交误解",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Euronews",
+          "url": "https://www.euronews.com/2026/10/02/south-korea-warns-of-further-measures-if-ukraine-refuses-public-apology-over-pow-transfer-",
+          "published": "2026-10-02 13:34:26（北京时间 UTC+08:00）",
+          "updated": "2026-10-02 20:25:56（北京时间 UTC+08:00）"
+        },
+        {
+          "role": "社媒线索",
+          "site": "Reddit",
+          "url": "https://www.reddit.com/r/worldnews/comments/1wvnxt7/seoul_warns_of_further_measures_if_kyiv_refuses/",
+          "section": "r/worldnews",
+          "author": "Neptun_11",
+          "author_label": "发帖账号",
+          "posted": "2026-10-02 15:56:42（北京时间 UTC+08:00）",
+          "category": "Russia/Ukraine",
+          "category_label": "帖子标签"
+        }
+      ]
+    },
+    {
+      "title": "9. G7 宣布协调释放 1 亿桶储备，前 20 天优先投放柴油",
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "法国总统府",
+          "url": "https://www.elysee.fr/emmanuel-macron/2026/10/02/g7-leaders-statement-on-global-energy-security-and-market-stability",
+          "published": "2026-10-02（原文仅日期，时区未提供）"
+        },
+        {
+          "role": "社媒线索",
+          "site": "Reddit",
+          "url": "https://www.reddit.com/r/worldnews/comments/1wvvhop/g7_to_release_up_to_100_millions_of_barrels_of/",
+          "section": "r/worldnews",
+          "author": "Wowthefrea",
+          "author_label": "发帖账号",
+          "posted": "2026-10-02 22:37:58（北京时间 UTC+08:00）"
+        }
+      ]
+    }
+  ]
+}

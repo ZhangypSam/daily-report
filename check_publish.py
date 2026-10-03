@@ -4,6 +4,9 @@ import tempfile
 import contextlib
 import datetime as dt
 import io
+import json
+import re
+from urllib.parse import urlsplit, parse_qs
 from pathlib import Path
 from unittest.mock import patch
 import notify_wechat
@@ -36,4 +39,31 @@ for post in (Path(__file__).parent / "docs" / "_posts").glob("*.md"):
     text = post.read_text(encoding="utf-8")
     assert text.startswith("---\n") and f"permalink: /{post.name[:10]}/" in text
     assert "sk-proj-" not in text and "SERVERCHAN_SENDKEY=" not in text
+
+metadata_path = Path(__file__).parent / 'docs/_data/source_metadata.json'
+if metadata_path.exists():
+    metadata = json.loads(metadata_path.read_text(encoding='utf-8'))
+    fields = {'role', 'site', 'url', 'section', 'author', 'author_label', 'author_url',
+              'category', 'category_label', 'published', 'posted', 'updated', 'note'}
+    for date, entries in metadata.items():
+        assert re.fullmatch(r'\d{4}-\d{2}-\d{2}', date)
+        report = (Path(__file__).parent / f'docs/_posts/{date}-summary-zh.md').read_text(encoding='utf-8')
+        headlines = re.findall(r'^### (.+)$', report, re.M)
+        assert [entry['title'] for entry in entries] == headlines, 'Metadata must match every exact headline in order'
+        assert len(headlines) == len(set(headlines)), 'Metadata requires unique full headlines'
+        for entry in entries:
+            assert set(entry) == {'title', 'sources'} and entry['sources']
+            assert entry['sources'][0]['role'] == '主来源'
+            for source in entry['sources']:
+                assert {'role', 'site', 'url'} <= set(source) <= fields
+                assert all(isinstance(value, str) and value.strip() for value in source.values())
+                assert source['role'] in {'主来源', '辅来源', '社媒线索', '作者展示帖'}
+                assert not ('published' in source and 'posted' in source), 'Original publication and social posting belong to separate sources'
+                for name in ('url', 'author_url'):
+                    if name not in source:
+                        continue
+                    url = urlsplit(source[name])
+                    assert url.scheme == 'https' and url.hostname and not url.username and not url.password
+                    assert not {key.lower() for key in parse_qs(url.query)} & {'token', 'key', 'signature', 'access_token', 'x-amz-signature'}
+    print('Source metadata headline coverage, field boundaries and URL checks passed.')
 print("Publication format and notification payload checks passed.")

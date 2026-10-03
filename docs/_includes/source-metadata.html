@@ -1,0 +1,14 @@
+<div class="source-metadata" role="group" aria-label="来源信息">
+{% for source in include.sources %}
+  <p>
+    <strong>{{ source.role | escape }}</strong> · <a href="{{ source.url | escape }}">{{ source.site | escape }}</a>
+    {% if source.section %}<span> · 栏目/板块：{{ source.section | escape }}</span>{% endif %}
+    {% if source.author %}<span> · {{ source.author_label | default: '署名' | escape }}：{% if source.author_url %}<a href="{{ source.author_url | escape }}">{{ source.author | escape }}</a>{% else %}{{ source.author | escape }}{% endif %}</span>{% endif %}
+    {% if source.category %}<span> · {{ source.category_label | default: '网站分类' | escape }}：{{ source.category | escape }}</span>{% endif %}
+    {% if source.published %}<span> · 发布：{{ source.published | escape }}</span>{% endif %}
+    {% if source.posted %}<span> · 发帖：{{ source.posted | escape }}</span>{% endif %}
+    {% if source.updated %}<span> · 更新：{{ source.updated | escape }}</span>{% endif %}
+    {% if source.note %}<span> · {{ source.note | escape }}</span>{% endif %}
+  </p>
+{% endfor %}
+</div>

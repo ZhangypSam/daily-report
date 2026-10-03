@@ -5,3 +5,4 @@
 @media(max-width:480px){body{font-size:16px}.site-header nav{gap:16px;font-size:.8rem}.brand{font-size:1.15rem}.news-item{padding:18px 16px}.reading-layout{padding:24px 16px 40px}.site-footer{align-items:flex-start}.site-footer a{white-space:nowrap}td,th{padding:.5rem .3rem}}
 @media(prefers-color-scheme:dark){:root{--bg:#191c19;--paper:#222622;--ink:#e8ebe3;--muted:#b5beb0;--line:#3d463a;--accent:#f0b18b;--wash:#302921}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+.source-metadata{font-size:.8rem;line-height:1.8;color:var(--muted);padding:0 0 12px;margin:-4px 0 18px;border-bottom:1px solid var(--line)}.source-metadata p{margin:6px 0}.source-metadata strong{color:var(--ink)}.source-metadata a{overflow-wrap:anywhere}

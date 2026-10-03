@@ -1,0 +1,24 @@
+{% assign report_date = page.date | date: '%Y-%m-%d' %}
+{% assign entries = site.data.source_metadata[report_date] %}
+{% if entries %}
+  {% assign parts = content | split: '<h3 ' %}
+  {% for part in parts %}
+    {% if forloop.first %}
+      {{ part }}
+    {% else %}
+      {% assign heading = part | split: '</h3>' | first %}
+      {% assign title = heading | split: '>' | last | strip %}
+      <h3 {{ heading }}</h3>
+      {% for entry in entries %}
+        {% assign expected_title = entry.title | escape %}
+        {% if expected_title == title %}
+          {% include source-metadata.html sources=entry.sources %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+      {{ part | remove_first: heading | remove_first: '</h3>' }}
+    {% endif %}
+  {% endfor %}
+{% else %}
+  {{ content }}
+{% endif %}
