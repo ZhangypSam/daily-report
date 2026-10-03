@@ -12,6 +12,7 @@ from unittest.mock import patch
 import notify_wechat
 from notify_wechat import payload
 from image_policy import validate_image
+from keyword_policy import validate_keywords
 
 with tempfile.TemporaryDirectory() as folder:
     post = Path(folder) / "post.md"
@@ -53,7 +54,9 @@ if metadata_path.exists():
         assert [entry['title'] for entry in entries] == headlines, 'Metadata must match every exact headline in order'
         assert len(headlines) == len(set(headlines)), 'Metadata requires unique full headlines'
         for entry in entries:
-            assert {'title', 'sources'} <= set(entry) <= {'title', 'sources', 'image'} and entry['sources']
+            assert {'title', 'sources'} <= set(entry) <= {'title', 'sources', 'image', 'keywords'} and entry['sources']
+            if 'keywords' in entry:
+                validate_keywords(entry['keywords'])
             if 'image' in entry:
                 validate_image(entry['image'], entry['sources'])
             assert entry['sources'][0]['role'] == '主来源'

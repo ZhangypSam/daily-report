@@ -1,7 +1,18 @@
+{% assign display_content = content %}
+{% assign opening_content = content | split: '<h2' | first %}
+{% assign opening_tables = opening_content | split: '<table>' %}
+{% for table_part in opening_tables offset:1 %}
+  {% assign table_body = table_part | split: '</table>' | first %}
+  {% if table_body contains '本期条数' and table_body contains '上限' and table_body contains '主题' %}
+    {% capture old_table %}<table>{{ table_body }}</table>{% endcapture %}
+    {% capture hidden_table %}<table class="topic-counts" hidden>{{ table_body }}</table>{% endcapture %}
+    {% assign display_content = display_content | replace: old_table, hidden_table %}
+  {% endif %}
+{% endfor %}
 {% assign report_date = page.date | date: '%Y-%m-%d' %}
 {% assign entries = site.data.source_metadata[report_date] %}
 {% if entries %}
-  {% assign parts = content | split: '<h3 ' %}
+  {% assign parts = display_content | split: '<h3 ' %}
   {% for part in parts %}
     {% if forloop.first %}
       {{ part }}
@@ -12,6 +23,9 @@
       {% for entry in entries %}
         {% assign expected_title = entry.title | escape %}
         {% if expected_title == title %}
+          {% if entry.keywords %}
+            <ul class="news-keywords" aria-label="关键词">{% for keyword in entry.keywords %}<li>{{ keyword | escape }}</li>{% endfor %}</ul>
+          {% endif %}
           {% include source-metadata.html sources=entry.sources %}
           {% if entry.image %}{% include source-image.html image=entry.image %}{% endif %}
           {% break %}
@@ -21,5 +35,5 @@
     {% endif %}
   {% endfor %}
 {% else %}
-  {{ content }}
+  {{ display_content }}
 {% endif %}

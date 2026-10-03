@@ -19,6 +19,11 @@
           "section": "Posts",
           "published": "2026-10-01（原文仅日期，时区未提供）"
         }
+      ],
+      "keywords": [
+        "Pi",
+        "MCP",
+        "持久化代理"
       ]
     },
     {
@@ -38,6 +43,11 @@
           "section": "Releases",
           "published": "2026-10-02 04:55（北京时间 UTC+08:00）"
         }
+      ],
+      "keywords": [
+        "llama.cpp",
+        "张量复制",
+        "图像批处理"
       ]
     },
     {
@@ -49,6 +59,11 @@
           "url": "https://blog.cloudflare.com/clef-decision-models/",
           "published": "2026-10-01 23:34（北京时间 UTC+08:00）"
         }
+      ],
+      "keywords": [
+        "Cloudflare",
+        "决策模型",
+        "开放权重"
       ]
     },
     {
@@ -60,6 +75,11 @@
           "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
           "published": "2026-10-01 21:00（北京时间 UTC+08:00）"
         }
+      ],
+      "keywords": [
+        "AI代理",
+        "Git平台",
+        "开发竞赛"
       ]
     },
     {
@@ -71,6 +91,11 @@
           "url": "https://www.fx168news.com/article/%E9%BB%84%E9%87%91-1099088",
           "note": "原文正文与结构化时间标记有冲突，未以 Google News 收录时间替代发布时间。"
         }
+      ],
+      "keywords": [
+        "黄金预测",
+        "美国银行",
+        "能源价格"
       ]
     },
     {
@@ -83,6 +108,11 @@
           "published": "2026-10-01（原文仅日期，时区未提供）",
           "updated": "2026-10-02 03:55（北京时间 UTC+08:00；转载更新）"
         }
+      ],
+      "keywords": [
+        "柴油储备",
+        "出口限制",
+        "美欧谈判"
       ]
     },
     {
@@ -94,6 +124,11 @@
           "url": "https://www.bloomberg.com/news/articles/2026-10-01/korea-disputes-trump-s-claim-it-agreed-to-invest-in-alaska-lng",
           "published": "2026-10-01 17:09（北京时间 UTC+08:00）"
         }
+      ],
+      "keywords": [
+        "韩国",
+        "LNG投资",
+        "商业可行性"
       ]
     },
     {
@@ -105,6 +140,11 @@
           "url": "https://www.euronews.com/2026/10/01/russia-expels-hungarian-diplomats-as-budapest-breaks-with-orban-era",
           "published": "2026-10-01 22:18（北京时间 UTC+08:00）"
         }
+      ],
+      "keywords": [
+        "俄罗斯",
+        "匈牙利",
+        "外交驱逐"
       ]
     },
     {
@@ -116,6 +156,11 @@
           "url": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html",
           "published": "2026-10-01（原文仅日期，时区未提供）"
         }
+      ],
+      "keywords": [
+        "美国国债",
+        "长期利率",
+        "报价时点"
       ]
     },
     {
@@ -128,6 +173,11 @@
           "published": "2026-10（现有记录仅确认发布月份）",
           "note": "报告数据所属月份：2026-09。"
         }
+      ],
+      "keywords": [
+        "制造业PMI",
+        "价格指数",
+        "ISM"
       ]
     }
   ],
@@ -144,6 +194,11 @@
           "author_label": "发布账号",
           "published": "2026-10-03 07:53:18（北京时间 UTC+08:00）"
         }
+      ],
+      "keywords": [
+        "llama.cpp",
+        "决策模型",
+        "预发布"
       ]
     },
     {
@@ -164,6 +219,11 @@
           "author_label": "频道账号",
           "posted": "2026-10-03 00:21:39（北京时间 UTC+08:00）"
         }
+      ],
+      "keywords": [
+        "GPT-6",
+        "任务质量",
+        "使用成本"
       ]
     },
     {
@@ -183,6 +243,11 @@
           "posted": "2026-10-03 04:00:15（北京时间 UTC+08:00）",
           "section": "Show HN"
         }
+      ],
+      "keywords": [
+        "LDraw Nova",
+        "积木CAD",
+        "AI生成"
       ]
     },
     {
@@ -202,6 +267,11 @@
           "author_label": "发帖账号",
           "posted": "2026-10-02 23:43:03（北京时间 UTC+08:00）"
         }
+      ],
+      "keywords": [
+        "Supabase",
+        "Turso",
+        "代理数据库"
       ]
     },
     {
@@ -222,6 +292,11 @@
           "author_label": "发帖账号",
           "posted": "2026-10-02 23:29:15（北京时间 UTC+08:00）"
         }
+      ],
+      "keywords": [
+        "AI编程",
+        "成本复盘",
+        "实验预算"
       ]
     },
     {
@@ -239,6 +314,11 @@
           "url": "https://m.21jingji.com/article/20261002/herald/ff58098526eae4a7105c866403c88166.html",
           "published": "2026-10-02 22:29:00（北京时间 UTC+08:00）"
         }
+      ],
+      "keywords": [
+        "美国非农",
+        "黄金价格",
+        "利率预期"
       ]
     },
     {
@@ -252,6 +332,11 @@
           "published": "2026-10-02 13:30:43（北京时间 UTC+08:00）",
           "note": "持仓数据所属日期：2026-10-01。"
         }
+      ],
+      "keywords": [
+        "SPDR",
+        "黄金持仓",
+        "资金流向"
       ]
     },
     {
@@ -275,6 +360,11 @@
           "category": "Russia/Ukraine",
           "category_label": "帖子标签"
         }
+      ],
+      "keywords": [
+        "韩国",
+        "乌克兰",
+        "战俘转移"
       ]
     },
     {
@@ -295,6 +385,11 @@
           "author_label": "发帖账号",
           "posted": "2026-10-02 22:37:58（北京时间 UTC+08:00）"
         }
+      ],
+      "keywords": [
+        "G7",
+        "储备释放",
+        "柴油供应"
       ]
     }
   ]

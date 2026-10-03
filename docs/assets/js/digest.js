@@ -22,7 +22,7 @@
   if (!groups.length) return;
   const toc = document.createElement('details');
   toc.className = 'digest-toc';
-  toc.open = !window.matchMedia('(max-width: 900px)').matches;
+  toc.open = true;
   const summary = document.createElement('summary');
   summary.textContent = '本期速览 · 栏目导航';
   toc.append(summary);
@@ -39,7 +39,7 @@
     }
     const category = document.createElement('a');
     category.className = 'toc-group'; category.href = `#${heading.id}`;
-    category.textContent = `${heading.textContent} · ${titles.length} 条`;
+    category.textContent = heading.textContent;
     const group = document.createElement('div'); group.className = 'toc-section';
     group.append(category); nav.append(group);
     const list = document.createElement('ol'); group.append(list);
