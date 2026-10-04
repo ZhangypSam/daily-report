@@ -392,5 +392,157 @@
         "柴油供应"
       ]
     }
+  ],
+  "2026-10-04": [
+    {
+      "title": "1. Kolibri 开放权重模型发布，主打德英双语与长上下文",
+      "keywords": [
+        "Kolibri",
+        "开放权重",
+        "德英双语"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Aleph Alpha",
+          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+          "section": "Research",
+          "published": "2026-10-03（仅日期，原文未注明时区）"
+        },
+        {
+          "role": "辅来源",
+          "site": "Hugging Face",
+          "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "author": "Aleph-Alpha",
+          "published": "2026-10-03（模型卡 Release Date；时区未注明）"
+        },
+        {
+          "role": "社媒线索",
+          "site": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49942706",
+          "author": "bastitx",
+          "author_label": "发帖账号",
+          "posted": "2026-10-03T09:36:04Z",
+          "note": "采样于2026-10-04 01:00:29 UTC：498分、298条评论；为帖子累计快照，非全网热度排名或24小时增量"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期榜单发现：Ponytail 让编程代理先复用、再写代码",
+      "keywords": [
+        "Ponytail",
+        "代码复用",
+        "编程代理"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "author": "DietrichGebert",
+          "note": "仓库维护者；本期为榜单发现，不代表今日新发布"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期榜单发现：Impeccable 为 AI 界面设计提供审查工具",
+      "keywords": [
+        "Impeccable",
+        "界面设计",
+        "设计审查"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/pbakaus/impeccable",
+          "author": "pbakaus",
+          "note": "仓库维护者；本期为榜单发现，不代表今日新发布"
+        }
+      ]
+    },
+    {
+      "title": "4. 卫报报道 OpenAI 安全报告负责人辞职，双方对安全文化各作说明",
+      "keywords": [
+        "OpenAI",
+        "安全文化",
+        "辞职"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "author": "Dan Milmo",
+          "section": "OpenAI",
+          "published": "2026-10-03 19:41:21 UTC",
+          "updated": "2026-10-03 20:09:36 UTC"
+        },
+        {
+          "role": "社媒线索",
+          "site": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49948332",
+          "author": "jethronethro",
+          "author_label": "发帖账号",
+          "posted": "2026-10-03T22:18:13Z",
+          "note": "采样于2026-10-04 01:00:29 UTC：97分、57条评论；为帖子累计快照，非全网热度排名或24小时增量"
+        }
+      ]
+    },
+    {
+      "title": "5. Simon Willison 呼吁默认硬预算上限，约束代理应用用量成本",
+      "keywords": [
+        "硬预算",
+        "用量计费",
+        "编程代理"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+          "author": "Simon Willison",
+          "category": "amazon-web-services、ai、coding-agents",
+          "published": "2026-10-03 23:34:02 UTC（作者 RSS；正文页显示23:34）"
+        }
+      ]
+    },
+    {
+      "title": "6. 摩尔多瓦总统称俄方导弹与无人机在境内爆炸，媒体称暂未报告伤亡",
+      "keywords": [
+        "摩尔多瓦",
+        "无人机",
+        "领空"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/5-russian-missiles-and-drones-exploded-over-moldovas-airspace-sandu-says/",
+          "author": "Jonas Heins",
+          "section": "War",
+          "published": "2026-10-03 13:03:27 UTC+03:00",
+          "updated": "2026-10-03 14:22:11 UTC+03:00"
+        }
+      ]
+    },
+    {
+      "title": "7. Euronews：中国启动对欧盟化工品反倾销调查，贸易会谈临近",
+      "keywords": [
+        "反倾销",
+        "对硝基甲苯",
+        "中欧贸易"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Euronews",
+          "url": "https://www.euronews.com/2026/10/03/china-opens-anti-dumping-probe-into-eu-days-before-beijing-trade-talks",
+          "author": "Simon Ormiston",
+          "published": "2026-10-03 12:09:07 UTC+02:00",
+          "category": "Anti dumping、International trade、EU-China"
+        }
+      ]
+    }
   ]
 }
