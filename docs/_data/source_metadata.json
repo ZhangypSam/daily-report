@@ -544,5 +544,312 @@
         }
       ]
     }
+  ],
+  "2026-10-06": [
+    {
+      "title": "1. llama.cpp v0.6.0 发布，新增模型与推测解码支持",
+      "keywords": [
+        "本地推理",
+        "llama.cpp",
+        "推测解码"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.6.0",
+          "published": "2026-10-05 16:56:22 UTC",
+          "section": "Releases"
+        }
+      ]
+    },
+    {
+      "title": "2. Claude Cowork 云端迁移：官方说明 10 月 6 日的新任务变化",
+      "keywords": [
+        "Cowork",
+        "云端任务",
+        "本地文件"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+          "published": "2026-10-05 23:56:47 UTC（原始 Atom 记录）",
+          "author": "Simon Willison"
+        },
+        {
+          "role": "辅来源",
+          "site": "Claude Help Center",
+          "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile#h_f951c27c48",
+          "note": "官方产品说明；事件日期 2026-10-06，未标切换时区；页面更新日期 2026-09-30"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期日榜发现：Claude-Mem 为代理保存跨会话上下文",
+      "keywords": [
+        "代理记忆",
+        "上下文",
+        "Claude-Mem"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "published": "本条为榜单采样，非新发布；2026-10-06 01:00:08 UTC"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "本批原始日榜证据；采样 2026-10-06 01:00:08 UTC，第 2 名，展示增量 534 stars"
+        }
+      ]
+    },
+    {
+      "title": "4. 近期日榜发现：OpenMontage 组织代理视频制作流程",
+      "keywords": [
+        "视频制作",
+        "代理工作流",
+        "OpenMontage"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "published": "本条为榜单采样，非新发布；2026-10-06 01:00:08 UTC"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "本批日榜采样 2026-10-06 01:00:08 UTC，第 7 名，展示增量 742 stars"
+        }
+      ]
+    },
+    {
+      "title": "5. 周榜补充发现：Hindsight 的代理长期记忆框架",
+      "keywords": [
+        "长期记忆",
+        "Hindsight",
+        "代理检索"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "published": "周榜补充发现，非 24 小时新闻；2026-10-06 01:00:09 UTC"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=weekly",
+          "note": "本批周榜采样 2026-10-06 01:00:09 UTC，第 3 名，展示增量 6,565 stars；不等于最近 24 小时新闻"
+        }
+      ]
+    },
+    {
+      "title": "6. Reflection 公布 Beam，权重计划稍后开放",
+      "keywords": [
+        "Beam",
+        "开放权重",
+        "混合专家"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Reflection",
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "published": "2026-10-05（原文仅日期，未标时区）",
+          "section": "News"
+        }
+      ]
+    },
+    {
+      "title": "7. Nieman Lab 调查生成漫画冒用真实作者签名",
+      "keywords": [
+        "图像生成",
+        "作者签名",
+        "内容归属"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Nieman Lab",
+          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+          "published": "2026-10-05 16:01（原文未标时区）",
+          "author": "Andrew Deck"
+        }
+      ]
+    },
+    {
+      "title": "8. 华为与高通宣布多年专利交叉许可协议",
+      "keywords": [
+        "专利许可",
+        "华为",
+        "高通"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Huawei",
+          "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+          "published": "2026-10-05（深圳公告，未标具体时刻）"
+        }
+      ]
+    },
+    {
+      "title": "9. OpenAI 宣布在图像生成过程中测试视觉广告",
+      "keywords": [
+        "视觉广告",
+        "转化衡量",
+        "ChatGPT"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
+          "published": "2026-10-05 06:28:45 UTC−04:00",
+          "author": "Mayank Parmar",
+          "section": "Artificial Intelligence"
+        },
+        {
+          "role": "辅来源",
+          "site": "OpenAI",
+          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement/",
+          "published": "2026-10-05（官方主文日期，未标时区）",
+          "author": "OpenAI",
+          "section": "Product"
+        }
+      ]
+    },
+    {
+      "title": "10. FX168 报道纳格尔谈央行黄金储备多元化",
+      "keywords": [
+        "央行储备",
+        "黄金配置",
+        "纳格尔"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "FX168",
+          "url": "https://www.fx168news.com/article/%E9%BB%84%E9%87%91-1099655",
+          "published": "2026-10-06 02:37:42 Asia/Shanghai（UTC+08:00）",
+          "author": "娟然"
+        }
+      ]
+    },
+    {
+      "title": "11. 半岛电视台：土巴沙启动共同防御措施",
+      "keywords": [
+        "共同防御",
+        "沙特",
+        "也门"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Al Jazeera",
+          "url": "https://www.aljazeera.com/amp/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures",
+          "published": "2026-10-05 18:32:04 UTC",
+          "author": "Al Jazeera Staff",
+          "section": "US-Israel war on Iran"
+        }
+      ]
+    },
+    {
+      "title": "12. 《卫报》报道英以领事馆争端与对等驱逐威胁",
+      "keywords": [
+        "英国",
+        "以色列",
+        "外交争端"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/05/uk-threatens-to-expel-israeli-diplomats-after-closing-of-east-jerusalem-consulate?CMP=share_btn_url",
+          "published": "2026-10-05 13:53:46 EDT（UTC−04:00）",
+          "author": "Patrick Wintour",
+          "section": "Israel"
+        }
+      ]
+    },
+    {
+      "title": "13. Sky News：西班牙首相宣布 11 月提前选举",
+      "keywords": [
+        "西班牙",
+        "提前选举",
+        "住房政策"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Sky News",
+          "url": "https://news.sky.com/share/13595243",
+          "published": "2026-10-05 16:21 UK（BST，UTC+01:00）"
+        }
+      ]
+    },
+    {
+      "title": "14. 乌克兰媒体转述铁路机车储备与出口运输压力",
+      "keywords": [
+        "乌克兰",
+        "铁路运输",
+        "出口物流"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Ukrainska Pravda",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/05/8056507/",
+          "published": "2026-10-05 11:11 UTC+03:00",
+          "author": "Artur Kryzhnyi",
+          "section": "News"
+        }
+      ]
+    },
+    {
+      "title": "15. 堪萨斯城联储研究：AI 融资风险不只在估值",
+      "keywords": [
+        "AI融资",
+        "债务风险",
+        "资本开支"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Federal Reserve Bank of Kansas City",
+          "url": "https://www.kansascityfed.org/research/economic-bulletin/beyond-valuations-long-term-financial-risks-from-the-ai-build-out/",
+          "published": "2026-10-05（原文仅日期，未标时区）",
+          "author": "Padma Sharma；Pierce George",
+          "section": "Economic Bulletin"
+        }
+      ]
+    },
+    {
+      "title": "16. Reason 评论讨论美债收益率与政策可信度",
+      "keywords": [
+        "美国国债",
+        "政策信用",
+        "债券市场"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Reason",
+          "url": "https://reason.com/2026/10/05/the-bond-market-doesnt-trust-the-treasury/",
+          "published": "2026-10-05 15:51:53 EDT（UTC−04:00）",
+          "author": "Jared Dillian",
+          "section": "Treasury"
+        }
+      ]
+    }
   ]
 }
