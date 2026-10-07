@@ -851,5 +851,336 @@
         }
       ]
     }
+  ],
+  "2026-10-07": [
+    {
+      "title": "1. Google 发布 EmbeddingGemma 2，支持端侧多模态检索",
+      "keywords": [
+        "端侧检索",
+        "多模态",
+        "EmbeddingGemma"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Google The Keyword",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+          "published": "2026-10-06 16:00 UTC",
+          "author": "Sahil Dua、Henrique Schechter Vera"
+        }
+      ]
+    },
+    {
+      "title": "2. Decisions API 进入公测，LLM 插件同步发布 alpha",
+      "keywords": [
+        "决策接口",
+        "LLM插件",
+        "公测"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+          "published": "2026-10-06 23:04:13 UTC（作者 RSS 条目）",
+          "author": "Simon Willison",
+          "note": "网页显示 10 月 6 日 23:04，但未标时区；精确 UTC 时间来自本批次归档的作者 RSS，不是 HN 发帖时间。"
+        },
+        {
+          "role": "辅来源",
+          "site": "OpenAI 开发者文档",
+          "url": "https://developers.openai.com/api/docs/guides/decisions",
+          "note": "已读公测状态和接口说明；文档页未标发布日期。"
+        }
+      ]
+    },
+    {
+      "title": "3. llm-mistral 0.16 增加推理模型支持",
+      "keywords": [
+        "Mistral",
+        "推理模型",
+        "LLM插件"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+          "published": "2026-10-06 21:32:34 UTC（作者 RSS 条目）",
+          "author": "Simon Willison",
+          "note": "页面显示 10 月 6 日 21:32、未标时区；UTC 时间来自本批次作者 RSS。"
+        }
+      ]
+    },
+    {
+      "title": "4. 近期日榜发现：e2e 用代理执行网页与移动端测试",
+      "keywords": [
+        "端到端测试",
+        "代理",
+        "e2e"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "author": "tester-army",
+          "note": "近期榜单发现：2026-10-07 01:00:12 UTC 日榜采样；项目发布/事件时间未确认。"
+        }
+      ]
+    },
+    {
+      "title": "5. 近期日榜发现：text-to-cad 为代理提供本地 CAD 工作流",
+      "keywords": [
+        "CAD",
+        "代理",
+        "三维模型"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "author": "earthtojake",
+          "note": "2026-10-07 01:00:12 UTC 日榜采样；不以采样、累计星数或仓库推送时间替代发布日期。"
+        }
+      ]
+    },
+    {
+      "title": "6. OpenAI 公开内部模型产生的数学结果与部分 Lean 形式化",
+      "keywords": [
+        "数学",
+        "Lean",
+        "OpenAI"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+          "published": "2026-10-06（官方仅标日期，时区未注明）",
+          "author": "OpenAI"
+        }
+      ]
+    },
+    {
+      "title": "7. Mistral Large 4 开放预览，权重计划月底发布",
+      "keywords": [
+        "Mistral Large 4",
+        "模型预览",
+        "开放权重"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Mistral",
+          "url": "https://mistral.ai/news/mistral-large-4/",
+          "published": "2026-10-06（官方日期，时区未注明）",
+          "author": "Mistral"
+        }
+      ]
+    },
+    {
+      "title": "8. TIME 调查 Muse 的用户画像与数据处理，Meta 作出回应",
+      "keywords": [
+        "Muse",
+        "隐私",
+        "用户画像"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "TIME",
+          "url": "https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/",
+          "published": "2026-10-06 13:44:28 UTC",
+          "author": "Harry Booth"
+        }
+      ]
+    },
+    {
+      "title": "9. TechSpot 介绍犹他州 AI 痤疮试点，医生复核分阶段进行",
+      "keywords": [
+        "医疗试点",
+        "AI",
+        "医生复核"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "TechSpot",
+          "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+          "published": "2026-10-06 09:29 UTC−05:00"
+        }
+      ]
+    },
+    {
+      "title": "10. 财联社报道 GLM-5.3 接入 Bedrock，按模型调用量分成",
+      "keywords": [
+        "智谱",
+        "云分成",
+        "GLM-5.3"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社 · 科创板日报",
+          "url": "https://m.cls.cn/detail/2498254",
+          "published": "2026-10-06 18:51（原页未注明时区）",
+          "author": "李明明"
+        }
+      ]
+    },
+    {
+      "title": "11. 水贝金饰消费回暖：记者走访与商户销量自述",
+      "keywords": [
+        "水贝",
+        "金饰消费",
+        "商户自述"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新浪财经（转载 21世纪经济报道，正文注明证券时报记者走访）",
+          "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-06/doc-iniuhpzf5629488.shtml?cre=tianyi&loc=7&mod=pchp&r=0&rfunc=88&tj=cxvertical_pc_hp&tr=12",
+          "published": "2026-10-06 15:00 UTC+08:00（转载页）",
+          "note": "已读完整转载正文；本条依据为记者走访及具名商户自述，不是独立市场销量统计。"
+        }
+      ]
+    },
+    {
+      "title": "12. Euronews：保加利亚近海两艘商船遭无人机袭击",
+      "keywords": [
+        "黑海",
+        "商船",
+        "搜救"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Euronews",
+          "url": "https://www.euronews.com/2026/10/06/drones-hit-two-ships-off-coast-of-bulgaria-as-government-calls-emergency-meeting",
+          "published": "2026-10-06 09:22:16 UTC+02:00；更新 17:51:33 UTC+02:00",
+          "author": "Simon Ormiston、Anna Kirchheim"
+        }
+      ]
+    },
+    {
+      "title": "13. 德国前情报主管被捕，检方提出间谍活动指控",
+      "keywords": [
+        "德国",
+        "情报",
+        "间谍指控"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "DW 德国之声",
+          "url": "https://www.dw.com/en/germanys-ex-spy-chief-arrested-for-espionage/a-79560278",
+          "published": "2026-10-06 08:10:50 UTC（原页元数据）"
+        }
+      ]
+    },
+    {
+      "title": "14. 乌媒转述俄方回应立陶宛核武器驻扎禁令修订",
+      "keywords": [
+        "立陶宛",
+        "核武器",
+        "俄方回应"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Ukrainska Pravda",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/06/8056704/",
+          "published": "2026-10-06 14:23 UTC+03:00",
+          "author": "Olha Kovalchuk、Anastasia Prots"
+        }
+      ]
+    },
+    {
+      "title": "15. 新华财经：美国 8 月贸易逆差升至 1056 亿美元",
+      "keywords": [
+        "美国贸易",
+        "逆差",
+        "进口"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经 · 中国金融信息网",
+          "url": "https://www.cnfin.com/yw-lb/detail/20261007/4477664_1.html",
+          "published": "2026-10-07（原页日期，时区未另标）",
+          "author": "刘亚南"
+        }
+      ]
+    },
+    {
+      "title": "16. 德国 8 月工业订单下降 10.6%，剔除大额订单后降 0.1%",
+      "keywords": [
+        "德国订单",
+        "大额订单",
+        "制造业"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经 · 中国金融信息网",
+          "url": "https://www.cnfin.com/yw-lb/detail/20261007/4477646_1.html",
+          "published": "2026-10-07（原页日期，时区未另标）",
+          "author": "车云龙"
+        }
+      ]
+    },
+    {
+      "title": "17. 世界银行上调东亚太平洋 2026 年增长预测至 4.5%",
+      "keywords": [
+        "世界银行",
+        "增长预测",
+        "东亚太平洋"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经 · 中国金融信息网",
+          "url": "https://www.cnfin.com/yw-lb/detail/20261006/4477599_1.html",
+          "published": "2026-10-06（原页日期，时区未另标）",
+          "author": "刘亚南"
+        }
+      ]
+    },
+    {
+      "title": "18. Ars Technica：Paramount 与 Warner 合并完成，交易额 1110 亿美元",
+      "keywords": [
+        "传媒并购",
+        "Skydance",
+        "反垄断"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+          "published": "2026-10-06 17:33:44 UTC",
+          "author": "Jon Brodkin"
+        }
+      ]
+    },
+    {
+      "title": "19. 特朗普称考虑暂停联邦汽油税，仍需国会行动",
+      "keywords": [
+        "汽油税",
+        "美国",
+        "国会"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/06/trump-federal-gas-tax",
+          "published": "2026-10-06 21:19:47 UTC",
+          "author": "Joseph Gedeon"
+        }
+      ]
+    }
   ]
 }
