@@ -1182,5 +1182,314 @@
         }
       ]
     }
+  ],
+  "2026-10-09": [
+    {
+      "title": "1. OpenAI 为 GPT-6.1 Sol 增加 Ultrafast 服务层级",
+      "keywords": [
+        "服务层级",
+        "生成速度",
+        "Responses"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI Developers",
+          "url": "https://developers.openai.com/api/docs/changelog",
+          "published": "2026-10-08（官方仅列日期，未注明时区）",
+          "section": "Changelog"
+        }
+      ]
+    },
+    {
+      "title": "2. OpenRouter 上线 Step 5 Preview，列出百万 token 上下文",
+      "keywords": [
+        "阶跃星辰",
+        "长上下文",
+        "模型接口"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenRouter",
+          "url": "https://openrouter.ai/stepfun/step-5-preview",
+          "published": "2026-10-08（模型页 Released 日期；未注明时区）",
+          "section": "Models"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期榜单发现：Diagram Design 提供 HTML 与 SVG 图表技能",
+      "keywords": [
+        "图表技能",
+        "SVG",
+        "工作流"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "published": "未核实项目发布日期；本期为榜单采样发现",
+          "author": "cathrynlavery",
+          "section": "README"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "section": "daily",
+          "note": "榜单采样时间 2026-10-09T01:06:16.459558+00:00；排名 2；窗口 stars 1160；不是项目发布或事件时间。"
+        }
+      ]
+    },
+    {
+      "title": "4. 近期榜单发现：Matt Pocock 的工程技能库强调可组合实践",
+      "keywords": [
+        "工程技能",
+        "架构",
+        "代码审查"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/mattpocock/skills",
+          "published": "未核实项目发布日期；本期为榜单采样发现",
+          "author": "mattpocock",
+          "section": "README"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "section": "daily",
+          "note": "榜单采样时间 2026-10-09T01:06:16.459558+00:00；排名 4；窗口 stars 1774；不是项目发布或事件时间。"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=weekly",
+          "section": "weekly",
+          "note": "榜单采样时间 2026-10-09T01:06:17.914159+00:00；排名 7；窗口 stars 7448；不是项目发布或事件时间。"
+        }
+      ]
+    },
+    {
+      "title": "5. 近期榜单发现：Anthropic 的知识工作插件覆盖多种岗位",
+      "keywords": [
+        "知识工作",
+        "插件",
+        "连接器"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "published": "未核实项目发布日期；本期为榜单采样发现",
+          "author": "anthropics",
+          "section": "README"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "section": "daily",
+          "note": "榜单采样时间 2026-10-09T01:06:16.459558+00:00；排名 7；窗口 stars 392；不是项目发布或事件时间。"
+        }
+      ]
+    },
+    {
+      "title": "6. Anthropic 公布新使用政策，11 月 12 日生效",
+      "keywords": [
+        "使用政策",
+        "智能体",
+        "人工监督"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Anthropic",
+          "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+          "published": "2026-10-08 17:00 UTC",
+          "section": "Announcements"
+        }
+      ]
+    },
+    {
+      "title": "7. 数学研究者质疑 AI 证明的可读性与审查负担",
+      "keywords": [
+        "数学证明",
+        "可读性",
+        "科研核验"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Asaf Karagila",
+          "url": "https://karagila.org/2026/openai-pp/",
+          "published": "2026-10-08 10:25（原站未注明时区）",
+          "author": "Asaf Karagila"
+        }
+      ]
+    },
+    {
+      "title": "8. 财联社报道：Manus 母公司完成超过 5 亿美元融资",
+      "keywords": [
+        "Manus",
+        "融资",
+        "智能体商业"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社",
+          "url": "https://www.cls.cn/detail/2499126",
+          "published": "2026-10-08 12:19:38（原页未注明时区）",
+          "section": "电报"
+        }
+      ]
+    },
+    {
+      "title": "9. Muse 商业化报道：网站访问权限成为变现障碍",
+      "keywords": [
+        "代理商务",
+        "网站权限",
+        "变现"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3783144",
+          "published": "2026-10-08 01:51:08 UTC（页面时间字段）",
+          "author": "赵颖"
+        }
+      ]
+    },
+    {
+      "title": "10. 中新经纬报道节后黄金开盘回落，区分境内外报价",
+      "keywords": [
+        "黄金报价",
+        "节后开盘",
+        "利率"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中新经纬",
+          "url": "https://www.jwview.com/jingwei/html/m/10-08/691541.shtml",
+          "published": "2026-10-08 17:54:48（原页未注明时区）",
+          "author": "李自曼"
+        }
+      ]
+    },
+    {
+      "title": "11. 荷兰防长称俄罗斯为“敌人”，同时强调并非处于战争状态",
+      "keywords": [
+        "荷兰",
+        "俄罗斯",
+        "防务"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "NL Times",
+          "url": "https://nltimes.nl/2026/10/08/netherlands-now-views-russia-enemy-aggressor-says-defense-min",
+          "published": "2026-10-08 13:40 +02:00",
+          "section": "Politics"
+        }
+      ]
+    },
+    {
+      "title": "12. 泽连斯基称乌克兰代表团将与美国特使讨论停火提议",
+      "keywords": [
+        "乌克兰",
+        "停火谈判",
+        "美方特使"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/zelensky-sends-delegation-to-meet-trump-envoys-as-he-hints-at-secret-us-russia-economic-talks/",
+          "published": "2026-10-08 18:37:08 UTC（页面时间字段）",
+          "author": "Tim Zadorozhnyy",
+          "section": "Politics"
+        }
+      ]
+    },
+    {
+      "title": "13. 美联社报道美国暂停微软等企业参与绿卡申请项目",
+      "keywords": [
+        "美国移民",
+        "微软",
+        "绿卡项目"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "AP News",
+          "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+          "published": "2026-10-08（元数据另列 14:37:04，未注明时区）",
+          "section": "U.S."
+        }
+      ]
+    },
+    {
+      "title": "14. 央行阐明汇率政策：市场决定与防范短期剧烈波动",
+      "keywords": [
+        "人民币",
+        "汇率政策",
+        "市场供求"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "人民日报",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202610/09/content_30184636.html",
+          "published": "2026-10-09（第 02 版；报道事件发生于 10 月 8 日）",
+          "author": "葛孟超",
+          "section": "第02版"
+        }
+      ]
+    },
+    {
+      "title": "15. 美国初请失业金降至 19.7 万，美联社提示招聘仍偏慢",
+      "keywords": [
+        "美国就业",
+        "失业金",
+        "招聘"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "AP News",
+          "url": "https://apnews.com/article/employment-jobs-economy-layoffs-inflation-7d52b48a5f41e60630d96c7a1711774c",
+          "published": "2026-10-08（元数据另列 12:44:15，未注明时区）",
+          "author": "CHRISTOPHER RUGABER",
+          "section": "Business"
+        }
+      ]
+    },
+    {
+      "title": "16. 新华社报道 WTO 上调货物贸易预期、下调服务贸易预期",
+      "keywords": [
+        "全球贸易",
+        "WTO",
+        "人工智能投资"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新浪财经／新华社",
+          "url": "https://finance.sina.com.cn/roll/2026-10-08/doc-iniupnuv7586359.shtml",
+          "published": "2026-10-08 21:27（页面显示；元数据为 21:29:36 +08:00，保留差异）",
+          "author": "焦倩",
+          "section": "滚动新闻"
+        }
+      ]
+    }
   ]
 }
