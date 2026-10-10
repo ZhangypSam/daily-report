@@ -1491,5 +1491,272 @@
         }
       ]
     }
+  ],
+  "2026-10-10": [
+    {
+      "title": "1. Simon Willison 用语音完成博客功能，再切回键盘审核",
+      "keywords": [
+        "语音编程",
+        "Codex",
+        "人工审核"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+          "published": "2026-10-09 12:54 pm（网页未标时区）；本次作者 Atom 归档发布时间为 12:54:06 UTC",
+          "author": "Simon Willison"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期榜单发现：REA 将逆向工程证据接入编程代理",
+      "keywords": [
+        "逆向工程",
+        "REA",
+        "MCP"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/morluto/rea",
+          "section": "仓库 README",
+          "note": "近期日榜发现，不代表新发布"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub",
+          "url": "https://github.com/trending?since=daily",
+          "section": "日趋势榜",
+          "note": "归档采样 2026-10-10 01:06:00.279438 UTC，排名 1"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期榜单发现：阿里 Open Code Review 结合规则与代理审查",
+      "keywords": [
+        "代码审查",
+        "阿里",
+        "规则约束"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/alibaba/open-code-review",
+          "section": "仓库 README",
+          "note": "近期日榜发现，不代表新发布"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub",
+          "url": "https://github.com/trending?since=daily",
+          "section": "日趋势榜",
+          "note": "归档采样 2026-10-10 01:06:00.279438 UTC，排名 5"
+        }
+      ]
+    },
+    {
+      "title": "4. 近期榜单发现：Agent Skills 把工程流程拆成可组合技能",
+      "keywords": [
+        "工程技能",
+        "测试",
+        "工作流"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "section": "仓库 README",
+          "note": "近期日榜发现，不代表新发布"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub",
+          "url": "https://github.com/trending?since=daily",
+          "section": "日趋势榜",
+          "note": "归档采样 2026-10-10 01:06:00.279438 UTC，排名 8"
+        }
+      ]
+    },
+    {
+      "title": "5. Deno 团队加入 Cloudflare，将研发重心转向共享平台",
+      "keywords": [
+        "Deno",
+        "Cloudflare",
+        "代理基础设施"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Deno",
+          "url": "https://deno.com/blog/cloudflare",
+          "published": "2026-10-09（官方网页只列日期，未标时区）",
+          "author": "Ryan Dahl",
+          "category": "Announcements / Product Update"
+        }
+      ]
+    },
+    {
+      "title": "6. 投中网报道 DiffuSpace 完成两轮数亿元融资",
+      "keywords": [
+        "DiffuSpace",
+        "扩散模型",
+        "融资"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "投中网",
+          "url": "https://www.chinaventure.com.cn/news/113-20261009-393529.html",
+          "published": "2026-10-09 09:12:25（原网页未标时区）",
+          "author": "鲁智高",
+          "section": "企业服务"
+        }
+      ]
+    },
+    {
+      "title": "7. 财联社引述瑞银：黄金短期可能测试 4000 美元附近",
+      "keywords": [
+        "黄金",
+        "瑞银",
+        "价格预测"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社",
+          "url": "https://www.cls.cn/detail/2500742",
+          "published": "2026-10-09 19:02:14（原页时间；公开 ctime 为 2026-10-09 11:02:14 UTC）"
+        }
+      ]
+    },
+    {
+      "title": "8. 新华财经汇总金市观点：短期利率压力与长期配置判断并存",
+      "keywords": [
+        "黄金",
+        "实际利率",
+        "机构观点"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "21财经／新华财经",
+          "url": "https://www.21jingji.com/article/20261009/herald/9042d3e24fa4e2ea21338aeb42dd0116.html",
+          "published": "2026-10-09 14:50:02 +08:00；更新 16:28:37 +08:00（网页结构化时间）",
+          "section": "金融"
+        }
+      ]
+    },
+    {
+      "title": "9. Yle 报道芬兰准备向乌克兰提供紧急防务援助",
+      "keywords": [
+        "芬兰",
+        "乌克兰",
+        "防务援助"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Yle",
+          "url": "https://yle.fi/a/74-20250723?utm_source=social-media-share&utm_medium=social&utm_campaign=ylefiapp",
+          "published": "2026-10-09 13:27:59 +03:00（网页结构化发布时间）"
+        }
+      ]
+    },
+    {
+      "title": "10. Sky News 报道纳维·皮莱获 2026 年诺贝尔和平奖",
+      "keywords": [
+        "诺贝尔和平奖",
+        "纳维·皮莱",
+        "国际法"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Sky News",
+          "url": "https://news.sky.com/story/former-un-human-rights-chief-navi-pillay-wins-the-nobel-peace-prize-13596724",
+          "published": "首发 2026-10-09 09:01:00 UTC；更新 13:38:37 UTC（网页结构化时间）"
+        }
+      ]
+    },
+    {
+      "title": "11. 财政部安排使用 5500 亿元地方政府债务结存限额",
+      "keywords": [
+        "地方债",
+        "财政部",
+        "有效投资"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财政部",
+          "url": "https://zwgls.mof.gov.cn/gzdt/202610/t20261009_4002433.htm",
+          "section": "债务管理司／工作动态",
+          "published": "2026-10-09（官方只列日期，未标时区）"
+        },
+        {
+          "role": "辅来源",
+          "site": "新华网",
+          "url": "https://www.xinhuanet.com/fortune/20261009/54b32faafc7b4a9fa9261e5a40d67620/c.html",
+          "author": "申铖",
+          "published": "2026-10-09 17:41:07（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "12. 加拿大 9 月就业净减 6.83 万，失业率升至 6.5%",
+      "keywords": [
+        "加拿大",
+        "就业",
+        "失业率"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "BNN Bloomberg／Reuters",
+          "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/09/canada-sheds-68000-jobs-unemployment-rate-up-to-65-in-september/",
+          "published": "页面首发 2026-10-09 05:26 EDT，更新 10:35 EDT；结构化 published_time 为 15:30:07 UTC，时间字段存在差异",
+          "author": "Reuters；文末署名 Promit Mukherjee",
+          "section": "Economics"
+        }
+      ]
+    },
+    {
+      "title": "13. 美联社报道特朗普设委员会调查美联储理事库克",
+      "keywords": [
+        "美联储",
+        "丽莎·库克",
+        "调查委员会"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Associated Press",
+          "url": "https://apnews.com/article/cook-federal-reserve-trump-debef61d38fbb6a74e84a57fe8e26fc5",
+          "published": "首发 2026-10-09 14:29:39 UTC；结构化更新 16:44:45 UTC（页面另有更新字段差异）",
+          "author": "CHRISTOPHER RUGABER"
+        }
+      ]
+    },
+    {
+      "title": "14. Oxide 宣布完成 4.45 亿美元 D 轮融资",
+      "keywords": [
+        "Oxide",
+        "融资",
+        "硬件产能"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Oxide Computer Company",
+          "url": "https://oxide.computer/blog/our-445m-series-d",
+          "published": "2026-10-09（官方网页只列日期，未标时区）"
+        }
+      ]
+    }
   ]
 }
