@@ -1758,5 +1758,182 @@
         }
       ]
     }
+  ],
+  "2026-10-11": [
+    {
+      "title": "1. 近期榜单发现：Context Mode 管理代理上下文与会话记忆",
+      "keywords": [
+        "上下文",
+        "会话记忆",
+        "MCP"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/mksglu/context-mode",
+          "section": "README",
+          "author": "mksglu/context-mode",
+          "note": "GitHub日榜发现；采样2026-10-11 09:03:22 +08:00，不是项目发布日期。"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期榜单发现：PPT Master 生成可继续编辑的 PowerPoint",
+      "keywords": [
+        "演示文稿",
+        "原生对象",
+        "工作流"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "section": "README",
+          "author": "hugohe3/ppt-master",
+          "note": "GitHub日榜发现；采样2026-10-11 09:03:22 +08:00，不是项目发布日期。"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期榜单发现：Anthropic 提供按岗位组织的工作插件",
+      "keywords": [
+        "岗位插件",
+        "连接器",
+        "工作流程"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "section": "README",
+          "author": "anthropics/knowledge-work-plugins",
+          "note": "GitHub日榜发现；采样2026-10-11 09:03:22 +08:00，不是项目发布日期。"
+        }
+      ]
+    },
+    {
+      "title": "4. 近期榜单发现：Diagram Design 用 HTML 与 SVG 表达图解",
+      "keywords": [
+        "图解设计",
+        "SVG",
+        "代理技能"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "section": "README",
+          "author": "cathrynlavery/diagram-design",
+          "note": "GitHub日榜发现；采样2026-10-11 09:03:22 +08:00，不是项目发布日期。"
+        }
+      ]
+    },
+    {
+      "title": "5. 人社部表示将开展适应人工智能发展的促就业行动",
+      "keywords": [
+        "人工智能",
+        "就业",
+        "技能培训"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华社／新华网",
+          "url": "https://www.xinhuanet.com/20261010/36344abebaa24413b19c0b8d40f80dc8/c.html",
+          "author": "蒋志强",
+          "published": "2026-10-10 14:57:49（原页未明示时区）"
+        }
+      ]
+    },
+    {
+      "title": "6. 温度新闻报道 AI 创业者毕业一年发展三百多个客户",
+      "keywords": [
+        "AI创业",
+        "客户服务",
+        "业务流程"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "温度新闻／温州新闻网",
+          "url": "https://www.66wz.com/wendu/system/2026/10/10/105852006.shtml",
+          "section": "视频／第1人称",
+          "author": "郑小萍",
+          "published": "2026-10-10 16:30:01 +08:00（原页 JSON-LD；另有更新时间 22:20:52 +08:00）"
+        }
+      ]
+    },
+    {
+      "title": "7. 美俄柴油协议引发分歧，相关谈判说法仍须区分来源",
+      "keywords": [
+        "柴油协议",
+        "制裁",
+        "乌克兰"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Reuters／Internazionale",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/10/neither-putin-nor-trump-wanted-to-hang-up-first-kremlin-aide-says-after-very-friendly-call",
+          "section": "Reuters 新闻",
+          "author": "Alessandra Prentice",
+          "published": "2026-10-10 15:15:12 +02:00（刊载页 article:published_time）"
+        },
+        {
+          "role": "辅来源",
+          "site": "Ukrainska Pravda",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/10/8057319/",
+          "author": "Ivanna Kostina、Roman Petrenko",
+          "published": "2026-10-10 09:16:00 +03:00",
+          "note": "转述Axios；乌方说法和美方否认分别保留。"
+        },
+        {
+          "role": "辅来源",
+          "site": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/86666",
+          "author": "Kyiv Post",
+          "published": "2026-10-10 11:12:00 +03:00",
+          "note": "转述金融时报；没有声称独立核实匿名消息。"
+        }
+      ]
+    },
+    {
+      "title": "8. 七部门发布品质电商通知，提出纠治“全网最低价”等无序竞争",
+      "keywords": [
+        "品质电商",
+        "平台规则",
+        "价格竞争"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "商务部",
+          "url": "https://www.mofcom.gov.cn/zwgk/gztz/art/2026/art_b73e63ca8fe9448e8004f3eede777d76.html",
+          "section": "工作通知",
+          "author": "电子商务司",
+          "published": "2026-10-10 09:20（可见正文；原页未明示时区，另有 PubDate 10:01）"
+        }
+      ]
+    },
+    {
+      "title": "9. 汽车创新设计管理征求意见，提出门把手与应急操作要求",
+      "keywords": [
+        "汽车安全",
+        "征求意见",
+        "门把手"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网",
+          "url": "https://www.news.cn/fortune/20261010/7f5fc9a7b3f145ca9e9da6c802c93b5e/c.html",
+          "published": "2026-10-10 17:19:28（原页未明示时区）"
+        }
+      ]
+    }
   ]
 }
