@@ -1935,5 +1935,321 @@
         }
       ]
     }
+  ],
+  "2026-10-12": [
+    {
+      "title": "1. 近期日榜发现：ArtCraft 用画布与三维场景控制 AI 创作",
+      "keywords": [
+        "ArtCraft",
+        "场景编排",
+        "图像视频"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/storytold/artcraft",
+          "author": "storytold",
+          "section": "README",
+          "note": "近期榜单发现；daily 采样 2026-10-12T01:06:26.451609+00:00；不是发布日"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "section": "daily",
+          "note": "榜单采样 2026-10-12T01:06:26.451609+00:00；原榜排名 3；window stars 2957；精确窗口边界未公开"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期日榜发现：God’s Eye View 将公开空间数据放入三维地球",
+      "keywords": [
+        "空间数据",
+        "三维地球",
+        "语音代理"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "author": "bilawalsidhu",
+          "section": "README",
+          "note": "近期榜单发现；daily 采样 2026-10-12T01:06:26.451609+00:00；不是发布日"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "section": "daily",
+          "note": "榜单采样 2026-10-12T01:06:26.451609+00:00；原榜排名 5；window stars 886；精确窗口边界未公开"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期日榜发现：AirLLM 通过分层加载降低显存需求",
+      "keywords": [
+        "AirLLM",
+        "分层加载",
+        "本地推理"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/lyogavin/airllm",
+          "author": "lyogavin",
+          "section": "README",
+          "note": "近期榜单发现；daily 采样 2026-10-12T01:06:26.451609+00:00；不是发布日"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "section": "daily",
+          "note": "榜单采样 2026-10-12T01:06:26.451609+00:00；原榜排名 7；window stars 548；精确窗口边界未公开"
+        }
+      ]
+    },
+    {
+      "title": "4. 近期周榜补充：HyperFrames 将 HTML 工作流渲染为视频",
+      "keywords": [
+        "HTML",
+        "视频渲染",
+        "HyperFrames"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "author": "heygen-com",
+          "section": "README",
+          "note": "近期榜单发现；weekly 采样 2026-10-12T01:06:29.344800+00:00；不是发布日"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=weekly",
+          "section": "weekly",
+          "note": "榜单采样 2026-10-12T01:06:29.344800+00:00；原榜排名 6；window stars 4223；精确窗口边界未公开"
+        }
+      ]
+    },
+    {
+      "title": "5. 近期周榜补充：OpenRig 用固定团队结构组织编程代理",
+      "keywords": [
+        "OpenRig",
+        "代理团队",
+        "共享上下文"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/mvschwarz/openrig",
+          "author": "mvschwarz",
+          "section": "README",
+          "note": "近期榜单发现；weekly 采样 2026-10-12T01:06:29.344800+00:00；不是发布日"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=weekly",
+          "section": "weekly",
+          "note": "榜单采样 2026-10-12T01:06:29.344800+00:00；原榜排名 10；window stars 2028；精确窗口边界未公开"
+        }
+      ]
+    },
+    {
+      "title": "6. 丘成桐数学与人工智能实验室联盟成立",
+      "keywords": [
+        "丘成桐",
+        "数学推理",
+        "科研联盟"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://news.bjd.com.cn/2026/10/11/11990661.shtml",
+          "site": "北京日报客户端／京报网",
+          "published": "2026-10-11 12:48:48 +08:00",
+          "note": "与聚合候选对应同一联盟事件；核验采用北京日报原创报道"
+        }
+      ]
+    },
+    {
+      "title": "7. 《The Arc》制作团队披露约3.8万美元 AI 点数成本",
+      "keywords": [
+        "AI影视",
+        "制作成本",
+        "The Arc"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://www.businessinsider.com/creators-ai-tv-series-38000-credits-seedance-artlist-the-arc-2026-10",
+          "site": "Business Insider",
+          "author": "Kelsey Vlamis",
+          "published": "2026-10-11 08:11:01.313 UTC"
+        }
+      ]
+    },
+    {
+      "title": "8. 上海证券报采访基金人士，讨论黄金资金流与价格的背离",
+      "keywords": [
+        "黄金ETF",
+        "资金流向",
+        "基金观点"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://paper.cnstock.com/html/2026-10/12/content_2276119.htm",
+          "site": "上海证券报",
+          "section": "基金·视点",
+          "author": "刘暄",
+          "published": "2026-10-12（报刊日期；未给精确时间与明确时区）",
+          "note": "10月7日协会报告及9月/三季度数据仅为较早背景"
+        }
+      ]
+    },
+    {
+      "title": "9. 特朗普宣称能源停火，泽连斯基表示须明确起点与对等条件",
+      "keywords": [
+        "能源停火",
+        "俄乌",
+        "对等条件"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
+          "site": "The Guardian",
+          "section": "Ukraine",
+          "author": "Luke Harding",
+          "published": "2026-10-11 17:21:39 UTC",
+          "updated": "2026-10-11 19:08:34 UTC"
+        }
+      ]
+    },
+    {
+      "title": "10. Observer 报道英国首相谈俄罗斯干预脱欧公投",
+      "keywords": [
+        "英国",
+        "脱欧公投",
+        "政治干预"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://observer.co.uk/news/national/article/from-russia-with-interference-burnham-first-pm-to-confirm-kremlin-role-in-brexit-vote",
+          "site": "Observer",
+          "author": "Catherine Neilan",
+          "published": "2026-10-11 04:00 UTC"
+        }
+      ]
+    },
+    {
+      "title": "11. 利雅得机场再次遇袭，沙特方面称航站楼受损并有人受伤",
+      "keywords": [
+        "利雅得",
+        "机场袭击",
+        "沙特"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://www.turkiyetoday.com/region/projectile-hits-terminal-4-at-riyadh-airport-a-day-after-deadly-attack-3230109",
+          "site": "Türkiye Today",
+          "section": "Region",
+          "author": "Newsroom",
+          "published": "2026-10-11 18:05:46 +03:00",
+          "updated": "2026-10-11 21:11:18 +03:00"
+        }
+      ]
+    },
+    {
+      "title": "12. 巴西选举争议：报道指法院要求 Meta 解释竞选账号流量异常",
+      "keywords": [
+        "巴西选举",
+        "Meta",
+        "平台治理"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://www.hindustantimes.com/world-news/meta-faces-election-interference-accusations-from-brazils-lula-da-silva-court-gives-company-48-hours-to-clarify-101791711200783-amp.html",
+          "site": "Hindustan Times",
+          "section": "World news",
+          "author": "Anushka Awasthi",
+          "published": "2026-10-11 15:54:16 +05:30",
+          "note": "正文注明含 AFP 信息；未取得法院原始文件"
+        }
+      ]
+    },
+    {
+      "title": "13. 人民日报报道秋粮金融支持，关注收购资金与长周期服务",
+      "keywords": [
+        "秋粮收购",
+        "农业信贷",
+        "风险管理"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://paper.people.com.cn/rmrb/pc/content/202610/12/content_30185152.html",
+          "site": "人民日报",
+          "section": "第18版：财经",
+          "author": "郁静娴、王观、李晓晴、葛孟超、屈信明",
+          "published": "2026-10-12（报刊日期；未给精确时间与明确时区）"
+        }
+      ]
+    },
+    {
+      "title": "14. 尊界客服称踏板升级方案月底确认，11月起陆续实施",
+      "keywords": [
+        "尊界",
+        "踏板升级",
+        "汽车质量"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://finance.ifeng.com/c/8x8j8ssz2sB",
+          "site": "凤凰网",
+          "section": "财经资讯",
+          "author": "红星新闻",
+          "published": "2026-10-11 18:21:10 +08:00",
+          "note": "刊载报道；客服说法及早前公司说明分别保留归属"
+        }
+      ]
+    },
+    {
+      "title": "15. 快科技报道 Model 3 车主安全带投诉，断裂原因仍存争议",
+      "keywords": [
+        "特斯拉",
+        "安全带",
+        "质量投诉"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://news.mydrivers.com/1/1156/1156524.htm",
+          "site": "快科技",
+          "author": "若风",
+          "published": "2026-10-11 09:27（页面未明示时区）",
+          "note": "新浪刊载元数据另标 2026-10-11 09:27:51 +08:00"
+        },
+        {
+          "role": "辅来源",
+          "site": "新浪科技",
+          "url": "https://finance.sina.com.cn/tech/roll/2026-10-11/doc-iniuvhum5796144.shtml",
+          "published": "2026-10-11 09:27:51 +08:00",
+          "note": "bytedance:published_time；article:published_time 另标09:39:36 +08:00，均在本期窗口"
+        }
+      ]
+    }
   ]
 }
