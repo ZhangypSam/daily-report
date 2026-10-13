@@ -2251,5 +2251,275 @@
         }
       ]
     }
+  ],
+  "2026-10-13": [
+    {
+      "title": "1. web-edit 提供手机可用的文件编辑界面",
+      "keywords": [
+        "文件编辑",
+        "手机工作流",
+        "CodeMirror"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+          "published": "2026-10-12T15:54:36Z",
+          "author": "Simon Willison"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期日榜发现：Context Mode 管理工具输出与会话上下文",
+      "keywords": [
+        "上下文",
+        "MCP",
+        "会话记忆"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/mksglu/context-mode",
+          "note": "近期榜单发现；原仓库未提供本期新发布的日期证据。"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "daily为日榜采样；weekly仅周榜补充，榜单窗口边界不公开。"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期日榜发现：Diagram Design 用单文件 HTML 与 SVG 表达图解",
+      "keywords": [
+        "图解",
+        "SVG",
+        "品牌样式"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "note": "近期榜单发现；原仓库未提供本期新发布的日期证据。"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "daily为日榜采样；weekly仅周榜补充，榜单窗口边界不公开。"
+        }
+      ]
+    },
+    {
+      "title": "4. 近期日榜发现：BitNet 提供低位模型的 CPU 与 GPU 推理框架",
+      "keywords": [
+        "低位模型",
+        "CPU推理",
+        "BitNet"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/microsoft/BitNet",
+          "note": "近期榜单发现；原仓库未提供本期新发布的日期证据。"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "daily为日榜采样；weekly仅周榜补充，榜单窗口边界不公开。"
+        }
+      ]
+    },
+    {
+      "title": "5. 近期周榜补充：e2e 把自然语言代理步骤与测试断言结合",
+      "keywords": [
+        "端到端测试",
+        "代理",
+        "断言"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/tester-army/e2e",
+          "note": "近期榜单发现；原仓库未提供本期新发布的日期证据。"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=weekly",
+          "note": "daily为日榜采样；weekly仅周榜补充，榜单窗口边界不公开。"
+        }
+      ]
+    },
+    {
+      "title": "6. 澎湃探访工博会：工业 AI 落地仍需核对场景与安全边界",
+      "keywords": [
+        "工业AI",
+        "工博会",
+        "具身智能"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "澎湃新闻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34236751",
+          "published": "2026-10-13 07:59（原页未注明时区）",
+          "author": "范佳来、沈玥彤",
+          "section": "10%公司"
+        }
+      ]
+    },
+    {
+      "title": "7. 媒体报道：编造科技公司谣言的两人被采取刑事强制措施",
+      "keywords": [
+        "网络谣言",
+        "警方通报",
+        "月之暗面"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "每日经济新闻",
+          "url": "https://cd.nbd.com.cn/articles/2026-10-12/4602338.html",
+          "published": "2026-10-12 23:37:24（原页未注明时区）",
+          "author": "宋欣悦"
+        }
+      ]
+    },
+    {
+      "title": "8. Agent37 创始人披露低成本代理沙箱的经营取舍",
+      "keywords": [
+        "代理沙箱",
+        "基础设施成本",
+        "gVisor"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50059096",
+          "author": "vishnukool",
+          "posted": "2026-10-12 16:46:34 UTC",
+          "section": "Launch HN"
+        }
+      ]
+    },
+    {
+      "title": "9. 模思智能宣布完成超10亿元 Pre-A 轮融资",
+      "keywords": [
+        "模思智能",
+        "融资",
+        "实时交互"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "每日经济新闻",
+          "url": "https://www.mrjjxw.com/articles/2026-10-12/4602185.html",
+          "published": "2026-10-12 22:33（原页未注明时区）",
+          "author": "王郁彪"
+        }
+      ]
+    },
+    {
+      "title": "10. 媒体报道：哈萨克斯坦央行拟降低黄金储备占比",
+      "keywords": [
+        "央行储备",
+        "黄金配置",
+        "哈萨克斯坦"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "观察者网",
+          "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_10_13_904041.shtml",
+          "published": "2026-10-13 07:06:46（原页未注明时区）",
+          "author": "张璁煜"
+        },
+        {
+          "role": "辅来源",
+          "site": "财联社",
+          "url": "https://www.cls.cn/detail/2502775",
+          "author": "牛占林",
+          "section": "环球市场情报",
+          "published": "2026-10-13 01:19（原页未注明时区）"
+        }
+      ]
+    },
+    {
+      "title": "11. 中方宣布对巴拉圭与伯利兹两名部长采取反制措施",
+      "keywords": [
+        "外交声明",
+        "反制措施",
+        "台湾议题"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中国外交部（驻多米尼加使馆刊载）",
+          "url": "https://do.china-embassy.gov.cn/lcbt/wjbfyr/202610/t20261012_12038772.htm",
+          "published": "2026-10-12 19:00（原页未注明时区）"
+        }
+      ]
+    },
+    {
+      "title": "12. UNITED24 报道俄方拒绝为乌克兰选举提供60天停火",
+      "keywords": [
+        "俄乌",
+        "停火提议",
+        "选举"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "UNITED24 Media",
+          "url": "https://united24media.com/war-in-ukraine/kremlin-rejects-zelenskyys-60-day-ceasefire-proposal-for-elections-stays-silent-on-energy-truce-23351",
+          "published": "2026-10-12T15:12:53+03:00"
+        }
+      ]
+    },
+    {
+      "title": "13. CNN 报道霍尔与伍德福德获2026年诺贝尔经济学奖",
+      "keywords": [
+        "经济学奖",
+        "宏观稳定",
+        "微观基础"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "CNN Business",
+          "url": "https://edition.cnn.com/2026/10/12/business/nobel-prize-economics-intl",
+          "published": "2026-10-12T09:51:31.959Z",
+          "author": "Hanna Ziady",
+          "section": "Business",
+          "updated": "2026-10-12 12:43:25.302 UTC"
+        }
+      ]
+    },
+    {
+      "title": "14. 两部门调整出口退税政策，新能源汽车税率拟于明年下调",
+      "keywords": [
+        "出口退税",
+        "新能源汽车",
+        "政策生效日"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网",
+          "url": "https://www.news.cn/20261012/9709731f470b42f9a84825c2e4eb914b/c.html",
+          "published": "2026-10-12 17:42:19（原页未注明时区）",
+          "author": "申铖"
+        }
+      ]
+    }
   ]
 }
