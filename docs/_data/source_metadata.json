@@ -2521,5 +2521,316 @@
         }
       ]
     }
+  ],
+  "2026-10-14": [
+    {
+      "title": "1. llm-gemini 0.35 增加 Gemini 4 Argon 接入",
+      "keywords": [
+        "模型接入",
+        "LLM",
+        "Gemini"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+          "section": "Release",
+          "author": "Simon Willison",
+          "published": "2026-10-13 22:28:54 UTC"
+        }
+      ]
+    },
+    {
+      "title": "2. web-edit 0.1a1 发布性能优化更新",
+      "keywords": [
+        "文件编辑",
+        "性能优化",
+        "web-edit"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
+          "section": "Release",
+          "author": "Simon Willison",
+          "published": "2026-10-13 01:40:05 UTC"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期日榜发现：REA 为代理提供逆向分析工具",
+      "keywords": [
+        "逆向分析",
+        "编程代理",
+        "MCP"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/morluto/rea",
+          "author": "morluto",
+          "note": "原仓库功能核验；日榜采样2026-10-14 01:03:47.299346 UTC，非发布日期。"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "本次归档日榜采样，GitHub未公布精确窗口边界。"
+        }
+      ]
+    },
+    {
+      "title": "4. 近期日榜发现：VoiceStudio 集成语音与配音工作流",
+      "keywords": [
+        "语音工具",
+        "本地工作流",
+        "配音"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "author": "debpalash",
+          "note": "原仓库功能核验；日榜采样2026-10-14 01:03:47.299346 UTC，非发布日期。"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "本次归档日榜采样，GitHub未公布精确窗口边界。"
+        }
+      ]
+    },
+    {
+      "title": "5. 近期日榜发现：Vercel skills 提供代理技能管理命令行",
+      "keywords": [
+        "代理技能",
+        "命令行",
+        "Vercel"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/vercel-labs/skills",
+          "author": "vercel-labs",
+          "note": "原仓库功能核验；日榜采样2026-10-14 01:03:47.299346 UTC，非发布日期。"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "本次归档日榜采样，GitHub未公布精确窗口边界。"
+        }
+      ]
+    },
+    {
+      "title": "6. NVIDIA 宣布 DLSS 5 模型更新与后续游戏支持计划",
+      "keywords": [
+        "神经渲染",
+        "DLSS",
+        "NVIDIA"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "NVIDIA GeForce News",
+          "url": "https://www.nvidia.com/en-us/geforce/news/dlss-5-faster-ai-model-hogwarts-legacy-rtx-spark-laptops/",
+          "author": "Andrew Burnes",
+          "published": "2026-10-13 05:00:00 -07:00",
+          "section": "Featured Stories"
+        }
+      ]
+    },
+    {
+      "title": "7. 媒体报道：OpenAI 工程师因涉嫌藏录音设备被起诉",
+      "keywords": [
+        "企业安全",
+        "录音设备",
+        "OpenAI"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "The San Francisco Standard",
+          "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+          "author": "George Kelly、Michael McLaughlin",
+          "published": "2026-10-13 13:17:02 -07:00",
+          "updated": "2026-10-13 13:44:21 -07:00"
+        },
+        {
+          "role": "辅来源",
+          "site": "Fox Business",
+          "url": "https://www.foxbusiness.com/technology/saudi-national-accused-planting-recording-device-openai-executive-conference-room",
+          "published": "2026-10-13 18:48:46 -04:00"
+        }
+      ]
+    },
+    {
+      "title": "8. 媒体报道：Character.AI申请破产保护，用户规模仍需转化为收入",
+      "keywords": [
+        "Character.AI",
+        "破产保护",
+        "商业化"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "第一财经",
+          "url": "https://www.yicai.com/news/103392124.html",
+          "published": "2026-10-13T20:58:17+08:00",
+          "section": "科技",
+          "author": "刘佳",
+          "updated": "2026-10-13 23:40:33 +08（HTML更新字段）"
+        }
+      ]
+    },
+    {
+      "title": "9. 每经分析PineDrama：免费短剧的AI产能与广告变现取舍",
+      "keywords": [
+        "PineDrama",
+        "广告变现",
+        "AI短剧"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "每日经济新闻",
+          "url": "https://www.nbd.com.cn/articles/2026-10-13/4603635.html",
+          "published": "2026-10-14 00:16:16（原页未注明时区）",
+          "author": "李宇彤"
+        }
+      ]
+    },
+    {
+      "title": "10. 媒体报道：MiniMax将M Plan订阅接入天猫旗舰店",
+      "keywords": [
+        "MiniMax",
+        "订阅服务",
+        "天猫"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "SmartHey",
+          "url": "https://www.smarthey.com/detail/406122802114.html",
+          "published": "2026-10-13 12:22（原页未注明时区）",
+          "section": "快讯"
+        }
+      ]
+    },
+    {
+      "title": "11. 中信证券研报讨论黄金买盘、流动性卖盘与潜在风险",
+      "keywords": [
+        "黄金ETF",
+        "央行购金",
+        "流动性"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新浪财经",
+          "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-14/doc-inivcxxr7814736.shtml",
+          "section": "证券",
+          "author": "涂耀廷、拜俊飞",
+          "published": "2026-10-14 08:03（页面；HTML发布字段标注 +08:00）",
+          "note": "市场资讯转载中信证券观点；另一HTML发布字段为08:16:22+08:00，均在本期窗口内。"
+        }
+      ]
+    },
+    {
+      "title": "12. 中国与博茨瓦纳宣布建立全面战略合作伙伴关系",
+      "keywords": [
+        "中博关系",
+        "联合声明",
+        "外交合作"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中华人民共和国外交部",
+          "url": "https://www.mfa.gov.cn/zyxw/202610/t20261013_12039645.shtml",
+          "section": "重要新闻",
+          "published": "2026-10-13 21:21（原页未注明时区）"
+        }
+      ]
+    },
+    {
+      "title": "13. 亚美尼亚与波兰外长讨论经贸合作及欧盟伙伴关系",
+      "keywords": [
+        "亚美尼亚",
+        "波兰",
+        "外交会谈"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Armenpress",
+          "url": "https://armenpress.am/zh/article/1262622",
+          "section": "政治",
+          "category": "政治、对外政策",
+          "published": "2026-10-13 11:09 +04:00",
+          "note": "消息由报道转述亚美尼亚外交部；时区由原页HTML结构化日期确认。"
+        }
+      ]
+    },
+    {
+      "title": "14. Axios 报道 IMF 维持增长韧性判断，同时提示 AI 与能源风险",
+      "keywords": [
+        "IMF",
+        "增长预测",
+        "风险情景"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Axios",
+          "url": "https://www.axios.com/2026/10/13/imf-forecast-ai-oil",
+          "section": "Business",
+          "author": "Courtenay Brown",
+          "published": "2026-10-13 02:01:05.241868 UTC"
+        }
+      ]
+    },
+    {
+      "title": "15. 新华社报道欧佩克上调2027年石油需求增量预测",
+      "keywords": [
+        "欧佩克",
+        "石油需求",
+        "预测修订"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经／中国金融信息网",
+          "url": "https://m.cnfin.com/yw-lb//zixun/20261014/4480330_1.html",
+          "author": "孟凡宇",
+          "published": "2026-10-14 06:07:20（原页未注明时区）",
+          "category": "环球财经"
+        }
+      ]
+    },
+    {
+      "title": "16. 人民日报海外版报道1500亿元注资特别国债已上市交易",
+      "keywords": [
+        "特别国债",
+        "中央金融机构",
+        "上市交易"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "人民日报海外版",
+          "url": "https://paper.people.com.cn/rmrbhwb/pc/content/202610/14/content_30185591.html",
+          "section": "第03版：要闻·财经",
+          "author": "汪文正",
+          "published": "2026-10-14（报纸版面日期，未给出时刻或时区）"
+        }
+      ]
+    }
   ]
 }
