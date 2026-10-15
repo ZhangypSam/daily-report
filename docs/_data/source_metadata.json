@@ -2832,5 +2832,289 @@
         }
       ]
     }
+  ],
+  "2026-10-15": [
+    {
+      "title": "1. Simon Willison 展示 Claude 制作的 Tree Appreciator 游戏",
+      "keywords": [
+        "游戏制作",
+        "Claude",
+        "工作流"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+          "published": "2026-10-14 21:23:01 UTC（本批 Atom 发布字段；原页显示14日21:23）",
+          "author": "Simon Willison",
+          "section": "Tool"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期日榜发现：Context Mode 管理工具输出与会话记忆",
+      "keywords": [
+        "上下文",
+        "MCP",
+        "会话记忆"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "note": "近期日榜发现；采样不是项目发布日期"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期日榜发现：Scientific Agent Skills 提供科研工作流技能",
+      "keywords": [
+        "科研",
+        "代理技能",
+        "数据分析"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "note": "近期日榜发现；采样不是项目发布日期"
+        }
+      ]
+    },
+    {
+      "title": "4. 近期日榜发现：CLI-Anything 为软件构建代理命令行入口",
+      "keywords": [
+        "命令行",
+        "代理",
+        "软件自动化"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "note": "近期日榜发现；采样不是项目发布日期"
+        }
+      ]
+    },
+    {
+      "title": "5. DeepMind 与新加坡合作开发端侧反诈模型",
+      "keywords": [
+        "端侧模型",
+        "反诈",
+        "Gemma"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Google DeepMind",
+          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+          "published": "2026-10-14 02:00:00 UTC（原文HTML发布字段）",
+          "author": "JJ Geewax、Miguel de Andrés",
+          "section": "Responsibility & Safety"
+        }
+      ]
+    },
+    {
+      "title": "6. CSO 采访安全专家：代理事故须审视隔离与监控",
+      "keywords": [
+        "代理安全",
+        "沙箱",
+        "监控"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "CSO Online",
+          "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+          "published": "2026-10-14（原页日期；结构化发布字段分别为00:55:18 -07:00与08:25:00 UTC）",
+          "author": "Cynthia Brumfield",
+          "section": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "title": "7. TV4 节目因素材故障延期，电视台否认独立 AI 代理删片",
+      "keywords": [
+        "素材备份",
+        "AI事故",
+        "电视制作"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Sweden Herald／TT News Agency",
+          "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+          "published": "2026-10-14 11:19:22 +02:00（原页时间）",
+          "author": "TT News Agency"
+        }
+      ]
+    },
+    {
+      "title": "8. 媒体报道：OpenAI 指控前员工向苹果提供产品资料",
+      "keywords": [
+        "商业秘密",
+        "OpenAI",
+        "苹果"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+          "published": "2026-10-14 16:43:24 UTC（原页时间）",
+          "author": "Emma Roth",
+          "section": "AI"
+        }
+      ]
+    },
+    {
+      "title": "9. 千问办公电商版开启邀测，报道披露商家付费使用情况",
+      "keywords": [
+        "电商",
+        "付费用户",
+        "办公智能体"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "DOIT传媒",
+          "url": "https://www.doit.com.cn/ai/859568046174277.html",
+          "published": "2026-10-14 23:33:27（原页datetime，无时区）",
+          "author": "朱朋博",
+          "section": "AI与大模型"
+        }
+      ]
+    },
+    {
+      "title": "10. 财联社报道美国通胀数据公布后的黄金与利率预期变化",
+      "keywords": [
+        "黄金",
+        "美国通胀",
+        "利率预期"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社",
+          "url": "https://www.cls.cn/detail/2504926",
+          "published": "2026-10-14 21:34（原页未注明时区）",
+          "author": "牛占林",
+          "section": "环球市场情报"
+        }
+      ]
+    },
+    {
+      "title": "11. 联合国特别代表向安理会介绍利比亚政治进程与分歧",
+      "keywords": [
+        "利比亚",
+        "安理会",
+        "政治进程"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "联合国新闻",
+          "url": "https://news.un.org/zh/story/2026/10/1142997",
+          "published": "2026-10-14 13:12:03 -04:00（原页HTML发布字段）",
+          "section": "和平与安全"
+        }
+      ]
+    },
+    {
+      "title": "12. 德新社报道保加利亚确认 Starlink 设施火灾并调查涉嫌破坏",
+      "keywords": [
+        "保加利亚",
+        "Starlink",
+        "破坏调查"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "dpa International",
+          "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+          "published": "2026-10-14 20:51:08 +02:00（原文结构化发布时间）",
+          "author": "Elena Lalowa",
+          "section": "Politics"
+        }
+      ]
+    },
+    {
+      "title": "13. 国家统计局公布9月 CPI 与 PPI 数据",
+      "keywords": [
+        "CPI",
+        "PPI",
+        "物价"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "国家统计局",
+          "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261014_1965477.html",
+          "published": "2026-10-14 09:30（原页未注明时区）"
+        },
+        {
+          "role": "辅来源",
+          "site": "国家统计局",
+          "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261014_1965476.html",
+          "published": "2026-10-14 09:30（原页未注明时区）"
+        }
+      ]
+    },
+    {
+      "title": "14. 人民银行披露9月末社融存量与前三季度融资增量",
+      "keywords": [
+        "社会融资",
+        "人民银行",
+        "货币统计"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中国人民银行",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026101415422529740/index.html",
+          "published": "2026-10-14 17:00:04（原页正文时间，未注明时区）",
+          "section": "新闻"
+        }
+      ]
+    },
+    {
+      "title": "15. ASML 公布第三季度销售额116.62亿欧元",
+      "keywords": [
+        "ASML",
+        "季度业绩",
+        "光刻机"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "ASML Investor Relations",
+          "url": "https://investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026",
+          "published": "2026-10-14（原公告日期，未给出发布时间或时区）",
+          "section": "Press release"
+        }
+      ]
+    },
+    {
+      "title": "16. 财联社解读10月褐皮书：成本压力与 AI 用工变化并存",
+      "keywords": [
+        "褐皮书",
+        "成本压力",
+        "就业"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社",
+          "url": "https://www.cls.cn/detail/2505077",
+          "published": "2026-10-15 03:03（原页未注明时区）",
+          "author": "史正丞",
+          "section": "环球市场情报"
+        }
+      ]
+    }
   ]
 }
