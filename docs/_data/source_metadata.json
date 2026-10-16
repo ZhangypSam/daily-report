@@ -3116,5 +3116,162 @@
         }
       ]
     }
+  ],
+  "2026-10-16": [
+    {
+      "title": "1. 作者分享用 AI 辅助逆向硬件的 hw-harness 工作流",
+      "keywords": [
+        "驱动开发",
+        "硬件逆向",
+        "Claude Code"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Christian F.K. Schaller／GNOME Blogs",
+          "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+          "author": "Christian F.K. Schaller",
+          "published": "2026-10-15 13:28:39 UTC（原文HTML发布字段）"
+        }
+      ]
+    },
+    {
+      "title": "2. Simon Willison 展示以音频信号连接双手机的 Chirp Pong",
+      "keywords": [
+        "音频通信",
+        "游戏原型",
+        "Claude Code"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+          "author": "Simon Willison",
+          "published": "2026-10-15 19:47:52 UTC（本批Atom字段；原页显示15日19:47）"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期日榜发现：Claude Code 官方插件目录区分内部与第三方插件",
+      "keywords": [
+        "插件目录",
+        "Claude Code",
+        "第三方插件"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "author": "anthropics",
+          "note": "时间为归档GitHub Trending日榜采样，非项目发布；未声称全网热度排名。 采样：2026-10-16T00:59:36.275003Z"
+        }
+      ]
+    },
+    {
+      "title": "4. Simons 联合 Anthropic、OpenAI 承诺1500万美元支持数学界应对 AI",
+      "keywords": [
+        "数学研究",
+        "研究资助",
+        "AI工具"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simons Foundation",
+          "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+          "author": "Simons Foundation",
+          "published": "2026-10-15 14:00:01 UTC（原文HTML发布字段）"
+        }
+      ]
+    },
+    {
+      "title": "5. 界面采访库克：苹果智能中国测试版拟于十月晚些时候推出",
+      "keywords": [
+        "苹果智能",
+        "中国测试版",
+        "Siri"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "界面新闻 · 快讯",
+          "url": "https://jiemian.com/article/15194723.html",
+          "author": "伍洋宇",
+          "published": "2026-10-15（原文采访日期；未展示精确发稿时刻或时区）",
+          "section": "快讯"
+        }
+      ]
+    },
+    {
+      "title": "6. 新京报报道 AI 变现课程纠纷：4479元购课，法院判退2500元",
+      "keywords": [
+        "AI课程",
+        "收益承诺",
+        "消费纠纷"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新京报",
+          "url": "https://www.bjnews.com.cn/detail/1792066538168944.html",
+          "author": "张静姝",
+          "published": "2026-10-15 20:15（原页未注明时区）"
+        }
+      ]
+    },
+    {
+      "title": "7. FX168引述世界黄金协会：中国9月购金与黄金 ETF 流入延续",
+      "keywords": [
+        "央行购金",
+        "黄金ETF",
+        "九月数据"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "FX168",
+          "url": "https://www.fx168news.com/article/黄金-1103447",
+          "author": "娟然",
+          "published": "2026-10-16 08:19:38（原页未注明时区）；数据所属2026年9月"
+        }
+      ]
+    },
+    {
+      "title": "8. 哈萨克斯坦总统府：托卡耶夫与赫尔佐格在巴库会晤",
+      "keywords": [
+        "哈以会晤",
+        "巴库峰会",
+        "外交降温"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "哈萨克斯坦总统府",
+          "url": "https://www.akorda.kz/en/president-kassym-jomart-tokayev-meets-with-president-of-israel-isaac-herzog-159035",
+          "author": "哈萨克斯坦总统府",
+          "published": "2026-10-15（总统府原页日期，无具体时刻及时区）"
+        }
+      ]
+    },
+    {
+      "title": "9. 财联社引述潘功胜：继续实施适度宽松货币政策",
+      "keywords": [
+        "货币政策",
+        "G20会议",
+        "金融稳定"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社 · 大金融",
+          "url": "https://www.cls.cn/detail/2505984",
+          "author": "财联社",
+          "published": "2026-10-15 19:25（原页未注明时区）；会议同日举行",
+          "section": "大金融"
+        }
+      ]
+    }
   ]
 }
