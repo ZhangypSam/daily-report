@@ -3273,5 +3273,185 @@
         }
       ]
     }
+  ],
+  "2026-10-17": [
+    {
+      "title": "1. 近期日榜发现：Android 技能仓库聚焦代理开发薄弱环节",
+      "keywords": [
+        "Android",
+        "代理技能",
+        "开发工作流"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · android/skills",
+          "url": "https://github.com/android/skills",
+          "note": "2026-10-17T00:59:03.375012Z（日榜采样，非发布）"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "本批官方日榜采样；不是项目发布日期。"
+        }
+      ]
+    },
+    {
+      "title": "2. Simon Willison 摘录持续代码审查思路：把人工关注留给高层问题",
+      "keywords": [
+        "代码审查",
+        "持续检查",
+        "人机协作"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+          "published": "2026-10-16 22:06:37 UTC（本批Atom时间；原页显示16日22:06）",
+          "author": "Simon Willison"
+        }
+      ]
+    },
+    {
+      "title": "3. Anthropic 称解释多条 ECDSA 曲线种子来源，强调并非密码破解",
+      "keywords": [
+        "ECDSA",
+        "曲线种子",
+        "研究边界"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Anthropic",
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "published": "2026-10-16（原页日期，未注明时区）"
+        }
+      ]
+    },
+    {
+      "title": "4. 七位数学研究者倡议：AI 形式化应优先建设可复用的数学库",
+      "keywords": [
+        "形式化数学",
+        "Lean",
+        "可复用性"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Xena",
+          "url": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
+          "published": "2026-10-16 09:54:00 UTC（原文HTML发布字段）",
+          "author": "Jeremy Avigad、Kevin Buzzard、Johan Commelin、Rémy Degenne、Kim Morrison、Oliver Nash、Adam Topaz"
+        }
+      ]
+    },
+    {
+      "title": "5. Waymo 宣布筹备多伦多服务，目标2028年迎接首批乘客",
+      "keywords": [
+        "自动驾驶",
+        "多伦多",
+        "车队运营"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Waymo",
+          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+          "published": "2026-10-16（原页日期，未注明时区）",
+          "author": "The Waymo Team",
+          "section": "Company News"
+        }
+      ]
+    },
+    {
+      "title": "6. 财联社梳理券商访谈：AI 应用从投顾扩展到合规风控",
+      "keywords": [
+        "财富管理",
+        "AI投顾",
+        "合规风控"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社",
+          "url": "https://www.cls.cn/detail/2507066",
+          "published": "2026-10-16 18:20（原页未注明时区）",
+          "author": "陈俊兰",
+          "section": "券商动态"
+        }
+      ]
+    },
+    {
+      "title": "7. 印度黄金 ETF 联接基金限制新增申购，赎回与既有定投需区别看",
+      "keywords": [
+        "黄金FoF",
+        "申购限制",
+        "印度基金"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "The Economic Times",
+          "url": "https://m.economictimes.com/mf/mf-news/hdfc-kotak-icici-prudential-among-17-mutual-fund-houses-to-temporarily-restrict-subscriptions-in-gold-etf-fofs/articleshow/134983138.cms",
+          "updated": "2026-10-16 10:43 IST（UTC+05:30，原页更新）",
+          "author": "Surbhi Khanna",
+          "section": "Mutual Funds News"
+        }
+      ]
+    },
+    {
+      "title": "8. 中国外交部通报：王毅与克罗地亚外长拉德曼在萨格勒布会谈",
+      "keywords": [
+        "中克关系",
+        "外交会谈",
+        "能源合作"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中国外交部",
+          "url": "https://www.fmprc.gov.cn/wjbzhd/202610/t20261016_12042086.shtml",
+          "published": "2026-10-17 00:01（原页未注明时区）；会谈为当地10月16日"
+        }
+      ]
+    },
+    {
+      "title": "9. 新华财经：欧元区9月通胀终值为3.8%，核心指标为2.5%",
+      "keywords": [
+        "欧元区",
+        "通胀终值",
+        "能源价格"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经／中国金融信息网",
+          "url": "https://www.cnfin.com/hg-lb/detail/20261016/4482310_1.html",
+          "published": "2026-10-16 20:19:29（原文HTML字段，未注明时区）；数据期为2026年9月",
+          "author": "黄晓兰",
+          "section": "宏观"
+        }
+      ]
+    },
+    {
+      "title": "10. 新华社年会综述：IMF 与世行讨论合作、政策缓冲及 AI 风险",
+      "keywords": [
+        "国际合作",
+        "政策缓冲",
+        "AI风险"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华社／中国金融信息网",
+          "url": "https://www.cnfin.com/yw-lb/detail/20261016/4482359_1.html",
+          "published": "2026-10-16（原页日期，未注明时区）；年会为10月12日至18日",
+          "author": "耿凌楠、刘杨",
+          "section": "要闻"
+        }
+      ]
+    }
   ]
 }
