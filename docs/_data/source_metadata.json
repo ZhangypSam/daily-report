@@ -3453,5 +3453,180 @@
         }
       ]
     }
+  ],
+  "2026-10-18": [
+    {
+      "title": "1. 近期日榜发现：Anthropic 官方插件目录区分内部与第三方插件",
+      "keywords": [
+        "插件目录",
+        "Claude Code",
+        "信任边界"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "author": "anthropics",
+          "note": "本批日榜采样 2026-10-18T01:04:14.270136Z；不是项目发布日期"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期日榜发现：AI Job Search 将岗位匹配与简历复核串成流程",
+      "keywords": [
+        "求职助手",
+        "简历复核",
+        "本地工作流"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "author": "MadsLorentzen",
+          "note": "本批日榜采样 2026-10-18T01:04:14.270136Z；不是项目发布日期"
+        }
+      ]
+    },
+    {
+      "title": "3. DeepSeek 发布 V4.1 Flash 1017，同步开放 Search 与 Fetch",
+      "keywords": [
+        "DeepSeek",
+        "开放权重",
+        "搜索计费"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "DeepSeek API Docs",
+          "url": "https://api-docs.deepseek.com/news/news261017/",
+          "published": "2026/10/17（官方侧栏日期；未注明时区）"
+        },
+        {
+          "role": "辅来源",
+          "site": "Hugging Face",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "author": "deepseek-ai",
+          "note": "官方模型卡，非独立评测"
+        },
+        {
+          "role": "主来源",
+          "site": "DeepSeek API Docs",
+          "url": "https://api-docs.deepseek.com/zh-cn/guides/search/",
+          "section": "网页搜索与抓取",
+          "note": "持续更新文档；本次开放由10月17日官方公告确认"
+        }
+      ]
+    },
+    {
+      "title": "4. 新华社观察山东垂域大模型：工业场景与部署方式成为重点",
+      "keywords": [
+        "垂域模型",
+        "工业场景",
+        "定制部署"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网",
+          "url": "https://www.xinhuanet.com/20261017/a5eb90bedf2842e692d10e29d15da664/c.html",
+          "author": "陈国峰、张昕怡",
+          "published": "2026-10-17 17:56:16（原页未注明时区）"
+        }
+      ]
+    },
+    {
+      "title": "5. 广交会服务机器人出海观察：备件、培训与本地售后影响交付",
+      "keywords": [
+        "服务机器人",
+        "海外售后",
+        "代理培训"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "21世纪经济报道",
+          "url": "https://www.21jingji.com/article/20261017/herald/e9055c77d5b694d3c6825e80462974d9.html",
+          "section": "全球",
+          "author": "肖文旸",
+          "published": "2026-10-17 14:34（原页未注明时区）"
+        }
+      ]
+    },
+    {
+      "title": "6. 新华财经报道：10月16日纽约12月黄金期货收涨",
+      "keywords": [
+        "黄金期货",
+        "交易日",
+        "美元计价"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经／中国金融信息网",
+          "url": "https://www.cnfin.com/dz-lb/detail/20261017/4482410_1.html",
+          "section": "大宗",
+          "author": "徐静",
+          "published": "2026-10-17 09:17:00（HTML发布字段；未注明时区）"
+        }
+      ]
+    },
+    {
+      "title": "7. 金饰消费观察：21财经转述自戴需求与年轻消费者变化",
+      "keywords": [
+        "金饰消费",
+        "自戴需求",
+        "年轻消费者"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "21财经",
+          "url": "https://www.21jingji.com/article/20261017/herald/3a6172918854b2e81d269bc540b001a3.html",
+          "section": "投资／21视频",
+          "author": "南方财经综合",
+          "published": "2026-10-17 21:11（原页未注明时区）",
+          "note": "转述央视财经；所涉协会报告发布于10月16日"
+        }
+      ]
+    },
+    {
+      "title": "8. 哈通社：托卡耶夫与洪玛奈会谈，讨论经贸与高技术合作",
+      "keywords": [
+        "哈柬会谈",
+        "经贸合作",
+        "高技术"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "哈萨克国际通讯社",
+          "url": "https://cn.inform.kz/news/hexiangxingdahui-bd822628/",
+          "section": "总统",
+          "author": "木合塔尔 哈力木拉",
+          "author_label": "编译",
+          "published": "2026-10-17 14:47 UTC+05:00"
+        }
+      ]
+    },
+    {
+      "title": "9. OpenSpace 发布开源太空生态，首期2600颗计算卫星仍属规划",
+      "keywords": [
+        "计算卫星",
+        "太空生态",
+        "建设规划"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社／科创板日报",
+          "url": "https://www.cls.cn/detail/2507493",
+          "section": "电报",
+          "author": "李明明",
+          "published": "2026-10-17 19:45:15 UTC+08:00（页面及ctime相符）"
+        }
+      ]
+    }
   ]
 }
