@@ -3628,5 +3628,197 @@
         }
       ]
     }
+  ],
+  "2026-10-19": [
+    {
+      "title": "1. llm-tools-datasette 0.1.1 修复 HTTP 客户端依赖兼容",
+      "keywords": [
+        "Datasette",
+        "依赖修复",
+        "LLM插件"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/simonw/llm-tools-datasette/releases/tag/0.1.1",
+          "author": "simonw",
+          "published": "2026-10-18 23:43:09 UTC"
+        },
+        {
+          "role": "辅来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+          "author": "Simon Willison",
+          "published": "2026-10-18（页面所示日期）"
+        }
+      ]
+    },
+    {
+      "title": "2. llm-echo 0.5 将工具调用与推理文本纳入模拟用量",
+      "keywords": [
+        "调试插件",
+        "模拟用量",
+        "工具调用"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/simonw/llm-echo/releases/tag/0.5",
+          "author": "simonw",
+          "published": "2026-10-18 23:16:16 UTC"
+        },
+        {
+          "role": "辅来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+          "author": "Simon Willison",
+          "published": "2026-10-18（页面所示日期）"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期日榜发现：Orca 将编码智能体与独立工作树放在同一界面",
+      "keywords": [
+        "编码智能体",
+        "独立工作树",
+        "移动协作"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/stablyai/orca",
+          "author": "stablyai",
+          "note": "项目功能依原仓库；未确认项目首次发布日期"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "日榜第7位；采样2026-10-19T00:59:22.953659+00:00；不是发布时刻"
+        }
+      ]
+    },
+    {
+      "title": "4. 近期日榜发现：Cursor 官方插件仓库按独立目录组织集成",
+      "keywords": [
+        "Cursor",
+        "插件目录",
+        "开发集成"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/cursor/plugins",
+          "author": "cursor",
+          "note": "项目功能依原仓库；未确认项目首次发布日期"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "日榜第4位；采样2026-10-19T00:59:22.953659+00:00；不是发布时刻"
+        }
+      ]
+    },
+    {
+      "title": "5. 近期日榜发现：Android skills 把专项开发指引交给智能体",
+      "keywords": [
+        "Android",
+        "开发指引",
+        "智能体技能"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/android/skills",
+          "author": "android",
+          "note": "项目功能依原仓库；未确认项目首次发布日期"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "日榜第10位；采样2026-10-19T00:59:22.953659+00:00；不是发布时刻"
+        }
+      ]
+    },
+    {
+      "title": "6. Francesco Maggi 客座文章讨论 AI 证明与人类理解的边界",
+      "keywords": [
+        "数学证明",
+        "人类理解",
+        "同行评审"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Terence Tao’s blog",
+          "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
+          "author": "Francesco Maggi（客座作者）",
+          "section": "guest blog / opinion",
+          "published": "2026-10-18 14:59:49 UTC",
+          "note": "陶哲轩博客刊载；非陶哲轩本人撰写的正文"
+        }
+      ]
+    },
+    {
+      "title": "7. KB证券计划将内部 AI 工作流拓展为 B2B 服务",
+      "keywords": [
+        "KB证券",
+        "B2B服务",
+        "数据隔离"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "DigitalToday",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707786",
+          "author": "오상엽",
+          "section": "크립토",
+          "published": "2026-10-19 08:00 UTC+09:00"
+        }
+      ]
+    },
+    {
+      "title": "8. 人民日报海外版梳理 2026 年超长期特别国债资金投向",
+      "keywords": [
+        "特别国债",
+        "资金投向",
+        "两重两新"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "人民网／人民日报海外版",
+          "url": "https://finance.people.com.cn/n1/2026/1019/c1004-40817003.html",
+          "author": "汪文正",
+          "section": "经济·科技",
+          "published": "2026-10-19 07:24（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "9. 中信证券发布市场观察，称抛售压力尚无明确结束信号",
+      "keywords": [
+        "市场观察",
+        "国债ETF",
+        "机构持仓"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社",
+          "url": "https://www.cls.cn/detail/2507694",
+          "author": "中信证券研究",
+          "section": "券商动态",
+          "published": "2026-10-18 19:20（页面未标时区）"
+        }
+      ]
+    }
   ]
 }
