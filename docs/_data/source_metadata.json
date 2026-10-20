@@ -3820,5 +3820,189 @@
         }
       ]
     }
+  ],
+  "2026-10-20": [
+    {
+      "title": "1. 近期日榜发现：OpenCode 区分开发与只读规划代理",
+      "keywords": [
+        "编码代理",
+        "OpenCode",
+        "任务规划"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "note": "GitHub Trending 日榜发现；采样不是项目发布日期。"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期日榜发现：ai-memory 用 Git 与 Markdown 保存跨代理交接",
+      "keywords": [
+        "代理记忆",
+        "任务交接",
+        "Markdown"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "note": "GitHub Trending 日榜发现；采样不是项目发布日期。"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期日榜发现：ComfyUI 用节点图组织多媒体生成工作流",
+      "keywords": [
+        "节点工作流",
+        "ComfyUI",
+        "内容生成"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "note": "GitHub Trending 日榜发现；采样不是项目发布日期。"
+        }
+      ]
+    },
+    {
+      "title": "4. 近期日榜发现：Ruflo 把代理工具、控制台和运行模块分开组织",
+      "keywords": [
+        "代理编排",
+        "Ruflo",
+        "MCP"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "note": "GitHub Trending 日榜发现；本次同时保留周榜证据，按仓库只计一项。"
+        }
+      ]
+    },
+    {
+      "title": "5. 近期日榜发现：Headroom 在本地压缩代理读取的上下文",
+      "keywords": [
+        "上下文压缩",
+        "Headroom",
+        "本地处理"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · headroomlabs-ai/headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "note": "GitHub Trending 日榜发现；采样不是项目发布日期。"
+        }
+      ]
+    },
+    {
+      "title": "6. Willison 新点评：编码代理改变了编程工作的乐趣",
+      "keywords": [
+        "编码代理",
+        "程序员",
+        "工作体验"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+          "author": "Simon Willison",
+          "section": "Link Blog",
+          "published": "2026-10-19 23:58:25 UTC"
+        },
+        {
+          "role": "辅来源",
+          "site": "Jeremy Scheff · dumbmatter.com",
+          "url": "https://dumbmatter.com/2026/10/programming-obituary/",
+          "author": "Jeremy Scheff",
+          "published": "2026-10-08（原页仅日期，未标时区）",
+          "note": "较早背景文章；不是本期新发布。"
+        }
+      ]
+    },
+    {
+      "title": "7. 美国公示 DeepSeek 采购排除与系统移除通知，预定 20 日刊登",
+      "keywords": [
+        "DeepSeek",
+        "联邦采购",
+        "公开审查"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Federal Register · Public Inspection",
+          "url": "https://www.federalregister.gov/public-inspection/2026-21447/order-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive-branch-information",
+          "section": "Public Inspection",
+          "published": "Filed：2026-10-19 08:45（原页未显式标时区）",
+          "note": "文件2026-21447；正式刊登预定2026-10-20。"
+        },
+        {
+          "role": "辅来源",
+          "site": "美国国土安全部 · 公示通知PDF",
+          "url": "https://public-inspection.federalregister.gov/2026-21447.pdf",
+          "note": "公示PDF，非已完成正式刊登的版本。"
+        }
+      ]
+    },
+    {
+      "title": "8. 华尔街见闻转述高盛：黄金储存地点也进入央行储备观察",
+      "keywords": [
+        "央行购金",
+        "黄金托管",
+        "机构观点"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3783977",
+          "author": "龙玥",
+          "published": "2026-10-20 00:51:39 UTC"
+        }
+      ]
+    },
+    {
+      "title": "9. 乌国家通讯社报道米尔济约耶夫与卢比奥会晤",
+      "keywords": [
+        "乌美关系",
+        "中亚外交",
+        "投资合作"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "乌兹别克斯坦国家通讯社 UZA",
+          "url": "https://uza.uz/cn/posts/_924794",
+          "section": "Сиёсат",
+          "published": "2026-10-19 21:35（页面展示未标时区）",
+          "note": "HTML datetime 标为+00:00，与聚合时间不一致；保留原精度，不据此换算统一时刻。"
+        }
+      ]
+    },
+    {
+      "title": "10. 潘功胜演讲提出非银流动性工具与利率框架改革方向",
+      "keywords": [
+        "央行政策",
+        "流动性工具",
+        "利率框架"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "央视网 · 财经频道",
+          "url": "https://finance.cctv.com/2026/10/19/ARTIBYippL1IaMoqJdac8HkC261019.shtml",
+          "published": "2026-10-19 21:14（页面未显式标时区）",
+          "note": "页面注明来源：中国人民银行网站；正文为行长演讲全文。"
+        }
+      ]
+    }
   ]
 }
