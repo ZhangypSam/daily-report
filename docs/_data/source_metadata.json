@@ -4004,5 +4004,239 @@
         }
       ]
     }
+  ],
+  "2026-10-21": [
+    {
+      "title": "1. DeepSeek 开源 DeepInfer，完整在线推理服务仍需补齐组件",
+      "keywords": [
+        "DeepInfer",
+        "推理框架",
+        "开源"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · DeepSeek-AI",
+          "url": "https://github.com/deepseek-ai/DeepInfer",
+          "published": "初始提交：2026-10-20 12:09:42 +08:00；不是 release 公告时间"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub · 提交记录",
+          "url": "https://github.com/deepseek-ai/DeepInfer/commits/main/",
+          "note": "首个 initial commit 的 authoredDate 与 committedDate 相同；不是 pushed_at 或榜单采样时间"
+        }
+      ]
+    },
+    {
+      "title": "2. Mistral 发布 Voxtral 3，把语音识别、合成与工具调用接成实时流程",
+      "keywords": [
+        "Voxtral 3",
+        "语音代理",
+        "工具调用"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Mistral AI",
+          "url": "https://mistral.ai/news/voxtral-3/",
+          "published": "2026-10-20 12:00:22 UTC；页面更新 20:43:05.862 UTC"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期日榜发现：ai-job-search 将简历、职位匹配与面试准备串成流程",
+      "keywords": [
+        "求职助手",
+        "简历定制",
+        "Claude Code"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · MadsLorentzen",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "note": "近期榜单发现：GitHub daily 采样 2026-10-21 09:03:21.919335 +08:00，第 1 位；weekly 同仓库去重，不是新发布。"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "采样时日榜第1；不宣称严格滚动24小时或全网热度"
+        }
+      ]
+    },
+    {
+      "title": "4. 近期日榜发现：Cloudflare 审计技能把候选漏洞与独立验证分开",
+      "keywords": [
+        "安全审计",
+        "独立验证",
+        "编码代理"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · Cloudflare",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "note": "近期榜单发现：GitHub daily 采样 2026-10-21 09:03:21.919335 +08:00，第 2 位；不是过去24小时新发布。"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "采样时日榜第2；功能另据原仓库核对"
+        }
+      ]
+    },
+    {
+      "title": "5. Willison 展示 Battle Drones：用编码代理迭代即时战略游戏",
+      "keywords": [
+        "编码代理",
+        "游戏原型",
+        "音频联机"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+          "published": "2026-10-20 19:34:19 UTC（作者 Atom 与原页日期对应）",
+          "author": "Simon Willison"
+        }
+      ]
+    },
+    {
+      "title": "6. Google 开源 TorchTPU，扩展 PyTorch 在 TPU 上的原生运行路径",
+      "keywords": [
+        "TorchTPU",
+        "PyTorch",
+        "TPU"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Google Cloud Blog",
+          "url": "https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus",
+          "published": "2026-10-20（原页只标日期，未给时区）",
+          "author": "Mark Lohmeyer；Bill Jia"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub · google-pytorch",
+          "url": "https://github.com/google-pytorch/torch_tpu",
+          "note": "核对后端与内核描述；不以仓库更新时间代替公告日期"
+        }
+      ]
+    },
+    {
+      "title": "7. The Verge：Chrome 将“可疑”与“危险”网站提示分级",
+      "keywords": [
+        "Chrome",
+        "反诈检测",
+        "增强保护"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "The Verge",
+          "url": "https://www.theverge.com/tech/1014446/google-chrome-suspicious-website-warning",
+          "published": "2026-10-20 17:00:00 UTC",
+          "author": "Jess Weatherbed"
+        }
+      ]
+    },
+    {
+      "title": "8. 华尔街见闻转述招股草案报道：Anthropic 高增长伴随巨额账面亏损",
+      "keywords": [
+        "Anthropic",
+        "算力成本",
+        "会计调整"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3784062",
+          "published": "2026-10-21 07:14:47 +08:00",
+          "author": "鲍奕龙",
+          "note": "仅核对华尔街见闻已正常取得的完整报道；原候选 Reuters 返回401已停止，未读取 WSJ 付费正文或招股草案。"
+        }
+      ]
+    },
+    {
+      "title": "9. 新浪转载汇通财经：黄金市场观察聚焦利率路径与报价时点",
+      "keywords": [
+        "黄金",
+        "利率预期",
+        "报价时点"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新浪财经 · 转载汇通财经",
+          "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-10-21/doc-inivxrny8013515.shtml",
+          "published": "转载发布 2026-10-21 07:42:00 +08:00；更新 07:52:03 +08:00",
+          "note": "先正常读取完整新浪转载；随后汇通原站返回403，立即停止。主站正文未另行取得，未验证媒体报价与分析的独立准确性。"
+        }
+      ]
+    },
+    {
+      "title": "10. 欧盟发布新版北极战略，列出安全、气候、繁荣与社区四项重点",
+      "keywords": [
+        "北极战略",
+        "欧盟",
+        "数字连接"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "欧盟委员会 · Shaping Europe’s digital future",
+          "url": "https://digital-strategy.ec.europa.eu/en/news/eu-sets-out-new-strategy-arctic",
+          "published": "2026-10-20（原页只标日期，未给时区）",
+          "note": "候选 RFI 原文未取得，主页403后停止；本条事实改据独立正常取得的欧盟原始公告。"
+        }
+      ]
+    },
+    {
+      "title": "11. 10 月 LPR 报价维持：1 年期 3.0%，5 年期以上 3.5%",
+      "keywords": [
+        "LPR",
+        "贷款利率",
+        "利率报价"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新浪财经 · 转载中国银行保险报",
+          "url": "https://finance.sina.com.cn/money/bank/2026-10-20/doc-inivvsvv6569726.shtml",
+          "published": "转载发布 2026-10-20 09:31:00 +08:00；更新 10:08:05 +08:00",
+          "note": "数值归属于所读完整转载报道；不以聚合收录时间代替发布时点。"
+        }
+      ]
+    },
+    {
+      "title": "12. 第一财经：国家数据集团在雄安成立，定位数据资源开发利用",
+      "keywords": [
+        "国家数据集团",
+        "数据要素",
+        "雄安"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "第一财经",
+          "url": "https://www.yicai.com/news/103401117.html",
+          "published": "2026-10-20 19:22:05（原文未明示时区；新浪转载元数据标 +08:00）",
+          "author": "祝嫣然"
+        },
+        {
+          "role": "辅来源",
+          "site": "新浪财经 · 第一财经转载",
+          "url": "https://finance.sina.com.cn/roll/2026-10-20/doc-inivwpzm6482518.shtml",
+          "published": "2026-10-20 19:22:05 +08:00",
+          "note": "转载元数据明确时区；原文与转载分开记录"
+        }
+      ]
+    }
   ]
 }
