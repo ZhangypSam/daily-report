@@ -4238,5 +4238,199 @@
         }
       ]
     }
+  ],
+  "2026-10-22": [
+    {
+      "title": "1. Claude Duet 开放研究预览，主动任务仍受候补与使用额度限制",
+      "keywords": [
+        "主动代理",
+        "研究预览",
+        "任务审批"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Claude by Anthropic",
+          "url": "https://claude.com/resources/articles/claude-duet",
+          "published": "2026-10-21（官方只标日期，未给时区）"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期日榜发现：Graphify 用可追溯知识图谱帮助理解代码库",
+      "keywords": [
+        "知识图谱",
+        "代码理解",
+        "本地解析"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · Graphify-Labs",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "note": "GitHub daily 采样 2026-10-22 09:05:39.301980 +08:00，第12位；非项目发布日期"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期日榜发现：freehire 将职位目录、简历与申请进度放入开源工作区",
+      "keywords": [
+        "职位检索",
+        "求职流程",
+        "开源工具"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · strelov1",
+          "url": "https://github.com/strelov1/freehire",
+          "note": "GitHub daily 采样 2026-10-22 09:05:39.301980 +08:00，第10位；非新发布"
+        }
+      ]
+    },
+    {
+      "title": "4. NVIDIA 扩展 Isaac 平台，Isaac Lab 3.0 与机器人运行时同步推进",
+      "keywords": [
+        "机器人",
+        "仿真训练",
+        "Isaac平台"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "NVIDIA Newsroom",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
+          "published": "2026-10-21（原页只标日期，未给时区）"
+        }
+      ]
+    },
+    {
+      "title": "5. OpenAI 介绍 Patch the Planet，强调关键漏洞修复的跨机构协调",
+      "keywords": [
+        "漏洞披露",
+        "补丁协同",
+        "AI安全"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+          "published": "2026-10-21（官方只标日期，未给时区）"
+        }
+      ]
+    },
+    {
+      "title": "6. OpenAI 展示分布式代理解读脑细胞数据，结论仍是待实验的研究线索",
+      "keywords": [
+        "分布式代理",
+        "生物数据",
+        "研究线索"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI",
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+          "published": "2026-10-21（官方只标日期，未给时区）"
+        }
+      ]
+    },
+    {
+      "title": "7. GitHub 解释代理规模的 Git 基础设施：把写入协调细化到引用",
+      "keywords": [
+        "Git基础设施",
+        "引用协调",
+        "代理开发"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub Blog",
+          "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+          "published": "2026-10-21 16:00:00 +00:00"
+        }
+      ]
+    },
+    {
+      "title": "8. OpenAI 模型将进入 Google Cloud，企业可使用云消费承诺采购",
+      "keywords": [
+        "模型分销",
+        "云采购",
+        "企业应用"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI",
+          "url": "https://openai.com/index/openai-models-google-cloud/",
+          "published": "2026-10-21（官方只标日期，未给时区）"
+        }
+      ]
+    },
+    {
+      "title": "9. OpenAI 更新渠道安全要求，模型路由和网关须预先获得审核批准",
+      "keywords": [
+        "模型路由",
+        "渠道合规",
+        "安全标准"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI",
+          "url": "https://openai.com/index/broad-access-through-consistent-standards/",
+          "published": "2026-10-21（官方只标日期，未给时区）"
+        }
+      ]
+    },
+    {
+      "title": "10. 新华财经快讯：SPDR Gold Trust 黄金持仓较上日减少",
+      "keywords": [
+        "黄金ETF",
+        "基金持仓",
+        "数据日期"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经 · 中国金融信息网",
+          "url": "https://www.cnfin.com/kx/detail/20261022/4484535_1.html",
+          "published": "2026-10-22（网页元数据06:47:45，未明示时区）"
+        }
+      ]
+    },
+    {
+      "title": "11. 新华财经：加拿大与安大略省宣布战略产业援助计划",
+      "keywords": [
+        "加拿大",
+        "产业援助",
+        "关税影响"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华社 · 中国金融信息网",
+          "url": "https://www.cnfin.com/hg-lb/detail/20261022/4484578_1.html",
+          "published": "2026-10-22（网页元数据07:42:30，未明示时区）"
+        }
+      ]
+    },
+    {
+      "title": "12. 新华财经：英国公共部门净债务首次突破3万亿英镑",
+      "keywords": [
+        "英国财政",
+        "公共债务",
+        "借款数据"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华社 · 中国金融信息网",
+          "url": "https://www.cnfin.com/zs-lb/detail/20261021/4484477_1.html",
+          "published": "2026-10-21（网页元数据21:08:07，未明示时区）"
+        }
+      ]
+    }
   ]
 }
