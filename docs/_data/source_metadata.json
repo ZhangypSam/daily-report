@@ -4432,5 +4432,131 @@
         }
       ]
     }
+  ],
+  "2026-10-23": [
+    {
+      "title": "1. 近期日榜发现：Claude How To 用教程与模板串联编码代理工作流",
+      "keywords": [
+        "代理教程",
+        "工作流",
+        "模板"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · luongnv89",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "note": "本期近期日榜发现；榜单采样非新发布"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending 日榜",
+          "url": "https://github.com/trending?since=daily",
+          "note": "2026-10-23 01:02:03.437101 +00:00采样；原始榜单未公开精确滚动窗口边界"
+        }
+      ]
+    },
+    {
+      "title": "2. Willison 转述 Agent Skills 移交 AAIF 的消息，并讨论开放标准归属",
+      "keywords": [
+        "技能标准",
+        "AAIF",
+        "开放治理"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+          "published": "2026-10-22；RSS 为 18:09:56 +00:00，原页显示18:09但未明示时区。",
+          "author": "Simon Willison",
+          "note": "官方原站403后停止，本文只核验作者转述与评论"
+        }
+      ]
+    },
+    {
+      "title": "3. 财联社报道东南亚 AI 商业化：企业应用收入不止来自个人订阅",
+      "keywords": [
+        "东南亚",
+        "企业应用",
+        "商业模式"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社",
+          "url": "https://www.cls.cn/detail/2512458",
+          "published": "2026-10-22 18:26（原页显示，未明示时区）。",
+          "author": "许元嘉（实习编辑）、齐灵（编辑）",
+          "section": "环球市场情报"
+        }
+      ]
+    },
+    {
+      "title": "4. 世界黄金协会月评：9月中国黄金 ETF 净流入110亿元，资产规模仍回落",
+      "keywords": [
+        "黄金ETF",
+        "资金流入",
+        "持仓"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新浪财经 · 世界黄金协会",
+          "url": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-10-22/doc-iniwchpf5863205.shtml",
+          "published": "2026-10-22 20:27:06 +08:00（页面发布时间字段）；数据截至2026-09-30，部分观察截至10月12日。",
+          "author": "世界黄金协会"
+        }
+      ]
+    },
+    {
+      "title": "5. 欧洲议会将2026年萨哈罗夫奖授予国际刑事法院及其官员",
+      "keywords": [
+        "欧洲议会",
+        "国际刑事法院",
+        "萨哈罗夫奖"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "European Parliament",
+          "url": "https://www.europarl.europa.eu/news/en/press-room/20261018IPR48263/the-international-criminal-court-and-its-officials-awarded-the-sakharov-prize",
+          "published": "2026-10-22；原页 time 为12:04，未给时区。"
+        }
+      ]
+    },
+    {
+      "title": "6. 土耳其央行将一周期回购政策利率从37%降至36%",
+      "keywords": [
+        "土耳其央行",
+        "政策利率",
+        "通胀"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Central Bank of the Republic of Türkiye",
+          "url": "https://www.tcmb.gov.tr/wps/wcm/connect/en/tcmb%2Ben/main%2Bmenu/announcements/press%2Breleases/2026/ano2026-45",
+          "published": "2026-10-22（官方公告只标日期，未给时区）。"
+        }
+      ]
+    },
+    {
+      "title": "7. 新华社梳理数字人民币基础设施升级，境内与跨境平台分工更清晰",
+      "keywords": [
+        "数字人民币",
+        "支付结算",
+        "智能合约"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网客户端",
+          "url": "https://app.xinhuanet.com/news/article.html?articleId=20261022a006fe64832d4a2c8ca8f1b58f2b738d",
+          "published": "2026-10-22 17:57:44（原页未标时区）；相关年会举行于10月21日。",
+          "author": "吴雨"
+        }
+      ]
+    }
   ]
 }
