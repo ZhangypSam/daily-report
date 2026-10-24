@@ -4558,5 +4558,226 @@
         }
       ]
     }
+  ],
+  "2026-10-24": [
+    {
+      "title": "1. 近期日榜发现：NVIDIA OpenShell 以策略约束自主代理的运行权限",
+      "keywords": [
+        "代理沙箱",
+        "权限策略",
+        "凭据隔离"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · NVIDIA",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "author": "NVIDIA",
+          "section": "README",
+          "note": "近期日榜发现；采样2026-10-24 10:22:16.230259 +08:00，不代表项目发布日期。"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "日榜采样，不代表项目发布日期；GitHub未公布精确窗口边界。"
+        }
+      ]
+    },
+    {
+      "title": "2. Quick Study 展示用 Canvas 与边缘检测模拟照片绘画的轻量工作流",
+      "keywords": [
+        "Canvas",
+        "边缘检测",
+        "绘画模拟"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+          "published": "2026-10-23；RSS 21:35:13 +00:00，原页显示9:35 pm但未明示时区",
+          "author": "Simon Willison",
+          "section": "Tool"
+        }
+      ]
+    },
+    {
+      "title": "3. BottleCap AI 发布 Gemma ThinkingCap，称推理词元平均减少38.9%",
+      "keywords": [
+        "推理词元",
+        "Gemma",
+        "评测口径"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "BottleCap AI",
+          "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
+          "published": "2026-10-23（原页只标日期，未明示时区）"
+        }
+      ]
+    },
+    {
+      "title": "4. Kimi K3.1 Pro 上线，官方称完整权重将不晚于11月4日发布",
+      "keywords": [
+        "Kimi",
+        "模型上线",
+        "开放权重"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Moonshot · Kimi",
+          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+          "note": "官方公告未单列发布日期；未来开放权重为承诺，尚未验证交付。"
+        },
+        {
+          "role": "辅来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+          "author": "Simon Willison",
+          "published": "2026-10-23；RSS 19:40:54 +00:00，原页显示7:40 pm但未明示时区"
+        }
+      ]
+    },
+    {
+      "title": "5. OpenAI 披露前沿模型训练环境的离线隔离与持续红队措施",
+      "keywords": [
+        "离线训练",
+        "模型隔离",
+        "红队测试"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+          "published": "2026-10-23（正文日期，未明示时区）",
+          "section": "Security Publication"
+        }
+      ]
+    },
+    {
+      "title": "6. 国办部署就业友好型 AI 发展，提出就业创造与风险应对任务",
+      "keywords": [
+        "就业影响",
+        "技能培训",
+        "风险监测"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网 · 新华社",
+          "url": "https://www.news.cn/politics/20261023/f21a5777774749daa0eed451c81f4002/c.html",
+          "published": "2026-10-23 17:02:53（原页未明示时区）",
+          "section": "时政"
+        }
+      ]
+    },
+    {
+      "title": "7. 华尔街见闻转述 Meta 商业化计划：Muse 探索订阅、企业服务与交易佣金",
+      "keywords": [
+        "Muse",
+        "企业付费",
+        "交易佣金"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3784364",
+          "published": "2026-10-24 05:18:40 +08:00（页面time字段为2026-10-23T21:18:40Z）",
+          "author": "李丹"
+        }
+      ]
+    },
+    {
+      "title": "8. 财联社报道现货黄金失守4000美元，报价与原因分析分别看待",
+      "keywords": [
+        "现货黄金",
+        "美元盎司",
+        "市场观点"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社",
+          "url": "https://www.cls.cn/detail/2514076",
+          "published": "2026-10-24 02:20（原页未明示时区）",
+          "author": "赵昊",
+          "section": "环球市场情报"
+        }
+      ]
+    },
+    {
+      "title": "9. 哈通社：哈萨克斯坦与沙特讨论政治、经贸及国际组织合作",
+      "keywords": [
+        "哈萨克斯坦",
+        "沙特",
+        "外交会晤"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "哈萨克国际通讯社",
+          "url": "https://cn.inform.kz/news/yudazhengdui-447f7905/",
+          "published": "2026-10-23 21:56:00 +05:00",
+          "author": "木合塔尔 哈力木拉（编译）"
+        }
+      ]
+    },
+    {
+      "title": "10. 人民日报海外版梳理前三季度财政收支：收入17.23万亿元",
+      "keywords": [
+        "财政收支",
+        "一般公共预算",
+        "专项债"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "人民网 · 人民日报海外版",
+          "url": "https://finance.people.com.cn/n1/2026/1024/c1004-40820653.html",
+          "published": "2026-10-24 06:21（原页未明示时区）",
+          "author": "汪文正",
+          "section": "经济·科技／锐财经"
+        }
+      ]
+    },
+    {
+      "title": "11. 国常会研究人口与经济社会发展，并部署服务业扩能提质",
+      "keywords": [
+        "人口政策",
+        "服务业",
+        "市场准入"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社 · 央视新闻",
+          "url": "https://www.cls.cn/detail/2513857",
+          "published": "2026-10-23 19:51（刊载页未明示时区）"
+        }
+      ]
+    },
+    {
+      "title": "12. 财联社报道花旗证券中国获批设立，经营业务仍须完成后续许可",
+      "keywords": [
+        "花旗证券",
+        "外资券商",
+        "经营许可"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社",
+          "url": "https://www.cls.cn/detail/2513665",
+          "published": "2026-10-23 17:22（原页未明示时区）",
+          "author": "林坚",
+          "section": "券商动态"
+        }
+      ]
+    }
   ]
 }
