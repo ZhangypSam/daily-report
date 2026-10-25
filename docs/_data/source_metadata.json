@@ -4779,5 +4779,182 @@
         }
       ]
     }
+  ],
+  "2026-10-25": [
+    {
+      "title": "1. 近期日榜发现：Agent Toolkit for AWS 整合云开发工具与代理技能",
+      "keywords": [
+        "AWS",
+        "编码代理",
+        "云开发"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "author": "aws",
+          "note": "近期日榜发现；采样 2026-10-25T00:59:01.541792+00:00，不是项目发布日期"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "本次采样日榜第3位；不是全网热度排名"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期日榜发现：Hallmark 将页面设计与浏览器检查串成工作流",
+      "keywords": [
+        "界面设计",
+        "浏览器检查",
+        "Hallmark"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/Nutlope/hallmark",
+          "author": "Nutlope",
+          "note": "近期日榜发现；采样 2026-10-25T00:59:01.541792+00:00，不是项目发布日期"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "本次采样日榜第4位；不是效果或质量排名"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期日榜发现：Cindy 用同一工作区连接多种编码代理",
+      "keywords": [
+        "Cindy",
+        "工作区",
+        "代理工具"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/makecindy/cindy",
+          "author": "makecindy",
+          "note": "近期日榜发现；采样 2026-10-25T00:59:01.541792+00:00，不是项目发布日期"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "本次采样日榜第10位；不是性能排名"
+        }
+      ]
+    },
+    {
+      "title": "4. Willison 用 Claude 为 Battledrones 增加四人联机地图",
+      "keywords": [
+        "编码实践",
+        "联机游戏",
+        "Claude"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+          "author": "Simon Willison",
+          "category": "game-design / projects / claude",
+          "published": "2026-10-24 03:59:57 +00:00（RSS）；原页显示24日3:59 am，未明示时区"
+        }
+      ]
+    },
+    {
+      "title": "5. AIGC 广告治理蓝皮书发布，提出贯穿投放流程的风险治理",
+      "keywords": [
+        "AIGC",
+        "广告治理",
+        "平台责任"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中国新闻网",
+          "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720487.shtml",
+          "author": "尹倩芸、陶思阅",
+          "section": "财经频道",
+          "published": "2026-10-24 20:51:41（原页未明示时区）"
+        }
+      ]
+    },
+    {
+      "title": "6. 支付宝 AI 支付发起黑客松，将真实付费纳入评选",
+      "keywords": [
+        "AI支付",
+        "黑客松",
+        "商业验证"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "雷峰网",
+          "url": "https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html",
+          "author": "Nemo",
+          "section": "业界",
+          "published": "2026-10-24 16:49（原页未明示时区）"
+        }
+      ]
+    },
+    {
+      "title": "7. 中新社报道金正恩访问丹东，王沪宁陪同会见与参观",
+      "keywords": [
+        "中朝关系",
+        "丹东访问",
+        "外交会见"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中国新闻网 · 中新社",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720464.shtml",
+          "section": "国内新闻",
+          "published": "2026-10-24 21:13:34（原页未明示时区）"
+        }
+      ]
+    },
+    {
+      "title": "8. 21世纪经济报道探访华强北显卡市场，停产传闻仍须区别对待",
+      "keywords": [
+        "显卡渠道",
+        "华强北",
+        "供需预期"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "21世纪经济报道",
+          "url": "https://www.21jingji.com/article/20261024/herald/91c869c9910af4ecd72b4e831d0fb163.html",
+          "author": "李金萍",
+          "published": "2026-10-24 12:35:08 +08:00（原页结构化字段）"
+        }
+      ]
+    },
+    {
+      "title": "9. 第一财经报道2025年初婚人数回升，数据年度与报道日期分开看",
+      "keywords": [
+        "人口数据",
+        "初婚人数",
+        "消费场景"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新浪财经（转载第一财经）",
+          "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwicvq4847859.shtml",
+          "section": "经济新闻滚动",
+          "published": "2026-10-24 15:28（页面可见）；结构化字段包含+08:00",
+          "note": "数据为2025年；本期未直接重建统计年鉴明细"
+        }
+      ]
+    }
   ]
 }
