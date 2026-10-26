@@ -4956,5 +4956,178 @@
         }
       ]
     }
+  ],
+  "2026-10-26": [
+    {
+      "title": "1. 近期日榜发现：ThinkRail 将编码代理、独立工作区与项目规格结合",
+      "keywords": [
+        "编码代理",
+        "独立工作区",
+        "项目规格"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · JetBrains",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "note": "近期日榜发现；采样时间不是项目发布日期"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "采样2026-10-26T01:04:18.130710+00:00；未公开精确窗口边界"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期日榜发现：Microduck 公开强化学习双足机器人的运行软件",
+      "keywords": [
+        "双足机器人",
+        "强化学习",
+        "控制策略"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · Pollen Robotics",
+          "url": "https://github.com/pollen-robotics/microduck",
+          "note": "近期日榜发现；采样时间不是项目发布日期"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "采样2026-10-26T01:04:18.130710+00:00；未公开精确窗口边界"
+        }
+      ]
+    },
+    {
+      "title": "3. 皮肤科医生公开小样本测试：专用 CNN 的诊断准确率高于两款通用模型",
+      "keywords": [
+        "皮肤病图像",
+        "专用模型",
+        "样本限制"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Lynch Lab",
+          "url": "https://lynchlab.net/llm-skin-cancer",
+          "author": "Dr Magnus Lynch",
+          "published": "2026-10-25（原页只列日期，未显式标注时区）"
+        }
+      ]
+    },
+    {
+      "title": "4. Max Woolf 梳理模型降价，提醒把缓存费用与实际使用成本分开",
+      "keywords": [
+        "模型定价",
+        "缓存费用",
+        "推理成本"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Max Woolf’s Blog",
+          "url": "https://minimaxir.com/2026/10/cheap-llms/",
+          "author": "Max Woolf",
+          "published": "2026-10-25（原页只列日期，未显式标注时区）"
+        }
+      ]
+    },
+    {
+      "title": "5. 每经观察 AI 电影商业化：高毛利率背后，业务收入占比仍小",
+      "keywords": [
+        "AI电影",
+        "业务收入",
+        "商业化"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "每日经济新闻",
+          "url": "https://www.nbd.com.cn/articles/2026-10-25/4616332.html",
+          "author": "毕媛媛",
+          "section": "要闻",
+          "published": "2026-10-25 16:49:29（原页未显式标注时区）"
+        }
+      ]
+    },
+    {
+      "title": "6. 美联社报道卢拉赢得巴西总统决选，统计结果与政治判断分开看",
+      "keywords": [
+        "巴西大选",
+        "卢拉",
+        "决选结果"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Associated Press",
+          "url": "https://apnews.com/article/brazil-election-lula-bolsonaro-runoff-vote-president-e2c9fe8fc4aa3e3675b9a8ec15405d93",
+          "author": "ELÉONORE HUGHES、MAURICIO SAVARESE、ANNA-CATHERINE BRIGIDA",
+          "section": "World",
+          "published": "2026-10-25T05:00:16Z（原页 JSON-LD）",
+          "updated": "2026-10-26T00:58:03Z（原页 JSON-LD）"
+        }
+      ]
+    },
+    {
+      "title": "7. 港台报道武契奇承认议会选举失利，席位数字仍是其估计",
+      "keywords": [
+        "塞尔维亚",
+        "议会选举",
+        "学生名单"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "香港电台 RTHK",
+          "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1875290-20261026.htm",
+          "author": "梁政滔",
+          "published": "2026-10-26 05:13 HKT（UTC+08:00）"
+        }
+      ]
+    },
+    {
+      "title": "8. 上证系列综合指数修订今日实施，增加单一样本权重上限",
+      "keywords": [
+        "上证指数",
+        "权重上限",
+        "编制规则"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "上海证券交易所",
+          "url": "https://big5.sse.com.cn/site/cht/www.sse.com.cn/market/sseindex/diclosure/c/c_20260924_10833342.shtml",
+          "published": "2026-09-24（公告日期）"
+        },
+        {
+          "role": "辅来源",
+          "site": "经济导报／新浪财经",
+          "url": "https://finance.sina.com.cn/roll/2026-10-26/doc-iniwnzec5753024.shtml",
+          "published": "2026-10-26 07:14（原页未显式标注时区）"
+        }
+      ]
+    },
+    {
+      "title": "9. 第一财经转述蓝思科技三季报：前三季度净利润同比下降50.06%",
+      "keywords": [
+        "蓝思科技",
+        "三季报",
+        "净利润"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "第一财经",
+          "url": "https://www.yicai.com/brief/103408132.html",
+          "section": "快讯",
+          "published": "2026-10-25 13:40（原页未显式标注时区）"
+        }
+      ]
+    }
   ]
 }
