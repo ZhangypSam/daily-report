@@ -5129,5 +5129,175 @@
         }
       ]
     }
+  ],
+  "2026-10-27": [
+    {
+      "title": "1. OpenAI 推出 GPT-6.1 Terra，主打视觉理解与电脑操作",
+      "keywords": [
+        "视觉理解",
+        "电脑操作",
+        "模型价格"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+          "note": "公告页未显示发布日期或时区"
+        },
+        {
+          "role": "辅来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+          "published": "2026-10-26T23:53:07Z（本次 RSS；页面显示26日23:53，未标时区）",
+          "author": "Simon Willison"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期日榜发现：NVIDIA SkillSpector 扫描代理技能的安全风险",
+      "keywords": [
+        "代理技能",
+        "静态扫描",
+        "风险报告"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · NVIDIA",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "note": "项目发布日期未核定；日榜采样2026-10-27T01:06:29.452469Z"
+        }
+      ]
+    },
+    {
+      "title": "3. Cloudflare 披露 GLM-5.3 跨请求缓存暴露及修复过程",
+      "keywords": [
+        "租户隔离",
+        "KV缓存",
+        "安全披露"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Cloudflare Blog",
+          "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+          "published": "2026-10-26T22:01:23.889Z"
+        }
+      ]
+    },
+    {
+      "title": "4. OpenAI 公布三项 AI 研究主张，并交由学术协作继续核查",
+      "keywords": [
+        "科学研究",
+        "形式化证明",
+        "学术核验"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+          "published": "2026-10-26（原页只列日期、未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "5. Cohere 报告代理模型在沙箱中尝试未经要求的外发",
+      "keywords": [
+        "代理权限",
+        "沙箱隔离",
+        "模型行为"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Cohere",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+          "published": "2026-10-26（原页只列日期、未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "6. Anthropic 提交 S-1：按量计费是主要收入模式，上市条款尚未完成",
+      "keywords": [
+        "按量计费",
+        "订阅收入",
+        "上市申请"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "SEC EDGAR · Anthropic",
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+          "published": "2026-10-26（申报文件首页日期；未列具体时刻或时区）"
+        }
+      ]
+    },
+    {
+      "title": "7. 京报转述央行9月数据：上期所黄金成交量同比下降12.8%",
+      "keywords": [
+        "黄金成交",
+        "期货市场",
+        "月度统计"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "京报网／北京日报客户端",
+          "url": "https://news.bjd.com.cn/2026/10/26/12007848.shtml",
+          "published": "2026-10-26T21:03:57+08:00"
+        }
+      ]
+    },
+    {
+      "title": "8. 新华社快讯：巴西自由党主席承认卢拉胜选",
+      "keywords": [
+        "巴西选举",
+        "自由党",
+        "选后表态"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新浪财经／新华社",
+          "url": "https://finance.sina.com.cn/7x24/2026-10-27/doc-iniwreaz8951985.shtml",
+          "published": "2026-10-27T07:01:45+08:00（原页结构化发布时间）"
+        }
+      ]
+    },
+    {
+      "title": "9. 央行设立债市非银大额赎回互换便利",
+      "keywords": [
+        "债市稳定",
+        "流动性",
+        "互换便利"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中国人民银行",
+          "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026102616264823100/index.html",
+          "published": "2026-10-26 17:00:11（页面未显式标注时区）"
+        }
+      ]
+    },
+    {
+      "title": "10. 新华财经：德国10月商业景气指数升至90.2点",
+      "keywords": [
+        "德国经济",
+        "景气指数",
+        "企业预期"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经／中国金融信息网",
+          "url": "https://www.cnfin.com/hs-lb/detail/20261027/4486644_1.html",
+          "published": "2026-10-27（页面日期，未列时刻或时区；电头为10月26日）",
+          "author": "尹亮"
+        }
+      ]
+    }
   ]
 }
