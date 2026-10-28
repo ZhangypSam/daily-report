@@ -5299,5 +5299,317 @@
         }
       ]
     }
+  ],
+  "2026-10-28": [
+    {
+      "title": "1. 近期日榜发现：AI Design Skills 将落地页设计流程写成可复用规则",
+      "keywords": [
+        "落地页",
+        "设计技能",
+        "工作流"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/elayadesign/ai-design-skills",
+          "note": "本期日榜采样 2026-10-28 09:05:35（Asia/Shanghai）；不是项目发布日期",
+          "author": "elayadesign"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "本期日榜采样 2026-10-28 09:05:35（Asia/Shanghai）；不是项目发布日期"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期日榜发现：OpenBot 为持续运行的代理提供独立工作区",
+      "keywords": [
+        "代理工作区",
+        "本地优先",
+        "权限"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/nightly-labs/openbot",
+          "note": "本期日榜采样 2026-10-28 09:05:35（Asia/Shanghai）；不是项目发布日期",
+          "author": "nightly-labs"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "本期日榜采样 2026-10-28 09:05:35（Asia/Shanghai）；不是项目发布日期"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期日榜发现：Superpowers 将需求、计划与验证串成代理开发流程",
+      "keywords": [
+        "需求澄清",
+        "开发流程",
+        "验证"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/obra/superpowers",
+          "note": "本期日榜采样 2026-10-28 09:05:35（Asia/Shanghai）；不是项目发布日期",
+          "author": "obra"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "本期日榜采样 2026-10-28 09:05:35（Asia/Shanghai）；不是项目发布日期"
+        }
+      ]
+    },
+    {
+      "title": "4. 工程师实践：代理写代码之后，仍需建立系统模型与排障能力",
+      "keywords": [
+        "编码代理",
+        "系统理解",
+        "排障"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Engineering Notes",
+          "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+          "author": "adrq",
+          "note": "原页结构化发表时间；修改时间另列，未代替发表时间",
+          "published": "2026-10-27T02:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "title": "5. Google DeepMind 发布 Genie 4 研究预览，加入原生音频与实时场景控制",
+      "keywords": [
+        "世界模型",
+        "原生音频",
+        "研究预览"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Google DeepMind",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "author": "Raia Hadsell、Diego Rivas、Hang Qi",
+          "published": "2026-10-27T16:13:00+00:00"
+        }
+      ]
+    },
+    {
+      "title": "6. Axiom 称完成有限单群分类的 Lean 形式化，公开证明地图与代码",
+      "keywords": [
+        "形式化证明",
+        "Lean",
+        "有限单群"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Axiom Math",
+          "url": "https://axiommath.ai/research/the-enormous-theorem-formalized/",
+          "note": "正式文章内嵌 publishedAt 字段",
+          "published": "2026-10-27T22:16:41.514+00:00"
+        },
+        {
+          "role": "辅来源",
+          "site": "Axiom Math",
+          "url": "https://cfsg.axiommath.ai/",
+          "note": "项目证明地图与仓库入口"
+        }
+      ]
+    },
+    {
+      "title": "7. 斯坦福校报采访作者，追踪 Anthropic 训练图书版权争议",
+      "keywords": [
+        "训练数据",
+        "图书版权",
+        "作者"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "The Stanford Daily",
+          "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+          "author": "April Yu",
+          "section": "News · Campus Life",
+          "published": "2026-10-27T02:46:17-07:00"
+        }
+      ]
+    },
+    {
+      "title": "8. 新京报转述金山办公三季报：个人订阅收入增16.78%",
+      "keywords": [
+        "付费转化",
+        "WPS",
+        "订阅收入"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新京报 · 贝壳财经",
+          "url": "https://www.bjnews.com.cn/detail/1793096550129912.html",
+          "author": "陈维城",
+          "note": "站内搜索返回完整正文；文章页随后 HTTP503，已停止该目标访问",
+          "published": "2026-10-27 18:30:18（发布方未标注时区）"
+        }
+      ]
+    },
+    {
+      "title": "9. 新华财经报道：纽约12月黄金期货27日收于4073.1美元／盎司",
+      "keywords": [
+        "黄金期货",
+        "收盘价",
+        "美元"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经",
+          "url": "https://www.cnfin.com/dz-lb/detail/20261028/4487306_1.html",
+          "author": "徐静",
+          "section": "大宗",
+          "published": "2026-10-28 07:38:26（页面未标注时区）"
+        }
+      ]
+    },
+    {
+      "title": "10. 新华财经快讯称 SPDR Gold Trust 持仓增0.855吨",
+      "keywords": [
+        "黄金ETF",
+        "SPDR",
+        "持仓"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经",
+          "url": "https://www.cnfin.com/dz-lb/detail/20261028/4487279_1.html",
+          "section": "大宗",
+          "published": "2026-10-28 07:03:41（页面未标注时区）"
+        }
+      ]
+    },
+    {
+      "title": "11. 央视报道以色列议会选举开始，组阁门槛为61席",
+      "keywords": [
+        "以色列",
+        "议会选举",
+        "组阁"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "京报网 · 央视新闻客户端",
+          "url": "https://news.bjd.com.cn/2026/10/27/12009066.shtml",
+          "note": "京报转载央视新闻客户端报道；未独立取得中央选举委员会原始数据",
+          "published": "2026-10-27T22:50:29+08:00"
+        }
+      ]
+    },
+    {
+      "title": "12. 荷兰外长宣布支持搜寻亚美尼亚与阿塞拜疆失踪人员",
+      "keywords": [
+        "荷兰",
+        "亚美尼亚",
+        "失踪人员"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Armenpress",
+          "url": "https://armenpress.am/zh/article/1263938",
+          "section": "政治",
+          "published": "2026-10-27T13:03:00+04:00"
+        },
+        {
+          "role": "辅来源",
+          "site": "Armenpress",
+          "url": "https://armenpress.am/zh/article/1263910",
+          "section": "政治",
+          "published": "2026-10-27T10:54:00+04:00"
+        }
+      ]
+    },
+    {
+      "title": "13. 央视转述塞尔维亚初步计票：学生名单预计获140席",
+      "keywords": [
+        "塞尔维亚",
+        "初步计票",
+        "学生名单"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "京报网 · 央视新闻客户端",
+          "url": "https://news.bjd.com.cn/2026/10/27/12008448.shtml",
+          "note": "转述选举委员会初步结果；并非最终结果",
+          "published": "2026-10-27T14:07:32+08:00"
+        }
+      ]
+    },
+    {
+      "title": "14. 人民日报调研财政金融协同促内需，区分既有政策与最新走访",
+      "keywords": [
+        "财政贴息",
+        "融资担保",
+        "内需"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "人民网 · 人民日报",
+          "url": "https://finance.people.com.cn/n1/2026/1028/c1004-40822760.html",
+          "author": "曲哲涵",
+          "section": "经济·科技",
+          "published": "2026-10-28 06:08（页面未标注时区）"
+        }
+      ]
+    },
+    {
+      "title": "15. 新华财经：纽约股市27日三大股指收涨，纳指涨1.18%",
+      "keywords": [
+        "美股",
+        "纳斯达克",
+        "收盘"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经",
+          "url": "https://www.cnfin.com/gs-lb/detail/20261028/4487315_1.html",
+          "author": "刘亚南",
+          "section": "股市",
+          "published": "2026-10-28 07:46:17（页面未标注时区）"
+        }
+      ]
+    },
+    {
+      "title": "16. CFM 闪存市场称渠道 SSD 价格下调，行业市场价格暂稳",
+      "keywords": [
+        "SSD",
+        "渠道价格",
+        "存储"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "CFM 闪存市场",
+          "url": "https://www.chinaflashmarket.com/a/184373",
+          "author": "AWU",
+          "section": "每周点评",
+          "published": "2026-10-27 16:44（页面未标注时区）"
+        }
+      ]
+    }
   ]
 }
