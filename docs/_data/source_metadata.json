@@ -5611,5 +5611,143 @@
         }
       ]
     }
+  ],
+  "2026-10-29": [
+    {
+      "title": "1. DeepTutor 1.7.0 调整模块安装，并加入分块笔记与视频课程",
+      "keywords": [
+        "学习助手",
+        "模块安装",
+        "视频课程"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · HKUDS",
+          "url": "https://github.com/HKUDS/DeepTutor/releases/tag/v1.7.0",
+          "published": "2026-10-28T14:13:12+00:00"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期日榜发现：Macro 把邮件、文档、任务和代理连接到同一工作区",
+      "keywords": [
+        "协作工作区",
+        "团队记忆",
+        "代理工具"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · Macro",
+          "url": "https://github.com/macro-inc/macro",
+          "published": "2026-10-29T01:07:54.349545+00:00"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "仅为本次日榜采样证据，不代表项目发布日期或严格滚动24小时增量。"
+        }
+      ]
+    },
+    {
+      "title": "3. NVIDIA 发布 Nemotron 3.5 Transcribe，将多语转录与说话人归属放入同一模型",
+      "keywords": [
+        "语音转录",
+        "说话人归属",
+        "多语模型"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Hugging Face · NVIDIA",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "published": "2026-10-28（发布栏仅日期，未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "4. Simon Willison 分享浏览器游戏实践，将玩法迭代列为代理开发的新重点",
+      "keywords": [
+        "游戏开发",
+        "代理编程",
+        "玩法迭代"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+          "published": "2026-10-28 13:55（页面未标时区）；本次订阅源记录 2026-10-28T13:55:15+00:00",
+          "author": "Simon Willison"
+        }
+      ]
+    },
+    {
+      "title": "5. Google 宣布 Gemini 4 Carbon，先向部分网络防御伙伴开放",
+      "keywords": [
+        "Gemini",
+        "网络防御",
+        "分阶段开放"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Google",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+          "published": "2026-10-28T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "title": "6. GitHub 发布 Octoverse 2026，报告代理参与和代码活动增长",
+      "keywords": [
+        "开发者生态",
+        "代理协作",
+        "平台统计"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub Blog",
+          "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+          "published": "2026-10-28T16:07:40+00:00",
+          "author": "GitHub Staff"
+        }
+      ]
+    },
+    {
+      "title": "7. 微软披露 Azure 收入增长48%，云业务继续拉动季度收入",
+      "keywords": [
+        "云业务",
+        "Azure",
+        "商业化"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Microsoft Investor Relations",
+          "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast",
+          "published": "2026-10-28（官方公告仅日期，未标发布时间及时区）"
+        }
+      ]
+    },
+    {
+      "title": "8. 美联储维持利率在3.75%至4%，两名委员主张加息",
+      "keywords": [
+        "美联储",
+        "利率决议",
+        "通胀"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Federal Reserve",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+          "published": "2026-10-28 14:00 EDT（UTC−04:00）"
+        }
+      ]
+    }
   ]
 }
