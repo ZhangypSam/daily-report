@@ -5749,5 +5749,191 @@
         }
       ]
     }
+  ],
+  "2026-10-30": [
+    {
+      "title": "1. OpenMausBot 0.1.134 加入条件等待与 Mac 操作步骤复用",
+      "keywords": [
+        "代理",
+        "条件等待",
+        "步骤复用"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot/releases/tag/v0.1.134",
+          "published": "2026-10-30T00:37:07Z",
+          "author": "milind-soni"
+        }
+      ]
+    },
+    {
+      "title": "2. Buddy One 串联腾讯办公产品，关联权限与付费权益需分开看",
+      "keywords": [
+        "腾讯办公",
+        "账号关联",
+        "积分共享"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新浪财经头条",
+          "url": "https://finance.sina.com.cn/cj/2026-10-29/doc-iniwwaxc8992281.shtml",
+          "published": "2026-10-29 11:30（页面未标时区）",
+          "author": "数字生命卡兹克"
+        }
+      ]
+    },
+    {
+      "title": "3. Mistral 开放 Large 4 权重，商业使用保留 MaaS 许可条件",
+      "keywords": [
+        "开放权重",
+        "推理模式",
+        "商业许可"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Mistral",
+          "url": "https://mistral.ai/news/mistral-large-4-oss/",
+          "published": "2026-10-29（官方新闻索引仅日期，未标时区）",
+          "author": "Mistral",
+          "section": "Research"
+        },
+        {
+          "role": "辅来源",
+          "site": "Mistral 新闻索引",
+          "url": "https://mistral.ai/news/"
+        }
+      ]
+    },
+    {
+      "title": "4. 符合条件的 ChatGPT 订阅可申领 API 额度，需单独激活",
+      "keywords": [
+        "订阅权益",
+        "API额度",
+        "到期规则"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI Help Center",
+          "url": "https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions",
+          "note": "当前规则页，未提供固定原始发布时间；本期线索来自10月29日作者文章"
+        },
+        {
+          "role": "辅来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+          "published": "2026-10-29 22:48（页面未标时区）；订阅源2026-10-29T22:48:29Z",
+          "author": "Simon Willison"
+        }
+      ]
+    },
+    {
+      "title": "5. 金融界快讯称 SPDR Gold Trust 持仓减少2.28吨",
+      "keywords": [
+        "黄金ETF",
+        "基金持仓",
+        "吨数变化"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "金融界",
+          "url": "https://m.jrj.com.cn/madapter/24h/2026/10/30081958937443.shtml",
+          "published": "2026-10-30 08:19:29（页面未标时区）",
+          "section": "7×24小时"
+        }
+      ]
+    },
+    {
+      "title": "6. 外交部回应美日联合生产空空导弹的报道",
+      "keywords": [
+        "美日合作",
+        "空空导弹",
+        "外交回应"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中华人民共和国外交部",
+          "url": "https://www.fmprc.gov.cn/fyrbt_673021/jzhsl_673025/202610/t20261029_12049355.shtml",
+          "published": "2026-10-29 17:15（页面未标时区）",
+          "section": "例行记者会"
+        }
+      ]
+    },
+    {
+      "title": "7. DoorDash 拟以约170亿美元股权价值收购 Instacart",
+      "keywords": [
+        "并购",
+        "杂货配送",
+        "交割条件"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "DoorDash",
+          "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+          "published": "2026-10-29（仅日期，未标时区）",
+          "author": "DoorDash",
+          "section": "Announcements"
+        }
+      ]
+    },
+    {
+      "title": "8. 美国9月 PCE 价格同比升3.6%，核心同比升3.1%",
+      "keywords": [
+        "美国通胀",
+        "PCE",
+        "实际消费"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "U.S. Bureau of Economic Analysis",
+          "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+          "published": "2026-10-29 08:30 EDT（UTC−04:00）",
+          "section": "News Release"
+        }
+      ]
+    },
+    {
+      "title": "9. 美国三季度 GDP 初值环比折年增长3.4%",
+      "keywords": [
+        "GDP初值",
+        "折年增速",
+        "数据修订"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "U.S. Bureau of Economic Analysis",
+          "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+          "published": "2026-10-29 08:30 EDT（UTC−04:00）",
+          "section": "News Release"
+        }
+      ]
+    },
+    {
+      "title": "10. 欧洲央行宣布拉加德将于2027年2月7日卸任",
+      "keywords": [
+        "欧洲央行",
+        "行长交接",
+        "任命程序"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "European Central Bank",
+          "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
+          "published": "2026-10-29（仅日期，未标时区）",
+          "author": "European Central Bank",
+          "section": "Press Release"
+        }
+      ]
+    }
   ]
 }
