@@ -5935,5 +5935,202 @@
         }
       ]
     }
+  ],
+  "2026-10-31": [
+    {
+      "title": "1. Apple 宣布中国版智能功能将于11月4日开放测试",
+      "keywords": [
+        "Apple智能",
+        "千问",
+        "开发者测试"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Apple Newsroom",
+          "url": "https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/",
+          "section": "新闻稿",
+          "published": "2026-10-31（仅日期，原文未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "2. nesformer 实验把 NES 的 CPU 与内存编译进模型权重",
+      "keywords": [
+        "nesformer",
+        "模型权重",
+        "模拟器"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/dbreunig/nesformer",
+          "author": "dbreunig"
+        },
+        {
+          "role": "辅来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+          "author": "Simon Willison",
+          "section": "Link Blog",
+          "published": "2026-10-30 21:59:22 UTC（同条目Atom时间）"
+        }
+      ]
+    },
+    {
+      "title": "3. Cursor 更新扩展投毒公告，明确两个受影响版本",
+      "keywords": [
+        "Cursor",
+        "扩展安全",
+        "Claude Code"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Cursor Blog",
+          "url": "https://cursor.com/blog/claude-code-extension-security-notice",
+          "section": "company",
+          "author": "Cursor Team",
+          "published": "2026-10-29（初次发布）",
+          "updated": "2026-10-30 11:30 am PT（UTC−07:00，正文更新标记）"
+        },
+        {
+          "role": "辅来源",
+          "site": "Phorion",
+          "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+          "published": "2026-10-30 00:00 UTC",
+          "updated": "2026-10-31 00:00 UTC（页面结构化时间）"
+        }
+      ]
+    },
+    {
+      "title": "4. Cisco 高管谈不限 token 的代码重构试验，效果仍待验证",
+      "keywords": [
+        "Cisco",
+        "代码重构",
+        "算力成本"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Fortune",
+          "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+          "section": "Success",
+          "author": "Orianna Rosa Royle",
+          "published": "2026-10-30 07:00:00 UTC",
+          "updated": "2026-10-30 23:58:49 UTC"
+        }
+      ]
+    },
+    {
+      "title": "5. 昆仑万维短剧规模扩大，获客费用与利润口径仍需分开",
+      "keywords": [
+        "AI短剧",
+        "获客成本",
+        "昆仑万维"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "21世纪经济报道／南方财经网",
+          "url": "https://m.sfccn.com/2026/10-30/1NMDE0MDdfMjI4ODM1NQ.html",
+          "author": "雷晨",
+          "published": "2026-10-30 18:33:55（原页未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "6. 央视短讯称纽约12月黄金期货盘中跌破3900美元",
+      "keywords": [
+        "黄金期货",
+        "纽约商品交易所",
+        "盘中价格"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中新网",
+          "url": "https://www.chinanews.com/cj/2026/10-31/10723718.shtml",
+          "section": "财经频道",
+          "published": "2026-10-31 06:44:30（原页未标时区）",
+          "note": "转载央视新闻客户端短讯；责任编辑与作者栏不能等同原创记者"
+        }
+      ]
+    },
+    {
+      "title": "7. ANSA 引述梅洛尼新书节选：无意改变支持乌克兰立场",
+      "keywords": [
+        "意大利",
+        "乌克兰",
+        "梅洛尼"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "ANSA",
+          "url": "https://www.ansa.it/china/notizie/italia/2026/10/30/_2a960a70-6c04-4248-8d50-9e12853eb9ff.html",
+          "section": "意大利",
+          "author": "编辑委员会 ANSA",
+          "published": "2026-10-30 12:47:00 UTC+01:00（页面结构化时间）",
+          "note": "页面可见时间为19:47，未另标时区；本文采用含偏移的结构化时间"
+        }
+      ]
+    },
+    {
+      "title": "8. 新华财经：日本央行维持约1.25%政策利率",
+      "keywords": [
+        "日本央行",
+        "政策利率",
+        "通胀预测"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经／中国金融信息网",
+          "url": "https://www.cnfin.com/hg-lb/detail/20261030/4488722_1.html",
+          "section": "宏观",
+          "author": "李诗萌、蓝建中",
+          "published": "2026-10-30（原文仅日期、未标时区）",
+          "note": "同站列表显示13:39:47，列表亦未明确时区"
+        }
+      ]
+    },
+    {
+      "title": "9. 欧元区三季度 GDP 初值环比增长0.4%，增速放缓",
+      "keywords": [
+        "欧元区",
+        "GDP初值",
+        "经济增长"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网",
+          "url": "https://www.xinhuanet.com.cn/20261030/ab80582160ee46c3b6a17ba78ad92477/c.html",
+          "author": "黄晓兰、车云龙",
+          "published": "2026-10-30 20:47:34（原页未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "10. ECB 专业预测者调查上调冲突对2027年通胀的影响预期",
+      "keywords": [
+        "欧洲央行",
+        "通胀预期",
+        "能源冲击"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经／中国金融信息网",
+          "url": "https://www.cnfin.com/hs-lb/detail/20261030/4489161_1.html",
+          "section": "汇市",
+          "author": "马悦然",
+          "published": "2026-10-30（原文仅日期、未标时区）",
+          "note": "同站列表显示21:15:02，列表未明确时区"
+        }
+      ]
+    }
   ]
 }
