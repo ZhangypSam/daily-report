@@ -6132,5 +6132,259 @@
         }
       ]
     }
+  ],
+  "2026-11-01": [
+    {
+      "title": "1. datasette-llm 0.1a9 默认沿用 LLM 的模型设置",
+      "keywords": [
+        "Datasette",
+        "默认模型",
+        "预发布"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · datasette/datasette-llm",
+          "url": "https://github.com/datasette/datasette-llm/releases/tag/0.1a9",
+          "published": "2026-10-31 22:10:01 UTC"
+        },
+        {
+          "role": "辅来源",
+          "site": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+          "author": "Simon Willison",
+          "published": "2026-10-31 22:10:01 UTC（归档 Atom）"
+        }
+      ]
+    },
+    {
+      "title": "2. Prospero 介绍轻量桌面编程智能体框架",
+      "keywords": [
+        "Prospero",
+        "编程智能体",
+        "桌面界面"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "nullprogram.com",
+          "url": "https://nullprogram.com/blog/2026/10/31/",
+          "published": "2026-10-31（原文仅日期，未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "3. Memdoor 公开十道编程题的多智能体复现实验",
+      "keywords": [
+        "Memdoor",
+        "多智能体",
+        "编程评测"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · guregodevo/memdoor",
+          "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+          "published": "实验记录标注2026-10-31，未标时分及时区"
+        }
+      ]
+    },
+    {
+      "title": "4. DeepTutor 1.7.1 加入桌面预览与学习资料导出",
+      "keywords": [
+        "DeepTutor",
+        "桌面预览",
+        "学习导出"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor/releases/tag/v1.7.1",
+          "published": "2026-10-31 16:51:40 UTC；发布说明日期2026-11-01"
+        }
+      ]
+    },
+    {
+      "title": "5. DeepSeek 展示 Super-agent 思路，公开代码仍属研究原型",
+      "keywords": [
+        "DeepSeek",
+        "智能体架构",
+        "研究原型"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · deepseek-ai",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+          "note": "官方README未列首次发布日期"
+        },
+        {
+          "role": "辅来源",
+          "site": "IT之家",
+          "url": "https://www.ithome.com/1/020/615.htm",
+          "author": "问舟",
+          "published": "2026-10-31 21:36:35（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "6. Talos 报告窃密软件用语言模型排列受害者资产价值",
+      "keywords": [
+        "Talos",
+        "窃密软件",
+        "语言模型"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Cisco Talos",
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+          "author": "Ryan Fetterman",
+          "section": "Threat Spotlight",
+          "published": "2026-10-31 12:00:00 UTC（页面结构化数据）"
+        }
+      ]
+    },
+    {
+      "title": "7. 新浪短讯称 Meta 与傅利叶合作研发人形机器人原型",
+      "keywords": [
+        "Meta",
+        "傅利叶",
+        "机器人原型"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新浪财经 · 7×24小时",
+          "url": "https://finance.sina.com.cn/7x24/2026-11-01/doc-inixcwwk1425384.shtml",
+          "published": "2026-11-01 00:06:09 UTC+08:00（页面元数据）"
+        }
+      ]
+    },
+    {
+      "title": "8. WorkBuddy 企业案例把落地成本与投入产出摆上台面",
+      "keywords": [
+        "WorkBuddy",
+        "企业应用",
+        "投入产出"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "时代财经 · 新浪发布页",
+          "url": "https://finance.sina.com.cn/jjxw/2026-10-31/doc-inixcfys1564627.shtml",
+          "published": "2026-10-31 15:49（页面）；元数据时区UTC+08:00"
+        }
+      ]
+    },
+    {
+      "title": "9. 武汉短剧译制案例采用 AI 与人工审校协作",
+      "keywords": [
+        "短剧出海",
+        "AI译制",
+        "人工审校"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新浪财经 · 每日经济新闻微博转载",
+          "url": "https://finance.sina.com.cn/stock/wbstock/2026-10-31/doc-inixavku4946427.shtml",
+          "author": "微博财经-财道工作室",
+          "published": "2026-10-31 12:34（页面）；元数据时区UTC+08:00",
+          "note": "转载注明每日经济新闻微博，正文标注长江云新闻、绍航；未取得独立原始采访页"
+        }
+      ]
+    },
+    {
+      "title": "10. 标普调整 Meta 信用展望，AI 投入回报仍存分歧",
+      "keywords": [
+        "Meta",
+        "信用展望",
+        "资本开支"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "联合早报",
+          "url": "https://www.zaobao.com.sg/finance/world/story20261031-9924848",
+          "author": "胡渊文",
+          "published": "2026-10-31 09:57（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "11. 黄金 ETF 报道显示基金规模下降与资金流入可以并存",
+      "keywords": [
+        "黄金ETF",
+        "基金规模",
+        "资金流入"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "界面新闻",
+          "url": "https://www.jiemian.com/article/15277986.html",
+          "author": "韩理",
+          "published": "2026-10-31 18:22（页面未标时区）"
+        },
+        {
+          "role": "辅来源",
+          "site": "新浪财经 · 界面新闻转载",
+          "url": "https://finance.sina.com.cn/jjxw/2026-10-31/doc-inixcnhn4743259.shtml",
+          "published": "2026-10-31 18:22；页面元数据UTC+08:00"
+        }
+      ]
+    },
+    {
+      "title": "12. 泽连斯基称乌土将推进黑海粮食走廊建设",
+      "keywords": [
+        "乌克兰",
+        "土耳其",
+        "黑海粮食走廊"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网",
+          "url": "https://www.xinhuanet.com/20261101/5719197fedd349fda3fbc35ac3c3be78/c.html",
+          "published": "2026-11-01 05:32:25（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "13. 10月制造业 PMI 回落至49.3，供需指标均低于临界点",
+      "keywords": [
+        "制造业PMI",
+        "新订单",
+        "景气调查"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "国家统计局",
+          "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261031_1965718.html",
+          "published": "2026-10-31 09:30（页面未标时区）",
+          "author": "国家统计局服务业调查中心、中国物流与采购联合会"
+        }
+      ]
+    },
+    {
+      "title": "14. 长鑫称第六代 DRAM 平台完成工程样片验证",
+      "keywords": [
+        "长鑫",
+        "DRAM",
+        "工程样片"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新浪科技",
+          "url": "https://finance.sina.com.cn/roll/2026-10-31/doc-inixcsqk4704411.shtml",
+          "author": "文猛",
+          "published": "2026-10-31 21:14:14 UTC+08:00（页面元数据）"
+        }
+      ]
+    }
   ]
 }
