@@ -6386,5 +6386,160 @@
         }
       ]
     }
+  ],
+  "2026-11-02": [
+    {
+      "title": "1. Claude-Mem 15.8.0 增加 My Work 云端查看与工作状态同步",
+      "keywords": [
+        "持久记忆",
+        "工作状态",
+        "云端查看"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem/releases/tag/v15.8.0",
+          "published": "2026-11-01 04:02:00 UTC"
+        }
+      ]
+    },
+    {
+      "title": "2. OpenMausBot 0.1.137 修复桌面与旧云端版本间的空白窗口",
+      "keywords": [
+        "桌面代理",
+        "兼容修复",
+        "共享工作区"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot/releases/tag/v0.1.137",
+          "published": "2026-11-01 06:20:03 UTC"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期日榜发现：FreeToken 尝试在消费级硬件上运行 MoE 模型",
+      "keywords": [
+        "本地推理",
+        "MoE",
+        "异构计算"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · FlashML-org/FreeToken",
+          "url": "https://github.com/FlashML-org/FreeToken",
+          "note": "GitHub Trending 日榜采样：2026-11-02 01:00:15 UTC；不是项目发布日期。"
+        }
+      ]
+    },
+    {
+      "title": "4. Frank Calegari 撰文呼吁调整 AI 时代的数学研究评价",
+      "keywords": [
+        "数学研究",
+        "成果评价",
+        "AI辅助"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Terence Tao · What’s new",
+          "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+          "author": "Frank Calegari",
+          "section": "guest blog / opinion",
+          "published": "2026-11-01 18:28:00 UTC"
+        }
+      ]
+    },
+    {
+      "title": "5. 新华社走访 Token 零售：购买更方便，套餐仍难直接比较",
+      "keywords": [
+        "词元消费",
+        "套餐计费",
+        "成本核算"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华社 · 新浪发布页",
+          "url": "https://t.cj.sina.com.cn/articles/view/1699432410/654b47da02001xk44?from=pcsearch",
+          "author": "王浡、李晓婷、张璇",
+          "published": "2026-11-01 11:14:54 UTC+08:00"
+        }
+      ]
+    },
+    {
+      "title": "6. 证券日报：银行黄金理财供给收缩，积存金业务升温",
+      "keywords": [
+        "黄金理财",
+        "积存金",
+        "风险承担"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "证券日报 · 新华财经转载",
+          "url": "https://www.cnfin.com/hb-lb/detail/20261102/4489476_1.html",
+          "author": "彭妍",
+          "section": "货币",
+          "published": "2026-11-02 07:35:17（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "7. 新华社引述巴方消息：加沙多地空袭造成至少8人死亡",
+      "keywords": [
+        "加沙",
+        "空袭",
+        "伤亡通报"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华社 · 新浪发布页",
+          "url": "https://k.sina.com.cn/article_1699432410_654b47da02001xklk.html?from=pcsearch",
+          "author": "徐泽宇、赵伟宏",
+          "published": "2026-11-01 22:07:01（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "8. 新华社：七个欧佩克+产油国决定12月维持产量不变",
+      "keywords": [
+        "欧佩克加",
+        "原油供给",
+        "产量政策"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华社 · 新华财经",
+          "url": "https://www.cnfin.com/yw-lb/detail/20261102/4489444_1.html",
+          "author": "孟凡宇",
+          "section": "要闻",
+          "published": "2026-11-02 06:20:27（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "9. 新华财经称金融管理部门将研究资本市场支持工具",
+      "keywords": [
+        "资本市场",
+        "回购增持",
+        "再贷款"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经",
+          "url": "https://www.cnfin.com/yw-lb/detail/20261102/4489483_1.html",
+          "section": "要闻",
+          "published": "2026-11-02 07:35:48（页面未标时区）"
+        }
+      ]
+    }
   ]
 }
