@@ -6541,5 +6541,237 @@
         }
       ]
     }
+  ],
+  "2026-11-03": [
+    {
+      "title": "1. LLM 0.37 简化兼容接口配置，并扩展多模态嵌入输入",
+      "keywords": [
+        "命令行",
+        "模型接口",
+        "嵌入"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Nov/2/llm/",
+          "published": "2026-11-02 23:49:30 UTC（作者 Atom 时间；网页显示 11:49 pm）",
+          "author": "Simon Willison"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期日榜发现：agent-desktop 用无障碍树连接智能体与桌面应用",
+      "keywords": [
+        "桌面操作",
+        "无障碍树",
+        "智能体"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/vercel-labs/agent-desktop",
+          "note": "项目发布日期未据本次页面确认；榜单采样为 2026-11-03 09:01:53 +08:00",
+          "author": "vercel-labs"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "日榜采样2026-11-03 09:01:53 +08:00；不是项目发布时刻。"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期日榜发现：Worktrunk 把多智能体工作目录管理收进命令行",
+      "keywords": [
+        "工作树",
+        "并行开发",
+        "命令行"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/max-sixty/worktrunk",
+          "note": "项目 README 称年初发布；榜单采样为 2026-11-03 09:01:53 +08:00",
+          "author": "max-sixty"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "日榜采样2026-11-03 09:01:53 +08:00；不是项目发布时刻。"
+        }
+      ]
+    },
+    {
+      "title": "4. 研究者报告：大模型可直接读写小型网络权重",
+      "keywords": [
+        "权重编辑",
+        "模型研究",
+        "数学评测"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "研究者项目博客",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+          "published": "2026-11-02（页面元数据：00:00，UTC−08:00）",
+          "author": "Rikiya Takehi、Jayden Teoh、Alex Zhang、Omar Khattab"
+        }
+      ]
+    },
+    {
+      "title": "5. 陶哲轩博客客座文章讨论 AI 时代数学工作的价值",
+      "keywords": [
+        "数学研究",
+        "人工智能",
+        "研究评价"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "What’s new",
+          "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+          "published": "2026-11-02 18:54 UTC（页面元数据）",
+          "author": "Karthik C. S.、Amit Sahai、Jie Xue（客座作者）"
+        }
+      ]
+    },
+    {
+      "title": "6. 轩辕4.5金融增强模型发布，场景收益仍须区分企业口径",
+      "keywords": [
+        "金融模型",
+        "轩辕4.5",
+        "场景应用"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "人民网（转载中国经济网）",
+          "url": "https://finance.people.com.cn/n1/2026/1102/c1004-40826130.html",
+          "published": "2026-11-02 15:00（原页未明示时区）"
+        }
+      ]
+    },
+    {
+      "title": "7. 科技日报：远景800V直流供电系统进入 AI 数据中心商业运行",
+      "keywords": [
+        "数据中心",
+        "直流供电",
+        "商业部署"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中国科技网／科技日报",
+          "url": "https://www.stdaily.com/web/gdxw/2026-11/02/content_606839.html",
+          "published": "2026-11-02 14:28:39（原页未明示时区）",
+          "author": "何亮"
+        }
+      ]
+    },
+    {
+      "title": "8. TNW：阿布扎比与 OpenAI 的合作覆盖政务、投资和企业应用",
+      "keywords": [
+        "政务应用",
+        "投资分析",
+        "企业合作"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "The Next Web",
+          "url": "https://thenextweb.com/news/openai-abu-dhabi-deals-machine-readable-government-mubadala",
+          "published": "2026-11-02 13:46:20 UTC",
+          "author": "Ana-Maria Stanciuc"
+        }
+      ]
+    },
+    {
+      "title": "9. 21财经：工行与光大同日提示贵金属交易风险",
+      "keywords": [
+        "贵金属",
+        "银行提示",
+        "仓位风险"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "21财经／21世纪经济报道",
+          "url": "https://m.21jingji.com/article/20261102/herald/ba6d15f8cba9eb8c5f47cd208535bc6b.html",
+          "published": "2026-11-02 20:50（原页未明示时区）",
+          "author": "张欣"
+        }
+      ]
+    },
+    {
+      "title": "10. 英国内政部公布新的定居安排，默认等待期拟延至十年",
+      "keywords": [
+        "英国移民",
+        "定居规则",
+        "政策调整"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GOV.UK／Home Office",
+          "url": "https://www.gov.uk/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk",
+          "published": "2026-11-02 16:26 UTC（官方页面元数据）"
+        }
+      ]
+    },
+    {
+      "title": "11. 新华社：比利时首相递交辞呈，国王暂缓决定",
+      "keywords": [
+        "比利时",
+        "预算谈判",
+        "联合政府"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网／新华社",
+          "url": "https://www.xinhuanet.com/20261102/1b5b93cb2afb49a6b68c6a9c15e018b2/c.html",
+          "published": "2026-11-02 19:50:52（原页未明示时区）",
+          "author": "康逸、张兆卿"
+        }
+      ]
+    },
+    {
+      "title": "12. 苹果公布第四财季收入1145亿美元，同比增长12%",
+      "keywords": [
+        "苹果财报",
+        "营业收入",
+        "关税退款"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Apple Newsroom",
+          "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+          "published": "2026-11-02（官方稿只标日期）"
+        }
+      ]
+    },
+    {
+      "title": "13. 树莓派上调部分16GB产品价格，称内存供应仍受约束",
+      "keywords": [
+        "树莓派",
+        "内存成本",
+        "硬件定价"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Raspberry Pi",
+          "url": "https://www.raspberrypi.com/news/price-rises-for-some-16gb-raspberry-pi-products/",
+          "published": "2026-11-02 08:59:12 UTC",
+          "author": "Eben Upton"
+        }
+      ]
+    }
   ]
 }
