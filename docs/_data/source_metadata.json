@@ -6773,5 +6773,224 @@
         }
       ]
     }
+  ],
+  "2026-11-04": [
+    {
+      "title": "1. Google 将 Guided Learning 引入 Classroom，并宣布学校账号控制调整",
+      "keywords": [
+        "引导学习",
+        "学校账号",
+        "Google"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Google 官方博客",
+          "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+          "author": "Chris Phillips",
+          "published": "2026-11-03（仅日期，时区未注明）"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期日榜发现：colibri 通过分层存储运行大型混合专家模型",
+      "keywords": [
+        "本地推理",
+        "混合专家",
+        "分层存储"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/JustVugg/colibri",
+          "author": "JustVugg",
+          "note": "近期日榜发现；采样不是发布日"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "2026-11-04 09:07:58 +08:00 采样，日榜第4，窗口增量802 stars"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期日榜发现：Spotify Portal 插件把服务目录与诊断接入编程智能体",
+      "keywords": [
+        "服务目录",
+        "运行诊断",
+        "Spotify"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/spotify/portal-ai-plugins",
+          "author": "spotify",
+          "note": "近期日榜发现；采样不是发布日"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "2026-11-04 09:07:58 +08:00 采样，日榜第7，窗口增量91 stars"
+        }
+      ]
+    },
+    {
+      "title": "4. Simon Willison 记录本地 Qwen 权重识别实验，并强调与改写模型的区别",
+      "keywords": [
+        "Qwen",
+        "权重识别",
+        "实验边界"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+          "author": "Simon Willison",
+          "published": "2026-11-03 16:29:48 UTC（作者 Atom）"
+        },
+        {
+          "role": "辅来源",
+          "site": "Matthew Honnibal 博客",
+          "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+          "author": "Matthew Honnibal",
+          "note": "对 Weight-Space Programming 实验口径的评论；本次页面未见精确发布时间"
+        }
+      ]
+    },
+    {
+      "title": "5. 科创板日报：DeepSeek 下一代模型计划使用昇腾芯片进行预训练",
+      "keywords": [
+        "DeepSeek",
+        "昇腾",
+        "预训练"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社／科创板日报",
+          "url": "https://www.cls.cn/detail/2523624",
+          "author": "黄心怡",
+          "category": "人工智能",
+          "published": "2026-11-03 14:24（时区未注明）"
+        }
+      ]
+    },
+    {
+      "title": "6. 新华财经调查：AI 调用量增长仍需跨过成本与持续付费两道关",
+      "keywords": [
+        "AI商业化",
+        "算力成本",
+        "付费客户"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经／中国金融信息网",
+          "url": "https://www.cnfin.com/yw-lb/detail/20261103/4490249_1.html",
+          "author": "张斯文",
+          "section": "要闻",
+          "published": "2026-11-03（仅日期，时区未注明）"
+        }
+      ]
+    },
+    {
+      "title": "7. 中新社引述世界黄金协会：前三季央行购金675吨，同比增长6%",
+      "keywords": [
+        "央行购金",
+        "黄金ETF",
+        "季度需求"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中国新闻网／中新社",
+          "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725541.shtml",
+          "author": "高志苗（正文署名）",
+          "section": "财经频道",
+          "published": "2026-11-03 19:58:03（时区未注明）"
+        }
+      ]
+    },
+    {
+      "title": "8. 红十字国际委员会发布国际人道法务实指导，区分咨商与正式加入范围",
+      "keywords": [
+        "国际人道法",
+        "平民保护",
+        "ICRC"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "红十字国际委员会",
+          "url": "https://www.icrc.org/zh/statement/more-160-states-developed-practical-steps-uphold-humanity-war",
+          "section": "发言",
+          "published": "2026-11-03 09:57:57 UTC+01:00（发布元数据）"
+        }
+      ]
+    },
+    {
+      "title": "9. 新华社：伊朗官员要求美方明确回应七项条件，具体内容仍未公开",
+      "keywords": [
+        "伊朗",
+        "霍尔木兹海峡",
+        "谈判条件"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中国金融信息网／新华社",
+          "url": "https://www.cnfin.com/hs-lb/detail/20261104/4490564_1.html",
+          "author": "刁慧琳、沙达提",
+          "published": "2026-11-04（仅日期，时区未注明）"
+        }
+      ]
+    },
+    {
+      "title": "10. 人民银行决定11月15日起将外汇存款准备金率由4%提高至6%",
+      "keywords": [
+        "外汇准备金",
+        "人民银行",
+        "人民币"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经／中国金融信息网",
+          "url": "https://www.cnfin.com/yw-lb/detail/20261103/4490460_1.html",
+          "author": "吴雨",
+          "section": "要闻",
+          "published": "2026-11-03（仅日期，时区未注明）"
+        }
+      ]
+    },
+    {
+      "title": "11. 澳大利亚央行加息25个基点至4.85%，投票结果为六比三",
+      "keywords": [
+        "澳大利亚央行",
+        "利率",
+        "通胀"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "澳大利亚储备银行",
+          "url": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html",
+          "section": "Media Releases",
+          "published": "2026-11-03 14:30 UTC+11:00"
+        },
+        {
+          "role": "辅来源",
+          "site": "新华财经／中国金融信息网",
+          "url": "https://www.cnfin.com/hs-lb/detail/20261103/4490211_1.html",
+          "author": "李晓渝",
+          "published": "2026-11-03（仅日期，时区未注明）"
+        }
+      ]
+    }
   ]
 }
