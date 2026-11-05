@@ -6992,5 +6992,286 @@
         }
       ]
     }
+  ],
+  "2026-11-05": [
+    {
+      "title": "1. OpenAI 发布 Images 2.6，新增 GIF 与更细化的编辑控制",
+      "keywords": [
+        "图像生成",
+        "GIF",
+        "编辑控制"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI",
+          "url": "https://openai.com/index/introducing-images-2-6/",
+          "section": "Product Release",
+          "author": "OpenAI",
+          "published": "2026-11-04（原文仅标日期，时区未明示）"
+        }
+      ]
+    },
+    {
+      "title": "2. datasette-llm 0.1a10 修复模型允许列表被覆盖的问题",
+      "keywords": [
+        "Datasette",
+        "模型白名单",
+        "插件修复"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · datasette/datasette-llm",
+          "url": "https://github.com/datasette/datasette-llm/releases/tag/0.1a10",
+          "author": "simonw",
+          "published": "2026-11-04 15:26:02 UTC"
+        },
+        {
+          "role": "辅来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+          "author": "Simon Willison",
+          "published": "2026-11-04 15:26:02 UTC（Atom时间与发布页一致）"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期日榜发现：NVIDIA Auto Ontology 为数据查询提供语义与溯源层",
+      "keywords": [
+        "语义层",
+        "数据溯源",
+        "智能体"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · NVIDIA/auto-ontology",
+          "url": "https://github.com/NVIDIA/auto-ontology",
+          "note": "近期榜单发现；项目发布日期未据本次README确认"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "2026-11-05 09:07:55 +08:00 日榜采样；第1名，窗口增量2050 stars"
+        }
+      ]
+    },
+    {
+      "title": "4. Cloudflare 增加个人智能体流量分析与逐代理访问策略",
+      "keywords": [
+        "代理流量",
+        "访问策略",
+        "网站分析"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Cloudflare Blog",
+          "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+          "published": "2026-11-04 14:00:00 UTC"
+        }
+      ]
+    },
+    {
+      "title": "5. Kino 将素材、剪辑和审阅接入人与智能体共用的时间线",
+      "keywords": [
+        "视频剪辑",
+        "协作审阅",
+        "智能体"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Kino",
+          "url": "https://kino.ai",
+          "note": "产品功能页面未标发布时间"
+        },
+        {
+          "role": "作者展示帖",
+          "site": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50368804",
+          "author": "lukeigel",
+          "posted": "2026-11-04 17:31:53 UTC",
+          "section": "Launch HN"
+        }
+      ]
+    },
+    {
+      "title": "6. OpenAI 披露 Linux 漏洞研究流水线，补丁仍需人工审查",
+      "keywords": [
+        "漏洞研究",
+        "Linux",
+        "补丁审查"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+          "section": "Security Publication",
+          "author": "OpenAI",
+          "published": "2026-11-04（原文仅标日期，时区未明示）"
+        }
+      ]
+    },
+    {
+      "title": "7. OpenAI 拟收购 Pierre，计划扩展 Codex 的代码协作工具",
+      "keywords": [
+        "收购计划",
+        "Codex",
+        "代码协作"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI",
+          "url": "https://openai.com/index/openai-to-acquire-pierre/",
+          "section": "Company",
+          "author": "OpenAI",
+          "published": "2026-11-04（原文仅标日期，时区未明示）"
+        }
+      ]
+    },
+    {
+      "title": "8. 财联社：20 家单位发布智能体发展自律公约",
+      "keywords": [
+        "智能体",
+        "互联标准",
+        "自律公约"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社",
+          "url": "https://www.cls.cn/detail/2524879",
+          "section": "电报",
+          "category": "人工智能",
+          "published": "2026-11-04 14:36:25（网页未明示时区）"
+        }
+      ]
+    },
+    {
+      "title": "9. Conductor 宣布加入 Meta，云服务列出导出与关闭时间表",
+      "keywords": [
+        "产品迁移",
+        "云服务",
+        "订阅退款"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Conductor",
+          "url": "https://www.conductor.build/announcement",
+          "note": "公告时间线从11月4日开始；原页未单列带时区发布时间"
+        }
+      ]
+    },
+    {
+      "title": "10. 路透报道：Google 将自愿离职计划扩展至五国",
+      "keywords": [
+        "成本管理",
+        "自愿离职",
+        "AI投入"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "The Edge Malaysia · 路透报道",
+          "url": "https://theedgemalaysia.com/node/824530",
+          "section": "Tech",
+          "published": "2026-11-04 16:43:34 +08:00"
+        }
+      ]
+    },
+    {
+      "title": "11. 新华财经：现货金重返 4000 美元，反弹持续性仍待观察",
+      "keywords": [
+        "现货黄金",
+        "实际利率",
+        "资金流向"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经",
+          "url": "https://www.cnfin.com/dz-lb/detail/20261104/4491112_1.html",
+          "author": "葛佳明",
+          "section": "大宗",
+          "published": "2026-11-04 20:48:40（网页元数据，时区未明示）"
+        }
+      ]
+    },
+    {
+      "title": "12. 美联社持续报道中期选举结果：民主党取得国会控制权",
+      "keywords": [
+        "美国中选",
+        "国会",
+        "政策分歧"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "AP News",
+          "url": "https://apnews.com/live/midterm-election-2026",
+          "section": "2026 Elections",
+          "published": "滚动报道；本期核验2026-11-04更新，含18:29:12 UTC条目"
+        }
+      ]
+    },
+    {
+      "title": "13. AMD 第四季收入展望高于 Intel 指引，仍需等待实际结果",
+      "keywords": [
+        "AMD",
+        "财报",
+        "收入指引"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Tom’s Hardware",
+          "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+          "published": "2026-11-04 11:15:00 UTC"
+        }
+      ]
+    },
+    {
+      "title": "14. 欧元区 10 月综合 PMI 终值下修至 51.7",
+      "keywords": [
+        "欧元区",
+        "PMI",
+        "服务业"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经",
+          "url": "https://www.cnfin.com/hg-lb/detail/20261104/4491059_1.html",
+          "author": "黄晓兰",
+          "section": "宏观",
+          "published": "2026-11-04 19:19:32（网页元数据，时区未明示）"
+        }
+      ]
+    },
+    {
+      "title": "15. 新华财经：欧元区 10 月通胀初值升至 4.0%",
+      "keywords": [
+        "欧元区",
+        "通胀",
+        "能源价格"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经",
+          "url": "https://www.cnfin.com/yw-lb/detail/20261105/4491233_1.html",
+          "author": "黄晓兰、马悦然",
+          "section": "要闻",
+          "note": "同一通胀数据事件的后续分析，数据公布于11月4日",
+          "published": "2026-11-05 07:51:07（网页元数据，时区未明示）"
+        }
+      ]
+    }
   ]
 }
