@@ -7273,5 +7273,282 @@
         }
       ]
     }
+  ],
+  "2026-11-06": [
+    {
+      "title": "1. Google 发布 Gemini Omni 1.2 Flash，延长视频并降低生成价格",
+      "keywords": [
+        "视频生成",
+        "对话编辑",
+        "Gemini"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Google The Keyword",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+          "author": "Anish Nangia",
+          "section": "Developer tools",
+          "published": "2026-11-05 17:00 UTC"
+        }
+      ]
+    },
+    {
+      "title": "2. Claude 个人财务功能接入 Plaid，以只读方式解释账户支出",
+      "keywords": [
+        "Claude",
+        "账户只读",
+        "支出分析"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+          "author": "Jess Weatherbed",
+          "section": "AI",
+          "published": "2026-11-05 18:00 UTC"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期日榜发现：agent-desktop 通过无障碍树操作桌面应用",
+      "keywords": [
+        "桌面代理",
+        "无障碍树",
+        "开源工具"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/vercel-labs/agent-desktop",
+          "author": "vercel-labs",
+          "note": "近期榜单发现；功能来自README，采样不是发布日期"
+        }
+      ]
+    },
+    {
+      "title": "4. Rivet 团队介绍以 S3 持久化的 Actor 代理编排架构",
+      "keywords": [
+        "Rivet",
+        "代理编排",
+        "持久存储"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/rivet-dev/rivet",
+          "author": "rivet-dev",
+          "note": "项目架构与功能说明"
+        },
+        {
+          "role": "作者展示帖",
+          "site": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50381687",
+          "author": "Rivet 创始团队 Nathan 与 Nicholas",
+          "posted": "2026-11-05 17:17:42 UTC",
+          "note": "Launch HN创始发布帖；不是独立评测"
+        }
+      ]
+    },
+    {
+      "title": "5. 百度发布 ERNIE 5.5 Flash Base，开放预训练基础检查点",
+      "keywords": [
+        "百度",
+        "基础模型",
+        "预训练"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Baidu ERNIE",
+          "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+          "author": "ERNIE Team, Baidu",
+          "section": "Product updates",
+          "published": "2026-11-05（仅日期，未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "6. OpenAI 发布 GPT-6 Cyber 系统卡，访问仍受 Daybreak Red 限制",
+      "keywords": [
+        "OpenAI",
+        "网络安全",
+        "限制访问"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI Deployment Safety Hub",
+          "url": "https://deploymentsafety.openai.com/gpt-6-cyber",
+          "published": "2026-11-05（系统卡仅日期，未标时区）"
+        },
+        {
+          "role": "辅来源",
+          "site": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+          "author": "Emma Roth",
+          "published": "2026-11-05 17:00 UTC",
+          "note": "同日模型发布报道"
+        }
+      ]
+    },
+    {
+      "title": "7. Claude Code 用户报告请求头泄露身份信息，贡献者回应隐私模块已默认启用",
+      "keywords": [
+        "Claude Code",
+        "身份信息",
+        "隐私模块"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/anthropics/claude-code/issues/107757",
+          "author": "taylor-edwards；回复者 poteat",
+          "section": "anthropics/claude-code Issues",
+          "posted": "2026-11-05 22:13:15 UTC",
+          "note": "用户问题与贡献者回复；不等同独立复现或完整修复公告"
+        }
+      ]
+    },
+    {
+      "title": "8. Claimlane 宣布融资 560 万欧元，投入售后 AI 代理与美国扩张",
+      "keywords": [
+        "售后代理",
+        "A轮融资",
+        "美国扩张"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Claimlane",
+          "url": "https://www.claimlane.com/resources/blog/series-a-announcement",
+          "author": "Jaziel Faber Mahler",
+          "updated": "2026-11-05（仅日期，未标时区）"
+        },
+        {
+          "role": "辅来源",
+          "site": "Unite.AI",
+          "url": "https://www.unite.ai/claimlane-secures-5-6m-series-a-to-expand-aftersales-ai-and-us-operations/",
+          "published": "2026-11-05 16:15:08 UTC−05:00",
+          "note": "署名为AI研究代理；用于追溯原始公司公告，不视为独立经营审计"
+        }
+      ]
+    },
+    {
+      "title": "9. 世界黄金协会：10 月黄金 ETF 净流入 27 亿美元，资产规模仍因价格回落而下降",
+      "keywords": [
+        "黄金ETF",
+        "资金流向",
+        "持仓"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "World Gold Council",
+          "url": "https://www.gold.org/goldhub/data/global-gold-backed-etf-holdings-and-flows",
+          "published": "2026-11-05 08:00 UTC",
+          "note": "统计期截至2026-10-31；实物支持黄金ETF及同类产品"
+        }
+      ]
+    },
+    {
+      "title": "10. 新华社报道巴拉圭总统培尼亚提交辞呈",
+      "keywords": [
+        "巴拉圭",
+        "总统辞呈",
+        "银行危机"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网",
+          "url": "https://www.xinhuanet.com/20261106/07469bac8189495d998bff43fe279ff1/c.html",
+          "published": "2026-11-06 01:04:47（页面未明示时区）",
+          "note": "新华社里约热内卢11月5日电，亚松森消息"
+        }
+      ]
+    },
+    {
+      "title": "11. 新华财经：11 月 5 日美股收盘重挫，纳指综合下跌 5.52%",
+      "keywords": [
+        "美股",
+        "收盘",
+        "科技股"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经",
+          "url": "https://www.cnfin.com/gs-lb/detail/20261106/4491846_1.html",
+          "author": "刘亚南",
+          "section": "股市",
+          "published": "2026-11-06 08:17:43（页面未明示时区）",
+          "note": "纽约11月5日收盘报道"
+        }
+      ]
+    },
+    {
+      "title": "12. 欧元区 9 月工业生产者价格环比上升 2.5%",
+      "keywords": [
+        "欧元区",
+        "生产者价格",
+        "能源"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Eurostat",
+          "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-05112026-ap",
+          "section": "Euro indicators",
+          "published": "2026-11-05（仅日期，未标时区）"
+        },
+        {
+          "role": "辅来源",
+          "site": "新华财经",
+          "url": "https://www.cnfin.com/hs-lb/detail/20261105/4491636_1.html",
+          "author": "黄晓兰",
+          "published": "2026-11-05 18:59:19（页面未明示时区）"
+        }
+      ]
+    },
+    {
+      "title": "13. 德国 9 月制造业新订单环比回升 4.4%，季度增幅仍有限",
+      "keywords": [
+        "德国",
+        "制造业",
+        "新订单"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "德国联邦统计局 Destatis",
+          "url": "https://www.destatis.de/EN/Press/2026/11/PE26_385_421.html",
+          "section": "Press release No. 385",
+          "published": "2026-11-05（仅日期，未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "14. 新华财经：印尼第三季度 GDP 同比增长 5.47%",
+      "keywords": [
+        "印尼",
+        "GDP",
+        "居民消费"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经",
+          "url": "https://www.cnfin.com/hg-lb/detail/20261105/4491593_1.html",
+          "author": "冯钰林",
+          "section": "宏观",
+          "published": "2026-11-05 17:34:10（页面未明示时区）"
+        }
+      ]
+    }
   ]
 }
