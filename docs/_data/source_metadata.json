@@ -7550,5 +7550,232 @@
         }
       ]
     }
+  ],
+  "2026-11-07": [
+    {
+      "title": "1. Google Skills：面向 Google 产品的代理技能目录",
+      "keywords": [
+        "代理技能",
+        "Google Cloud",
+        "工作流"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Google / GitHub",
+          "url": "https://github.com/google/skills/blob/main/README.md",
+          "note": "近期日榜发现；采样时间不代表发布日期"
+        }
+      ]
+    },
+    {
+      "title": "2. Zed：近期日榜发现的协作与 AI 编程编辑器",
+      "keywords": [
+        "Zed",
+        "AI 编程",
+        "协作编辑"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Zed / GitHub",
+          "url": "https://github.com/zed-industries/zed/blob/main/README.md",
+          "note": "近期日榜发现；不是今日新发布"
+        },
+        {
+          "role": "辅来源",
+          "site": "Zed",
+          "url": "https://zed.dev",
+          "note": "官方产品功能介绍"
+        }
+      ]
+    },
+    {
+      "title": "3. Ajeya Cotra 解读 AI 研发加速评估，强调复合增长的可能性",
+      "keywords": [
+        "AI 研发",
+        "METR",
+        "评估边界"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Planned Obsolescence",
+          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+          "published": "2026-11-06 20:23:40 UTC",
+          "author": "Ajeya Cotra"
+        },
+        {
+          "role": "辅来源",
+          "site": "METR",
+          "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+          "published": "2026-11-05",
+          "note": "背景资料，早于本期窗口"
+        }
+      ]
+    },
+    {
+      "title": "4. 豆包工作个人版取消五小时额度限制，周额度仍保留",
+      "keywords": [
+        "豆包工作",
+        "使用额度",
+        "付费服务"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "IT之家",
+          "url": "https://www.ithome.com/1/023/414.htm",
+          "published": "2026-11-06 16:57:38（页面未标时区）",
+          "author": "沁沧（实习）",
+          "note": "报道援引时代财经"
+        }
+      ]
+    },
+    {
+      "title": "5. 六部门适老消费措施提出智能照护与设备租赁场景",
+      "keywords": [
+        "智慧养老",
+        "需求场景",
+        "租售服务"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网",
+          "url": "https://www.xinhuanet.com/20261106/b9bd4ad2b4e44080a1911918c12ff945/c.html",
+          "published": "2026-11-06 14:23:01（页面未标时区）",
+          "note": "来源：中国民政微信公众号；文件署期 11 月 4 日"
+        },
+        {
+          "role": "辅来源",
+          "site": "财联社",
+          "url": "https://api3.cls.cn/share/article/2527197?sv=859&amp;os=web",
+          "published": "2026-11-06 13:38（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "6. 华尔街见闻报道高盛下调年末黄金目标价",
+      "keywords": [
+        "黄金预测",
+        "利率假设",
+        "机构观点"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3785345",
+          "published": "2026-11-06 06:07:06 UTC",
+          "author": "董静",
+          "note": "转述 11 月 5 日高盛研究；未独立取得完整研报"
+        }
+      ]
+    },
+    {
+      "title": "7. 十国外交部门就黄之锋判刑发表联合声明",
+      "keywords": [
+        "联合声明",
+        "香港",
+        "外交立场"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "英国政府",
+          "url": "https://www.gov.uk/government/news/statement-on-the-sentencing-of-joshua-wong",
+          "published": "2026-11-06 10:58:48 UTC",
+          "note": "澳加法德意日荷新英美十国外交部门联合声明"
+        }
+      ]
+    },
+    {
+      "title": "8. 澎湃明查追溯“欧洲星链被关停”传言，指向戏仿账号",
+      "keywords": [
+        "事实核查",
+        "星链",
+        "欧盟"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34414728",
+          "published": "2026-11-07 07:31（北京时间；结构化时间 23:31 UTC）",
+          "author": "郑淑婧、娄书懿",
+          "note": "澎湃明查"
+        }
+      ]
+    },
+    {
+      "title": "9. 美国十月非农就业增加十六万五千，失业率为百分之四点一",
+      "keywords": [
+        "非农就业",
+        "美国劳工部",
+        "工资"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "美国劳工统计局",
+          "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+          "published": "2026-11-06 08:30 ET（13:30 UTC）"
+        }
+      ]
+    },
+    {
+      "title": "10. 东京股市六日下跌，日经与东证均跌近百分之六",
+      "keywords": [
+        "日本股市",
+        "日经指数",
+        "收盘数据"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经",
+          "url": "https://www.cnfin.com/gs-lb/detail/20261106/4492157_1.html",
+          "published": "2026-11-06 17:03:59（网页未标时区）",
+          "author": "李诗萌、蓝建中"
+        }
+      ]
+    },
+    {
+      "title": "11. 欧盟二〇二五年社保福利支出增长百分之四点九",
+      "keywords": [
+        "欧盟财政",
+        "社会保障",
+        "初步数据"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经",
+          "url": "https://www.cnfin.com/hg-lb/detail/20261106/4492361_1.html",
+          "published": "2026-11-06 21:00:47（网页未标时区）",
+          "author": "黄晓兰",
+          "note": "援引欧盟统计局初步数据"
+        }
+      ]
+    },
+    {
+      "title": "12. 路透社称特斯拉计划明年年中缩减得州 Cybertruck 生产",
+      "keywords": [
+        "特斯拉",
+        "产能调整",
+        "Cybertruck"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "NBC News / Reuters",
+          "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+          "published": "2026-11-06 13:36:41 UTC",
+          "author": "Reuters",
+          "note": "更新：2026-11-06 19:26 UTC"
+        }
+      ]
+    }
   ]
 }
