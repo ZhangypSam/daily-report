@@ -7777,5 +7777,193 @@
         }
       ]
     }
+  ],
+  "2026-11-08": [
+    {
+      "title": "1. Cloudflare 安全审计技能：把发现与独立验证分开",
+      "keywords": [
+        "安全审计",
+        "编码代理",
+        "独立验证"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://github.com/cloudflare/security-audit-skill/blob/main/README.md",
+          "site": "Cloudflare / GitHub",
+          "author": "cloudflare",
+          "section": "README",
+          "note": "GitHub 日榜采样发现，不是发布公告"
+        }
+      ]
+    },
+    {
+      "title": "2. Meta Astryx：面向开发者与 AI 代理的设计系统",
+      "keywords": [
+        "界面组件",
+        "AI代理",
+        "设计系统"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://github.com/meta/astryx/blob/main/README.md",
+          "site": "Meta / GitHub",
+          "author": "meta",
+          "section": "README",
+          "note": "GitHub 日榜采样发现；项目标注 Beta"
+        }
+      ]
+    },
+    {
+      "title": "3. DeepSeek 状态页确认网页与 API 部分中断已恢复",
+      "keywords": [
+        "DeepSeek",
+        "服务中断",
+        "API"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://status.deepseek.com/incidents/7219383236287",
+          "site": "DeepSeek Status",
+          "section": "服务状态",
+          "published": "2026-11-07 07:11 UTC",
+          "updated": "2026-11-07 07:56 UTC"
+        }
+      ]
+    },
+    {
+      "title": "4. Carminer 以 AI 估值引导二手车交易，收入来自交易服务",
+      "keywords": [
+        "二手车",
+        "AI估值",
+        "佣金模式"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://www.zaobao.com.sg/lifestyle/gadget/story20261108-9938159",
+          "site": "联合早报",
+          "section": "科技人语",
+          "category": "AI、科技人语、车主",
+          "published": "2026-11-08 05:00 UTC+08:00"
+        }
+      ]
+    },
+    {
+      "title": "5. 媒体称马斯克考虑以租赁方式提供 Optimus",
+      "keywords": [
+        "Optimus",
+        "机器人",
+        "租赁模式"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://www.ithome.com/1/023/675.htm",
+          "site": "IT之家",
+          "section": "智能时代／具身智能",
+          "author": "故渊",
+          "published": "2026-11-07 13:32:39（原页未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "6. 中国十月末黄金储备增至七千八百三十万盎司",
+      "keywords": [
+        "黄金储备",
+        "央行购金",
+        "储备资产"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://www.chinanews.com/cj/2026/11-07/10727898.shtml",
+          "site": "中国新闻网",
+          "section": "财经",
+          "published": "2026-11-07 16:21:42（原页未标时区）"
+        },
+        {
+          "role": "辅来源",
+          "site": "国家外汇管理局",
+          "url": "https://www.safe.gov.cn/safe/2026/0206/27116.html",
+          "section": "官方储备资产（2026）",
+          "note": "统计期：2026年9月末、10月末；表中数量单位为万盎司"
+        }
+      ]
+    },
+    {
+      "title": "7. 伊朗革命卫队发言人称已解除导弹射程限制",
+      "keywords": [
+        "伊朗",
+        "导弹射程",
+        "官方表态"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://mil.news.sina.com.cn/2026-11-07/doc-inixxqms4482648.shtml",
+          "site": "新浪军事",
+          "author": "环球时报",
+          "section": "军事",
+          "published": "2026-11-07 21:54（原页未标时区）",
+          "note": "原文注明来源为新华国际头条，并援引伊朗学生通讯社"
+        }
+      ]
+    },
+    {
+      "title": "8. 中新社报道中朝党际会谈，双方提出加强交流",
+      "keywords": [
+        "中朝关系",
+        "党际交流",
+        "外交会谈"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727816.shtml",
+          "site": "中国新闻网",
+          "section": "国内",
+          "published": "2026-11-07 12:18:07（原页未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "9. IMF 总裁谈 AI 增长放缓风险与央行政策判断",
+      "keywords": [
+        "IMF",
+        "AI投资",
+        "货币政策"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://www.cnfin.com/hs-lb/detail/20261107/4492466_1.html",
+          "site": "新华财经／中国金融信息网",
+          "section": "汇市",
+          "author": "施春",
+          "published": "2026-11-07 15:40:09（原页未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "10. 欧委会初步质疑 TikTok 推荐系统，最终结论尚未形成",
+      "keywords": [
+        "TikTok",
+        "推荐系统",
+        "平台监管"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "url": "https://www.cnfin.com/gs-lb/detail/20261107/4492435_1.html",
+          "site": "新华财经／中国金融信息网",
+          "section": "股市",
+          "author": "马悦然、张兆卿",
+          "published": "2026-11-07 11:41:21（原页未标时区）"
+        }
+      ]
+    }
   ]
 }
