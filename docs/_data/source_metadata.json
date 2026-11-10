@@ -8192,5 +8192,237 @@
         }
       ]
     }
+  ],
+  "2026-11-10": [
+    {
+      "title": "1. Seedream 5.5 发布，主打多轮编辑与透明素材输出",
+      "keywords": [
+        "图像生成",
+        "多轮编辑",
+        "透明素材"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "字节跳动 Seed",
+          "url": "https://seed.bytedance.com/zh/blog/%E7%94%9F%E6%88%90%E6%9B%B4%E7%9C%9F%E5%AE%9E-%E7%99%BE%E8%BD%AE%E7%BC%96%E8%BE%91%E6%9B%B4%E7%A8%B3%E5%AE%9A-seedream-5-5-%E5%8F%91%E5%B8%83",
+          "published": "2026-11-09（原文仅日期，未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期榜单发现：HA-MCP 让 AI 助手连接 Home Assistant",
+      "keywords": [
+        "智能家居",
+        "MCP",
+        "自动化"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · homeassistant-ai/ha-mcp",
+          "url": "https://github.com/homeassistant-ai/ha-mcp",
+          "note": "GitHub 日榜采样：2026-11-10 09:08:14 北京时间；不是项目发布日期"
+        }
+      ]
+    },
+    {
+      "title": "3. Simon Willison 用 Claude 编写多设备蜂鸣定位工具",
+      "keywords": [
+        "编程代理",
+        "声音定位",
+        "实践案例"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+          "published": "2026-11-09 23:57 UTC（订阅源时间与原文日期对应）",
+          "author": "Simon Willison"
+        }
+      ]
+    },
+    {
+      "title": "4. AI 写的 PR 太长？用人工摘要配合可展开详情",
+      "keywords": [
+        "代码审查",
+        "PR摘要",
+        "写作流程"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+          "published": "2026-11-09 04:25 UTC（订阅源时间与原文日期对应）",
+          "author": "Simon Willison"
+        }
+      ]
+    },
+    {
+      "title": "5. Anthropic 推出 Claude Fable 5.2 与 Mythos 5.2",
+      "keywords": [
+        "Claude",
+        "模型发布",
+        "访问限制"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Anthropic",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "published": "2026-11-09（原文仅日期，未标时区）"
+        },
+        {
+          "role": "辅来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+          "author": "Simon Willison",
+          "published": "2026-11-09 23:58 UTC（订阅源时间）"
+        },
+        {
+          "role": "辅来源",
+          "site": "Artificial Analysis",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+          "note": "动态评测页面；本期未采用其排名作为全网热度。"
+        }
+      ]
+    },
+    {
+      "title": "6. Google 扩展 TPU 系统：分别面向机密推理与大上下文",
+      "keywords": [
+        "TPU",
+        "机密计算",
+        "大上下文"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Google · The Keyword",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+          "published": "2026-11-09 13:00 UTC（页面元数据）",
+          "author": "Amin Vahdat",
+          "section": "The Keyword"
+        }
+      ]
+    },
+    {
+      "title": "7. DeepX 第二代芯片流片，低功耗大模型指标仍待实测",
+      "keywords": [
+        "边缘AI",
+        "芯片流片",
+        "存内计算"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "EE Times",
+          "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+          "published": "2026-11-09 06:47:26 UTC（页面元数据）",
+          "author": "Sally Ward-Foxton",
+          "section": "AI & Big Data Designline"
+        }
+      ]
+    },
+    {
+      "title": "8. 新华财经调查：AI 漫剧降本之后仍有获客与留存难题",
+      "keywords": [
+        "AI漫剧",
+        "投流成本",
+        "盈利模式"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经／中国金融信息网",
+          "url": "https://www.cnfin.com/yw-lb/detail/20261109/4492873_1.html",
+          "published": "2026-11-09 15:37:09（页面元数据未标时区）",
+          "author": "丁雅雯、常竣斐",
+          "section": "新华财经调查"
+        }
+      ]
+    },
+    {
+      "title": "9. 黄金股 ETF 周度跟踪：区分统计区间与当日行情",
+      "keywords": [
+        "黄金股ETF",
+        "周度跟踪",
+        "资金流向"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "观点网",
+          "url": "https://www.guandian.cn/article/20261109/625044.html",
+          "published": "2026-11-09 17:20（页面未标时区）",
+          "note": "公开检索正文已读；随后原站直接访问403，已停止。未取得完整底层研报。"
+        }
+      ]
+    },
+    {
+      "title": "10. 外交部称就中俄美元首会晤保持沟通，未披露具体议程",
+      "keywords": [
+        "元首会晤",
+        "外交沟通",
+        "议程未定"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中华人民共和国外交部",
+          "url": "https://www.fmprc.gov.cn/fyrbt_673021/202611/t20261109_12056081.shtml",
+          "published": "2026-11-09 17:24（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "11. 10 月 CPI 同比上涨 0.7%，PPI 同比上涨 5.7%",
+      "keywords": [
+        "CPI",
+        "PPI",
+        "宏观数据"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "国家统计局",
+          "url": "https://www.stats.gov.cn/sj/sjjd/202611/t20261109_1965796.html",
+          "published": "2026-11-09 09:30（页面时间；数据月份为 2026 年 10 月）"
+        }
+      ]
+    },
+    {
+      "title": "12. 加拿大上线 Real-Time Rail，实时清算结算分阶段扩围",
+      "keywords": [
+        "实时支付",
+        "加拿大",
+        "金融基础设施"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Payments Canada",
+          "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+          "published": "2026-11-09；页面时间标记为 12:00 UTC"
+        }
+      ]
+    },
+    {
+      "title": "13. 英飞凌展示 300 毫米碳化硅工艺成果，量产时间仍待规划",
+      "keywords": [
+        "碳化硅",
+        "半导体制造",
+        "功率器件"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Infineon Technologies",
+          "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+          "published": "2026-11-09（原文仅日期，未标时区）"
+        }
+      ]
+    }
   ]
 }
