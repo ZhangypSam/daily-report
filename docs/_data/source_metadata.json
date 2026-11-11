@@ -8424,5 +8424,228 @@
         }
       ]
     }
+  ],
+  "2026-11-11": [
+    {
+      "title": "1. Claude 推出协作白板和表格，Data 转为正式可用",
+      "keywords": [
+        "协作白板",
+        "电子表格",
+        "数据共享"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Anthropic · Claude",
+          "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+          "published": "2026-11-10（页面仅日期，未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期榜单发现：billion-context 用分层摘要压缩长会话",
+      "keywords": [
+        "上下文压缩",
+        "长会话",
+        "分层摘要"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub · ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "note": "GitHub 日榜采样：2026-11-11 09:08:09 北京时间；不是发布日期"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending 日榜",
+          "url": "https://github.com/trending?since=daily",
+          "note": "2026-11-11 09:08:09北京时间的私有归档采样；当前榜单可能变化"
+        }
+      ]
+    },
+    {
+      "title": "3. 提示词实践：代码维护责任会影响重构行为，也会扩大改动",
+      "keywords": [
+        "提示词",
+        "代码重构",
+        "范围控制"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+          "published": "2026-11-10 05:34:14 UTC（订阅源时间与原文对应）"
+        },
+        {
+          "role": "辅来源",
+          "site": "Anthropic 开发文档",
+          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2#say-who-owns-the-code"
+        }
+      ]
+    },
+    {
+      "title": "4. Google 扩大 Gemini 4 Carbon 开放范围，公布阶段性价格",
+      "keywords": [
+        "Gemini",
+        "开放范围",
+        "模型定价"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Google · The Keyword",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+          "published": "2026-11-10 16:00 UTC（页面元数据）"
+        },
+        {
+          "role": "辅来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
+        }
+      ]
+    },
+    {
+      "title": "5. AlphaProof Code 用 AI 代理与 Lean 核验 Signal 核心代码",
+      "keywords": [
+        "形式化验证",
+        "Signal",
+        "Lean"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Google DeepMind",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+          "published": "2026-11-10 12:00 UTC（页面元数据）",
+          "author": "Pushmeet Kohli、Swarat Chaudhuri",
+          "section": "Research"
+        }
+      ]
+    },
+    {
+      "title": "6. Hops 开放团队 AI 工作空间，采用用量收费",
+      "keywords": [
+        "团队协作",
+        "用量收费",
+        "共享知识"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Hops／PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/ai-promised-10x-most-companies-got-1-2x-wrike-founder-andrew-filev-launches-hops-to-close-the-gap-302934936.html",
+          "published": "2026-11-10（公告日期；新闻发布栏为09:30 ET）"
+        },
+        {
+          "role": "辅来源",
+          "site": "Hops 产品页",
+          "url": "https://www.hops.ai/"
+        }
+      ]
+    },
+    {
+      "title": "7. 陈林宣布重返创业，方向为 AI 教育",
+      "keywords": [
+        "AI教育",
+        "陈林",
+        "创业"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34444375",
+          "published": "2026-11-10 16:57（页面未标时区）",
+          "author": "范佳来",
+          "section": "10%公司"
+        }
+      ]
+    },
+    {
+      "title": "8. 新加坡推出面向海外官方机构的黄金托管服务",
+      "keywords": [
+        "黄金托管",
+        "新加坡",
+        "央行储备"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财新网",
+          "url": "https://finance.caixin.com/2026-11-10/102503215.html",
+          "published": "2026-11-10 21:30:59（页面未标时区）",
+          "author": "王小青",
+          "section": "金融／要闻",
+          "note": "仅依据公开可读部分；官方页面维护，未核验全文"
+        }
+      ]
+    },
+    {
+      "title": "9. 鲁比奥称对伊朗不必大规模作战，仍保留谈判表态",
+      "keywords": [
+        "美伊关系",
+        "鲁比奥",
+        "外交表态"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华社／新华网客户端",
+          "url": "https://app.xinhuanet.com/news/article.html?articleId=202611106ba1bb19e92c499d93e6325cd7903db8",
+          "published": "2026-11-10 22:56:30（页面未标时区）",
+          "author": "张百慧、孙毅"
+        }
+      ]
+    },
+    {
+      "title": "10. 俄美乌重启三方磋商，俄外长重申停火条件",
+      "keywords": [
+        "俄乌谈判",
+        "阿布扎比",
+        "停火条件"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华社／北京日报客户端",
+          "url": "https://xinwen.bjd.com.cn/content/s6af33ed8e4b0e42f8f02c06e.html",
+          "published": "2026-11-10 23:57（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "11. 美国10月 CPI 环比涨0.4%，多数同比指标因缺失基期未公布",
+      "keywords": [
+        "美国CPI",
+        "核心通胀",
+        "统计缺口"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "美国劳工统计局（BLS）",
+          "url": "https://www.bls.gov/news.release/CPI.htm",
+          "published": "2026-11-10 08:30 ET（报告发布时间）"
+        }
+      ]
+    },
+    {
+      "title": "12. CoreWeave 三季度营收36.61亿美元，净亏损7.09亿美元",
+      "keywords": [
+        "CoreWeave",
+        "季度业绩",
+        "融资成本"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "CoreWeave 投资者关系",
+          "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx",
+          "published": "2026-11-10（公告仅日期，未标时区）"
+        }
+      ]
+    }
   ]
 }
