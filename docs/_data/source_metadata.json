@@ -8647,5 +8647,244 @@
         }
       ]
     }
+  ],
+  "2026-11-12": [
+    {
+      "title": "1. LLM 0.37.2 修复兼容接口误发密钥的问题",
+      "keywords": [
+        "LLM",
+        "安全修复",
+        "兼容接口"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / simonw/llm",
+          "url": "https://github.com/simonw/llm/releases/tag/0.37.2",
+          "published": "2026-11-11 17:19 UTC（发布页；作者 feed 为 17:19:52 UTC）",
+          "author": "simonw"
+        },
+        {
+          "role": "辅来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/11/llm/",
+          "author": "Simon Willison",
+          "published": "2026-11-11 17:19:52 UTC（作者 feed）"
+        }
+      ]
+    },
+    {
+      "title": "2. Yogurt 作者展示本地 AI 会议笔记工具",
+      "keywords": [
+        "会议笔记",
+        "本地模型",
+        "开源"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / FrigadeHQ/yogurt",
+          "url": "https://github.com/FrigadeHQ/yogurt",
+          "published": "仓库未标首发时间；作者展示帖为 2026-11-11 15:33:06 UTC"
+        },
+        {
+          "role": "作者展示帖",
+          "site": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50454625",
+          "posted": "2026-11-11 15:33:06 UTC",
+          "note": "作者介绍项目与本地处理方式；社区评论不作独立事实证据。"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期榜单发现：improve 将代码审查转成执行计划",
+      "keywords": [
+        "智能体",
+        "代码审查",
+        "执行计划"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / shadcn/improve",
+          "url": "https://github.com/shadcn/improve",
+          "note": "GitHub 日榜采样：2026-11-12 09:07:32 北京时间；不是项目发布日期"
+        }
+      ]
+    },
+    {
+      "title": "4. 近期榜单发现：Codex Security 提供扫描、验证与修复工作流",
+      "keywords": [
+        "代码安全",
+        "漏洞验证",
+        "扫描报告"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "note": "GitHub 日榜采样：2026-11-12 09:07:32 北京时间；不是项目发布日期"
+        }
+      ]
+    },
+    {
+      "title": "5. Simon Willison 为工具集加入按代码特征浏览的标签",
+      "keywords": [
+        "工具目录",
+        "代码分析",
+        "标签检索"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+          "published": "2026-11-11 18:42:50 UTC（作者 feed）",
+          "author": "Simon Willison"
+        }
+      ]
+    },
+    {
+      "title": "6. Google 发布 Gemini Decisions API，面向封闭式多模态决策",
+      "keywords": [
+        "Gemini",
+        "多模态",
+        "概率决策"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Google / The Keyword",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+          "published": "2026-11-11（原文只标日期，未标时区）",
+          "author": "Min Choi、Felix Yu"
+        }
+      ]
+    },
+    {
+      "title": "7. AlphaGenome 2 将 DNA 变异预测细化到细胞类型",
+      "keywords": [
+        "AlphaGenome 2",
+        "基因组",
+        "细胞类型"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Google DeepMind",
+          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+          "published": "2026-11-11 15:00 UTC（原页发布元数据）",
+          "author": "Adam Gayoso、Natasha Latysheva、Pushmeet Kohli、Žiga Avsec"
+        }
+      ]
+    },
+    {
+      "title": "8. 词元套餐进入电商直播间，AI 付费开始按场景销售",
+      "keywords": [
+        "词元消费",
+        "订阅套餐",
+        "电商渠道"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中国新闻网 / 央视新闻客户端",
+          "url": "https://www.chinanews.com/cj/2026/11-11/10730383.shtml",
+          "published": "2026-11-11 18:59（页面未明标时区）"
+        }
+      ]
+    },
+    {
+      "title": "9. Ascend 宣布1700万美元第三期基金，继续投向初创 AI 与深科技",
+      "keywords": [
+        "早期融资",
+        "AI创业",
+        "深科技"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Ascend",
+          "url": "https://www.ascend.vc/blog/announcing-our-17m-fund-iii",
+          "published": "2026-11-11（正文只标日期；未据午夜元数据推断实际发布时刻）",
+          "author": "Kirby Winfield"
+        }
+      ]
+    },
+    {
+      "title": "10. 华尔街见闻：黄金跌破4000美元，利率预期继续调整",
+      "keywords": [
+        "黄金",
+        "利率预期",
+        "美元计价"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3785756",
+          "published": "2026-11-12 05:10:19 北京时间（HTML time 对应 11月11日21:10:19 UTC）",
+          "author": "杨宸"
+        }
+      ]
+    },
+    {
+      "title": "11. 欧洲领导人将齐聚都柏林，爱尔兰加强峰会安保",
+      "keywords": [
+        "欧洲峰会",
+        "爱尔兰",
+        "安全部署"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "8world",
+          "url": "https://www.8world.com/world/eu-ireland-3337916",
+          "published": "2026-11-11 18:22（原页未明标时区）"
+        }
+      ]
+    },
+    {
+      "title": "12. 欧盟2027年预算达成协议，仍待正式批准",
+      "keywords": [
+        "欧盟预算",
+        "财政拨款",
+        "批准程序"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华社 / 新华网客户端",
+          "url": "https://app.xinhuanet.com/news/article.html?articleId=20261111da811b24a028401488553642a269538f",
+          "published": "2026-11-11 21:13:06（页面未明标时区）",
+          "author": "黄晓兰"
+        }
+      ]
+    },
+    {
+      "title": "13. 财政部拟在香港发行不超过20亿美元主权债券",
+      "keywords": [
+        "主权债券",
+        "香港",
+        "美元融资"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中华人民共和国财政部",
+          "url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202611/t20261111_4004480.htm",
+          "published": "2026-11-11（官方公告只标日期）",
+          "author": "财政部新闻办公室"
+        },
+        {
+          "role": "辅来源",
+          "site": "新华社 / 新华网",
+          "url": "https://www.xinhuanet.com/fortune/20261111/8398f44702a84fd0ab67afa821b0ae59/c.html",
+          "author": "申铖",
+          "published": "2026-11-11 18:07:29（页面未明标时区）"
+        }
+      ]
+    }
   ]
 }
