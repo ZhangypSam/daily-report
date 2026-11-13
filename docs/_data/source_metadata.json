@@ -8886,5 +8886,254 @@
         }
       ]
     }
+  ],
+  "2026-11-13": [
+    {
+      "title": "1. 近期榜单发现：Modern Web Guidance 给编程代理补充现代浏览器知识",
+      "keywords": [
+        "编程代理",
+        "浏览器",
+        "兼容性"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / GoogleChrome",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "note": "GitHub 日榜采样：2026-11-13 09:05:30 北京时间；不是项目发布日期。"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期榜单发现：Qwen Code 提供跨终端与多协议的编程代理",
+      "keywords": [
+        "Qwen Code",
+        "多模型",
+        "编程工具"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / QwenLM",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "note": "GitHub 日榜采样：2026-11-13 09:05:30 北京时间；不是新版本发布日期。"
+        }
+      ]
+    },
+    {
+      "title": "3. smolmaxxing 作者展示在旧平板和电视盒上运行语言模型",
+      "keywords": [
+        "本地推理",
+        "低内存",
+        "旧设备"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / hyperionaidev",
+          "url": "https://github.com/hyperionaidev/smolmaxxing/"
+        },
+        {
+          "role": "作者展示帖",
+          "site": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50468888",
+          "author": "mrashad74",
+          "posted": "2026-11-12 15:23:10 UTC（候选归档的帖子时间）"
+        }
+      ]
+    },
+    {
+      "title": "4. Google 发布 Gemini 4 Hydrogen，并在 Antigravity 引入模型协同",
+      "keywords": [
+        "Gemini",
+        "模型发布",
+        "代理工作流"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Google / The Keyword",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+          "author": "Koray Kavukcuoglu",
+          "published": "2026-11-12 18:00 UTC（原页元数据）"
+        },
+        {
+          "role": "辅来源",
+          "site": "Google Antigravity",
+          "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+          "author": "The Antigravity Team",
+          "published": "2026-11-12（原文仅标日期，未明标时区）"
+        }
+      ]
+    },
+    {
+      "title": "5. 英伟达宣布黄仁勋辞任，Colette Kress 出任临时 CEO",
+      "keywords": [
+        "英伟达",
+        "管理层",
+        "公司治理"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "NVIDIA Newsroom",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+          "section": "Press Releases",
+          "published": "2026-11-12（公告仅标日期，未明标时区）"
+        }
+      ]
+    },
+    {
+      "title": "6. 研究者以公开模型权重推断计算硬件，强调不能据此认定违规",
+      "keywords": [
+        "模型权重",
+        "硬件指纹",
+        "证据边界"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Unemployment Labs",
+          "url": "https://unemploymentlabs.com/checkpoint-forensics",
+          "author": "Will DePue",
+          "published": "2026-11-12（原页日期，未明标时区）"
+        }
+      ]
+    },
+    {
+      "title": "7. AgentRun 展示重复任务降本案例，结果仍属团队自测",
+      "keywords": [
+        "代理成本",
+        "工作流",
+        "代码审查"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / Parcha-ai",
+          "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md"
+        },
+        {
+          "role": "作者展示帖",
+          "site": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50471650",
+          "author": "miguelrios",
+          "posted": "2026-11-12 18:15:48 UTC（候选归档的帖子时间）"
+        }
+      ]
+    },
+    {
+      "title": "8. 百度在世界大会介绍大模型交易平台“词元所”",
+      "keywords": [
+        "词元所",
+        "模型采购",
+        "AI商业化"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "每日经济新闻",
+          "url": "https://www.nbd.com.cn/articles/2026-11-12/4645725.html",
+          "section": "首发快讯",
+          "author": "可杨",
+          "published": "2026-11-12 11:06:01（原页未明标时区）"
+        }
+      ]
+    },
+    {
+      "title": "9. 新华社：纽约12月黄金期货再次跌破每盎司3900美元",
+      "keywords": [
+        "黄金期货",
+        "利率预期",
+        "美元"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华社 / 新华网客户端",
+          "url": "https://app.xinhuanet.com/news/article.html?articleId=202611134d029daac3eb44d98fdb2826fb8388bc",
+          "author": "徐静",
+          "published": "2026-11-13 05:03:01（页面未明标时区）"
+        }
+      ]
+    },
+    {
+      "title": "10. 美方特使赴莫斯科和都柏林会谈，欧洲参与下一轮仍待细节",
+      "keywords": [
+        "俄乌谈判",
+        "欧洲",
+        "外交"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "美联社",
+          "url": "https://apnews.com/article/683810203340077f33611fd1d1757b23",
+          "author": "Jill Lawless",
+          "section": "World News",
+          "published": "2026-11-12（页面发布元数据未标时区）"
+        },
+        {
+          "role": "辅来源",
+          "site": "乌克兰总统网站",
+          "url": "https://www.president.gov.ua/en/news/volodimir-zelenskij-obgovoriv-zi-stivenom-vitkoffom-i-dzhare-107325",
+          "section": "Current events",
+          "published": "2026-11-13 01:03（原页未明标时区）"
+        }
+      ]
+    },
+    {
+      "title": "11. 土耳其称在 COP31 期间签署51亿美元气候融资协议",
+      "keywords": [
+        "气候融资",
+        "土耳其",
+        "多边银行"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新浪财经 / 新华财经",
+          "url": "https://finance.sina.cn/2026-11-12/detail-iniynpnv1130360.d.html?vt=4",
+          "author": "许万虎",
+          "published": "2026-11-12 16:58（转载页未明标时区）",
+          "note": "新华社旗下新华财经电稿；本期读取新浪转载全文。"
+        }
+      ]
+    },
+    {
+      "title": "12. 洛阳钼业新增 TFM 采坑，预计年增约12万吨铜产品",
+      "keywords": [
+        "洛阳钼业",
+        "铜供应",
+        "TFM矿"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经 / 中国金融信息网",
+          "url": "https://www.cnfin.com/yw-lb/detail/20261112/4494538_1.html",
+          "section": "要闻",
+          "author": "李丽静",
+          "published": "2026-11-12（页面仅标日期，未明标时区）"
+        }
+      ]
+    },
+    {
+      "title": "13. 德国经济专家上调今年增长预测，同时警告财政压力",
+      "keywords": [
+        "德国经济",
+        "财政风险",
+        "增长预测"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华社 / 新华网客户端",
+          "url": "https://app.xinhuanet.com/news/article.html?articleId=2026111204ef7898861b4947a6a9b416c3ec2a43",
+          "author": "车云龙",
+          "published": "2026-11-12 11:45:40（页面未明标时区）"
+        }
+      ]
+    }
   ]
 }
