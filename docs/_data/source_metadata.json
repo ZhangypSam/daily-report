@@ -9135,5 +9135,146 @@
         }
       ]
     }
+  ],
+  "2026-11-14": [
+    {
+      "title": "1. 近期榜单发现：Plannotator 把批注反馈送回编程代理",
+      "keywords": [
+        "代理协作",
+        "代码审查",
+        "批注"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/backnotprop/plannotator",
+          "author": "backnotprop",
+          "note": "近期榜单发现；采样2026-11-14 09:01:38（北京时间），不代表项目发布。"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "使用本次归档日榜采样2026-11-14 09:01:38（北京时间）；实时榜单会变化，非项目发布日期。"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期榜单发现：Buzz 让人与 AI 代理共享工作区",
+      "keywords": [
+        "共享工作区",
+        "AI代理",
+        "事件审计"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/block/buzz",
+          "author": "block",
+          "note": "近期榜单发现；采样2026-11-14 09:01:38（北京时间），不代表项目发布。"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "使用本次归档日榜采样2026-11-14 09:01:38（北京时间）；实时榜单会变化，非项目发布日期。"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期榜单发现：Chrome DevTools MCP 提供真实浏览器调试",
+      "keywords": [
+        "浏览器调试",
+        "MCP",
+        "性能分析"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "author": "ChromeDevTools",
+          "note": "近期榜单发现；采样2026-11-14 09:01:38（北京时间），不代表项目发布。"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "使用本次归档日榜采样2026-11-14 09:01:38（北京时间）；实时榜单会变化，非项目发布日期。"
+        }
+      ]
+    },
+    {
+      "title": "4. DeepSeek 开放搜索、文件与语音等应用 API",
+      "keywords": [
+        "DeepSeek",
+        "应用API",
+        "语音"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "DeepSeek API Docs",
+          "url": "https://api-docs.deepseek.com/updates/",
+          "published": "2026-11-13（原文仅日期，未注明小时及时区）",
+          "author": "DeepSeek"
+        }
+      ]
+    },
+    {
+      "title": "5. ChatGPT Wallet 从美国 Pro 用户试行逐笔授权支付",
+      "keywords": [
+        "智能体支付",
+        "支付令牌",
+        "商家接入"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet/",
+          "published": "2026-11-13（原文仅日期，未注明小时及时区）",
+          "author": "OpenAI",
+          "section": "Product"
+        }
+      ]
+    },
+    {
+      "title": "6. 澎湃：11月13日金饰报价续降，需区分零售金与现货",
+      "keywords": [
+        "黄金",
+        "金饰报价",
+        "计价口径"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34467659",
+          "published": "2026-11-13 18:14（页面未显式标时区；与归档RSS的UTC时间对应北京时间）",
+          "author": "孙铭蔚",
+          "section": "牛市点线面"
+        }
+      ]
+    },
+    {
+      "title": "7. 新华社透视10月金融数据：社融存量同比增长7.2%",
+      "keywords": [
+        "社融",
+        "M2",
+        "信贷结构"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网",
+          "url": "https://www.news.cn/fortune/20261113/b8dcac5ce5e34cfc9876e2546a40fc12/c.html",
+          "published": "2026-11-13 22:47:25（页面未显式标时区；与归档RSS的UTC时间对应北京时间）",
+          "author": "吴雨、任军"
+        }
+      ]
+    }
   ]
 }
