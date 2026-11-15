@@ -9276,5 +9276,140 @@
         }
       ]
     }
+  ],
+  "2026-11-15": [
+    {
+      "title": "1. datasette-llm 0.1a11 支持连接 OpenAI 兼容端点",
+      "keywords": [
+        "Datasette",
+        "本地模型",
+        "兼容接口"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+          "author": "Simon Willison",
+          "published": "2026-11-14 23:59:28 UTC（官方RSS；页面显示11月14日23:59）"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期榜单发现：LoopForge 将代理工作与人工审批纳入流程",
+      "keywords": [
+        "编码代理",
+        "自托管",
+        "人工审批"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / Tencent",
+          "url": "https://github.com/Tencent/LoopForge",
+          "author": "Tencent",
+          "note": "GitHub日榜采样2026-11-15 01:00:16 UTC；不是发布日期"
+        }
+      ]
+    },
+    {
+      "title": "3. 上观报道上海会议介绍住建行业 AI 三年行动计划",
+      "keywords": [
+        "智能建造",
+        "行业模型",
+        "上海"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "上观新闻",
+          "url": "https://www.jfdaily.com/sgh/detail?id=4094293",
+          "published": "2026-11-14 21:08:27（页面未显式标时区）"
+        }
+      ]
+    },
+    {
+      "title": "4. DigitalToday 讨论 AI 搜索广告的变现难题",
+      "keywords": [
+        "AI搜索",
+        "广告变现",
+        "对话匹配"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "DigitalToday",
+          "url": "https://www.digitaltoday.co.kr/cn/view/125783/google-ad-crisis-fears-become-reality-ai-search-monetisation-put-on-trial",
+          "author": "Chi-gyu Hwang（황치규）",
+          "published": "2026-11-15 08:32:51 +09:00（韩国标准时间）"
+        }
+      ]
+    },
+    {
+      "title": "5. 新华财经：11月13日纽约黄金期货微涨，白银继续走弱",
+      "keywords": [
+        "黄金期货",
+        "白银期货",
+        "收盘数据"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经",
+          "url": "https://www.cnfin.com/hs-lb/detail/20261114/4495722_1.html",
+          "author": "徐静",
+          "published": "2026-11-14 10:24:08（页面元数据；未显式标时区，与RSS UTC对应北京时间）"
+        }
+      ]
+    },
+    {
+      "title": "6. 新华社报道傅聪就中东海湾局势提出停火与对话主张",
+      "keywords": [
+        "中东海湾",
+        "停火对话",
+        "联合国"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网 / 新华社",
+          "url": "https://www2.xinhuanet.com/20261114/f900448231644dc0827532fb6242b8bd/c.html",
+          "published": "2026-11-14 13:11:18（页面未显式标时区）"
+        }
+      ]
+    },
+    {
+      "title": "7. 意大利隐私监管机构宣布对 Meta 罚款8.05亿欧元",
+      "keywords": [
+        "Meta",
+        "隐私监管",
+        "用户同意"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Garante Privacy",
+          "url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10321080",
+          "published": "2026-11-14（原文仅日期，无小时及时区）"
+        }
+      ]
+    },
+    {
+      "title": "8. 新华财经：欧元区9月货物贸易逆差103亿欧元",
+      "keywords": [
+        "欧元区",
+        "货物贸易",
+        "贸易逆差"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经",
+          "url": "https://www.cnfin.com/hs-lb/detail/20261114/4495714_1.html",
+          "author": "黄晓兰",
+          "published": "2026-11-14 09:14:05（页面元数据；未显式标时区，与RSS UTC对应北京时间）"
+        }
+      ]
+    }
   ]
 }
