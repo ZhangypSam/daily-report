@@ -9411,5 +9411,198 @@
         }
       ]
     }
+  ],
+  "2026-11-16": [
+    {
+      "title": "1. Datasette Agent 0.6a0 把数据提问入口放到首页",
+      "keywords": [
+        "数据问答",
+        "主页入口",
+        "表名引用"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+          "published": "2026-11-15 03:49:47 UTC（作者RSS）",
+          "author": "Simon Willison",
+          "category": "datasette-agent / llm"
+        }
+      ]
+    },
+    {
+      "title": "2. Datasette Apps 0.4a0 支持应用间链接",
+      "keywords": [
+        "应用互链",
+        "URL片段",
+        "数据应用"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+          "published": "2026-11-15 04:02:45 UTC（作者RSS）",
+          "author": "Simon Willison"
+        }
+      ]
+    },
+    {
+      "title": "3. Datasette 更新加入流式导出并修复访问控制问题",
+      "keywords": [
+        "流式导出",
+        "访问控制",
+        "安全更新"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+          "published": "2026-11-15 23:20:27 UTC（作者RSS）",
+          "author": "Simon Willison"
+        },
+        {
+          "role": "辅来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+          "published": "2026-11-15 23:18:17 UTC（作者RSS）",
+          "author": "Simon Willison",
+          "note": "稳定版安全修复说明"
+        }
+      ]
+    },
+    {
+      "title": "4. 近期榜单发现：NVIDIA SkillEvaluator 分层检查代理技能",
+      "keywords": [
+        "技能评估",
+        "质量检查",
+        "代理测试"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/NVIDIA/SkillEvaluator",
+          "author": "NVIDIA",
+          "note": "日榜采样发现，不是版本发布日期"
+        }
+      ]
+    },
+    {
+      "title": "5. Sebastian Raschka 发布大模型位置编码教程",
+      "keywords": [
+        "位置编码",
+        "RoPE",
+        "模型架构"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Ahead of AI",
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "published": "2026-11-15 12:10:37.702 UTC",
+          "author": "Sebastian Raschka"
+        }
+      ]
+    },
+    {
+      "title": "6. LongCat-2.5 开放权重，模型卡聚焦多模态代理任务",
+      "keywords": [
+        "开放权重",
+        "多模态",
+        "代理任务"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Hugging Face",
+          "url": "https://huggingface.co/meituan-longcat/LongCat-2.5",
+          "author": "meituan-longcat",
+          "note": "原始模型卡；未据此推定首次发布日期"
+        },
+        {
+          "role": "辅来源",
+          "site": "THE DECODER",
+          "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+          "published": "2026-11-15 10:06:06 UTC",
+          "author": "Jonathan Kemper",
+          "note": "权重开放的当日报道；与更早模型亮相区分"
+        }
+      ]
+    },
+    {
+      "title": "7. 工业AI企业讨论订阅收费与按效果验收",
+      "keywords": [
+        "工业AI",
+        "订阅收费",
+        "效果验收"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "第一财经",
+          "url": "https://www.yicai.com/news/103441026.html",
+          "published": "2026-11-15 19:45:54（页面未显式标时区）",
+          "author": "黄思瑜",
+          "section": "A股"
+        }
+      ]
+    },
+    {
+      "title": "8. 财联社报道利雅得传出爆炸声并发布防空警报",
+      "keywords": [
+        "利雅得",
+        "爆炸声",
+        "防空警报"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社",
+          "url": "https://www.cls.cn/detail/2534617",
+          "published": "2026-11-15 09:18:37（页面未显式标时区）",
+          "section": "电报",
+          "category": "中东冲突"
+        }
+      ]
+    },
+    {
+      "title": "9. Vulcan 发射失败，Space.com 报道40颗亚马逊卫星损失",
+      "keywords": [
+        "商业航天",
+        "亚马逊卫星",
+        "发射失败"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Space.com",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+          "published": "2026-11-13 11:00:00 UTC（初稿）",
+          "author": "Mike Wall",
+          "updated": "2026-11-15 18:48:56 UTC",
+          "section": "Launches & Spacecraft"
+        }
+      ]
+    },
+    {
+      "title": "10. 新华社走访二手手机市场，关注回收与检测标准",
+      "keywords": [
+        "二手手机",
+        "回收流通",
+        "检测标准"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华社／新华网",
+          "url": "https://www.news.cn/20261115/e8b536f841b54ffe966e24837323d24b/c.html",
+          "published": "2026-11-15 20:24:35（页面未显式标时区）",
+          "section": "财经聚焦"
+        }
+      ]
+    }
   ]
 }
