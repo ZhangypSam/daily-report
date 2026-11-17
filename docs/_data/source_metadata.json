@@ -9604,5 +9604,301 @@
         }
       ]
     }
+  ],
+  "2026-11-17": [
+    {
+      "title": "1. LLM 0.37.3 修复 SQLite 更新后的日志兼容问题",
+      "keywords": [
+        "LLM",
+        "SQLite",
+        "日志修复"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/16/llm/",
+          "published": "2026-11-16 23:57:26 UTC（作者 RSS；页面显示 11 月 16 日 11:57 pm）",
+          "author": "Simon Willison"
+        }
+      ]
+    },
+    {
+      "title": "2. 豆包工作推出覆盖 21 个专业场景的工作台",
+      "keywords": [
+        "豆包工作",
+        "工作台",
+        "专业场景"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "IT之家",
+          "url": "https://www.ithome.com/1/027/608.htm",
+          "published": "2026-11-16 12:27:33（页面未标时区）",
+          "author": "潞源",
+          "section": "智能时代／人工智能"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期榜单发现：Stitch Skills 把设计与构建流程接入编程代理",
+      "keywords": [
+        "Stitch",
+        "代理技能",
+        "界面设计"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "author": "google-labs-code",
+          "note": "近期日榜发现；仓库首次发布日期未核实，不能作为当日新发布"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "日榜归档采样：2026-11-17 08:59:48 Asia/Shanghai；榜单窗口不是已知的精确滚动24小时"
+        }
+      ]
+    },
+    {
+      "title": "4. 近期榜单发现：PaperOrchestra 将研究材料组织为论文草稿",
+      "keywords": [
+        "论文写作",
+        "多代理",
+        "LaTeX"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/google-research/paper-orchestra",
+          "author": "google-research",
+          "note": "近期日榜发现；仓库首次发布日期未核实，不能作为当日新发布"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "日榜归档采样：2026-11-17 08:59:48 Asia/Shanghai；榜单窗口不是已知的精确滚动24小时"
+        }
+      ]
+    },
+    {
+      "title": "5. 近期榜单发现：ffmpeg-skill 提供本地视频编辑工具与检查流程",
+      "keywords": [
+        "FFmpeg",
+        "本地剪辑",
+        "输出核验"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/kajisho5/ffmpeg-skill",
+          "author": "kajisho5",
+          "note": "近期日榜发现；仓库首次发布日期未核实，不能作为当日新发布"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "日榜归档采样：2026-11-17 08:59:48 Asia/Shanghai；榜单窗口不是已知的精确滚动24小时"
+        }
+      ]
+    },
+    {
+      "title": "6. 阿里巴巴发布 Qwen4-Max，强调视觉与长任务能力",
+      "keywords": [
+        "Qwen4-Max",
+        "原生视觉",
+        "长任务"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Alibaba Cloud Press Room",
+          "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max?_p_lc=1",
+          "published": "2026-11-16（原文仅日期，未标时区）",
+          "author": "Alibaba Cloud"
+        }
+      ]
+    },
+    {
+      "title": "7. 研究者披露 Windows 诊断组件记录编程代理使用情况",
+      "keywords": [
+        "Windows",
+        "编程代理",
+        "诊断数据"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Xusheng Li 技术博客",
+          "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+          "published": "2026-11-16（页面日期；元数据为 00:00 EST，不视为精确发稿时刻）",
+          "author": "Xusheng Li"
+        }
+      ]
+    },
+    {
+      "title": "8. 科创板日报：DeepSeek App 与网页版长对话出现使用限制",
+      "keywords": [
+        "DeepSeek",
+        "长对话",
+        "使用额度"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "科创板日报",
+          "url": "https://www.chinastarmarket.cn/detail/2535076",
+          "published": "2026-11-16 11:20:39（页面未标时区）",
+          "author": "黄心怡",
+          "section": "科创板电报"
+        }
+      ]
+    },
+    {
+      "title": "9. 百度三季度 AI 云基础设施收入增长，广告业务仍承压",
+      "keywords": [
+        "百度财报",
+        "AI云",
+        "商业化"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Baidu Investor Relations",
+          "url": "https://ir.baidu.com/news-releases/news-release-details/baidu-announces-third-quarter-2026-results",
+          "published": "2026-11-16（公司公告仅日期，未标时区）",
+          "author": "Baidu"
+        },
+        {
+          "role": "辅来源",
+          "site": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3786013",
+          "published": "2026-11-16 09:04:55 UTC（页面 time 元素）",
+          "author": "卜淑情"
+        }
+      ]
+    },
+    {
+      "title": "10. The Verge：苹果测试 Siri AI 每日额度与 iCloud Plus 分层",
+      "keywords": [
+        "Siri AI",
+        "使用额度",
+        "订阅分层"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "The Verge",
+          "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+          "published": "2026-11-16 19:24:40 UTC",
+          "author": "Andrew Liszewski",
+          "section": "Tech"
+        }
+      ]
+    },
+    {
+      "title": "11. 汇通财经记录黄金回落，利率预期仍是观察焦点",
+      "keywords": [
+        "现货黄金",
+        "美元",
+        "利率预期"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "汇通财经",
+          "url": "https://www.fx678.com/C/20261117/202611170528522465.html",
+          "published": "2026-11-17 07:34:46（页面未独立标注时区；正文注明北京时间早盘）",
+          "author": "沐涵",
+          "author_label": "编辑",
+          "section": "财经早餐"
+        }
+      ]
+    },
+    {
+      "title": "12. 中方介绍中俄美元首深圳会晤安排，结果仍待会后公布",
+      "keywords": [
+        "元首会晤",
+        "深圳",
+        "战略稳定"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中华人民共和国外交部",
+          "url": "https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202611/t20261116_12060248.shtml",
+          "published": "2026-11-16 17:15（页面未标时区）",
+          "section": "例行记者会"
+        },
+        {
+          "role": "辅来源",
+          "site": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34490498",
+          "published": "2026-11-16 23:25:44 UTC（页面显示北京时间 11 月 17 日 07:25）",
+          "author": "朱润宇",
+          "section": "大国外交"
+        }
+      ]
+    },
+    {
+      "title": "13. 美国 BIS 发布针对先进计算远程访问的临时最终规则",
+      "keywords": [
+        "BIS",
+        "远程算力",
+        "出口管制"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "美国工业与安全局（BIS）",
+          "url": "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology",
+          "published": "2026-11-16（当前公告正文日期，未标时区）",
+          "section": "Press Release"
+        }
+      ]
+    },
+    {
+      "title": "14. 美联社：摩根大通技术故障导致部分银行交易延迟",
+      "keywords": [
+        "摩根大通",
+        "支付延迟",
+        "技术故障"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Associated Press",
+          "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+          "published": "2026-11-16 18:47:25（article 元数据未标时区；更新时间 11 月 17 日 00:27:16 亦未标时区）",
+          "author": "Cathy Bussewitz、Ken Sweet",
+          "section": "Business"
+        }
+      ]
+    },
+    {
+      "title": "15. 新华社：日本三季度实际 GDP 折年率下降 0.1%",
+      "keywords": [
+        "日本经济",
+        "GDP",
+        "个人消费"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网／新华社",
+          "url": "https://www1.xinhuanet.com/20261116/257f0dedcfc24f2495d1ad3385acb354/c.html",
+          "published": "2026-11-16 12:19:29（页面未标时区）",
+          "author": "李诗萌、蓝建中"
+        }
+      ]
+    }
   ]
 }
