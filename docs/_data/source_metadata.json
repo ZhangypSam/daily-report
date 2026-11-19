@@ -10122,5 +10122,230 @@
         "招股书"
       ]
     }
+  ],
+  "2026-11-19": [
+    {
+      "title": "1. Google 向符合资格的 Ultra 用户开放 Genie 4",
+      "keywords": [
+        "世界模型",
+        "交互创作",
+        "Genie 4"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Google Blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+          "author": "Diego Rivas、Pavan Kumar",
+          "published": "2026-11-18 18:00 UTC"
+        }
+      ]
+    },
+    {
+      "title": "2. RadixArk 发布 DaisyRose-27B，强调后训练效率",
+      "keywords": [
+        "开源模型",
+        "后训练",
+        "代理任务"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "RadixArk Blog",
+          "url": "https://www.radixark.com/blog/daisyrose-27b",
+          "author": "The RadixArk Team",
+          "published": "2026-11-18 12:00 UTC"
+        }
+      ]
+    },
+    {
+      "title": "3. Mastra 团队展示开源 Factory 软件交付环境",
+      "keywords": [
+        "编程代理",
+        "软件交付",
+        "Mastra"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / Mastra",
+          "url": "https://github.com/mastra-ai/template-factory"
+        },
+        {
+          "role": "作者展示帖",
+          "site": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50548660",
+          "author": "codekarate",
+          "posted": "2026-11-18 16:53:42 UTC"
+        }
+      ]
+    },
+    {
+      "title": "4. 近期榜单发现：ECC 整理编程代理的技能与工程流程",
+      "keywords": [
+        "代理技能",
+        "工程流程",
+        "ECC"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/affaan-m/ECC",
+          "note": "无新发布日期；日榜采样 2026-11-19 00:58:17 UTC"
+        }
+      ]
+    },
+    {
+      "title": "5. Google 发布 Gemini 4 Neon，公布百万词元上下文与定价",
+      "keywords": [
+        "Gemini",
+        "模型发布",
+        "API定价"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Google Blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+          "author": "Koray Kavukcuoglu",
+          "published": "2026-11-18 21:00 UTC"
+        }
+      ]
+    },
+    {
+      "title": "6. OpenAI 披露模型辅助芯片设计，与 AMD、Synopsys 合作",
+      "keywords": [
+        "芯片设计",
+        "EDA",
+        "OpenAI"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI",
+          "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+          "author": "OpenAI",
+          "published": "2026-11-18 08:00 UTC"
+        }
+      ]
+    },
+    {
+      "title": "7. DeepSeek 免收模型内服务端搜索与网页抓取费用",
+      "keywords": [
+        "DeepSeek",
+        "搜索计费",
+        "词元成本"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "DeepSeek API Docs",
+          "url": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing/",
+          "published": "生效：2026-11-18 12:00 北京时间；文档未单列发布时间"
+        },
+        {
+          "role": "辅来源",
+          "site": "IT之家",
+          "url": "https://www.ithome.com/1/029/058.htm",
+          "published": "2026-11-18 20:33:53（原页未标时区）",
+          "author": "沁沧（实习）"
+        }
+      ]
+    },
+    {
+      "title": "8. 澎湃报道现货黄金跌破 3800 美元，须区分报价时点",
+      "keywords": [
+        "现货黄金",
+        "报价时点",
+        "利率预期"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "澎湃新闻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34504501",
+          "author": "孙铭蔚",
+          "section": "牛市点线面",
+          "published": "2026-11-18 12:45:30 UTC"
+        }
+      ]
+    },
+    {
+      "title": "9. 特朗普抵达深圳，三方会谈结果仍待公布",
+      "keywords": [
+        "深圳会晤",
+        "APEC",
+        "外交议程"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "美国之音",
+          "url": "https://www.voachinese.com/a/trump-arrives-shenzhen-ahead-of-trilateral-summit-20261118/8224985.html",
+          "author": "郑裕文",
+          "section": "美中峰会",
+          "published": "2026-11-18 18:55:59 +08:00"
+        }
+      ]
+    },
+    {
+      "title": "10. 美国之音：20 名共和党众议员呼吁峰会讨论被拘押者",
+      "keywords": [
+        "美国国会",
+        "被拘押者",
+        "峰会议程"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "美国之音",
+          "url": "https://www.voachinese.com/a/republican-lawmakes-urge-trump-to-raise-political-prisoners-with-xi-in-shenzhen-20261118/8225243.html",
+          "author": "美国之音",
+          "section": "国会报道",
+          "published": "2026-11-19 07:29:45 +08:00"
+        }
+      ]
+    },
+    {
+      "title": "11. 美联储公布 10 月纪要，多数政策讨论仍指向通胀风险",
+      "keywords": [
+        "美联储",
+        "会议纪要",
+        "利率政策"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "美联储",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+          "published": "发布：2026-11-18 14:00 EST（北京时间 11-19 03:00）"
+        },
+        {
+          "role": "辅来源",
+          "site": "美联储",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+          "published": "2026-11-18 14:00 EST"
+        }
+      ]
+    },
+    {
+      "title": "12. 第一财经引述知情人士：Anthropic IPO 定价每股 83 美元",
+      "keywords": [
+        "Anthropic",
+        "IPO",
+        "发行定价"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "第一财经",
+          "url": "https://www.yicai.com/news/103445809.html",
+          "author": "樊志菁",
+          "section": "资讯",
+          "published": "2026-11-19 07:13:40（原页未标时区）"
+        }
+      ]
+    }
   ]
 }
