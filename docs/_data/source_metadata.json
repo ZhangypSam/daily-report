@@ -10347,5 +10347,204 @@
         }
       ]
     }
+  ],
+  "2026-11-20": [
+    {
+      "title": "1. Onlook 展示重建后的开源设计工具，在真实代码上操作画布",
+      "keywords": [
+        "Onlook",
+        "可视化设计",
+        "编程代理"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / Onlook",
+          "url": "https://github.com/onlook-dev/onlook/"
+        },
+        {
+          "role": "作者展示帖",
+          "site": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50562320",
+          "author": "D_R_Farrell",
+          "posted": "2026-11-19 16:34:04 UTC"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期榜单发现：AutoClip 将长视频整理为短片与发布素材",
+      "keywords": [
+        "视频剪辑",
+        "AutoClip",
+        "内容再利用"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / AutoClip",
+          "url": "https://github.com/zhouxiaoka/autoclip"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期榜单发现：OpenSRE 用代理调查 CI 失败并提出修复",
+      "keywords": [
+        "OpenSRE",
+        "持续集成",
+        "故障调查"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / Tracer-Cloud",
+          "url": "https://github.com/Tracer-Cloud/opensre"
+        }
+      ]
+    },
+    {
+      "title": "4. 近期榜单发现：Claude-BugHunter 整理安全研究与报告工作流",
+      "keywords": [
+        "安全研究",
+        "代理技能",
+        "证据记录"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter"
+        }
+      ]
+    },
+    {
+      "title": "5. NVIDIA 与微软扩展云端、边缘及 Windows PC 的 AI 合作",
+      "keywords": [
+        "NVIDIA",
+        "微软",
+        "本地AI"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+          "published": "2026-11-19 20:00:15 UTC"
+        }
+      ]
+    },
+    {
+      "title": "6. “天华开物”酶设计模型发布，连接计算设计与实验验证",
+      "keywords": [
+        "酶设计",
+        "天华开物",
+        "实验验证"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网",
+          "url": "https://www3.xinhuanet.com/tech/20261119/46c9650395524ddbb0b73dcc0fff6d09/c.html",
+          "author": "张建新、栗雅婷",
+          "published": "2026-11-19 18:53:13（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "7. 阿里披露 AI 产品季度收入 179.18 亿元，云外部收入增长 64%",
+      "keywords": [
+        "阿里云",
+        "AI收入",
+        "季度财报"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "阿里巴巴集团",
+          "url": "https://home.alibabagroup.com/en-US/document-2060147792046718976",
+          "published": "2026-11-19（日期精度，未标时区）"
+        },
+        {
+          "role": "辅来源",
+          "site": "新京报",
+          "url": "https://www.bjnews.com.cn/detail/1795091853129464.html",
+          "author": "程子姣",
+          "published": "2026-11-20 08:17（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "8. 评论观察：AI 数据工作向高技能人群扩展，报价不等于稳定收入",
+      "keywords": [
+        "数据工作",
+        "平台劳动",
+        "收入风险"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Rest of World",
+          "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+          "author": "Julián Posada",
+          "section": "Ideas",
+          "published": "2026-11-19 11:00 UTC"
+        }
+      ]
+    },
+    {
+      "title": "9. 财联社报道黄金盘中跌破 3700 美元，报价须对应具体时点",
+      "keywords": [
+        "现货黄金",
+        "盘中报价",
+        "风险分散"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社",
+          "url": "https://api3.cls.cn/share/article/2539006?os=CailianpressWeb&sv=853&app=",
+          "author": "卞纯",
+          "published": "2026-11-19 17:04（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "10. 深圳三方宣言提出能源供应与核风险对话安排",
+      "keywords": [
+        "深圳会晤",
+        "三方宣言",
+        "核风险"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中华人民共和国国防部 / 新华社",
+          "url": "https://www.mod.gov.cn/gfbw/qwfb/16500893.html",
+          "section": "权威发布",
+          "published": "2026-11-19 18:48:32（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "11. Anthropic 开始交易，财联社报道开盘价为 111.5 美元",
+      "keywords": [
+        "Anthropic",
+        "首次公开募股",
+        "开盘价格"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社",
+          "url": "https://www.cls.cn/detail/2539480",
+          "published": "2026-11-20 00:50:11（页面未标时区）"
+        },
+        {
+          "role": "辅来源",
+          "site": "Anthropic",
+          "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+          "published": "2026-11-18（背景公告）"
+        }
+      ]
+    }
   ]
 }
