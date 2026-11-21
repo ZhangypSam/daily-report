@@ -10546,5 +10546,255 @@
         }
       ]
     }
+  ],
+  "2026-11-21": [
+    {
+      "title": "1. DreamCoder 正式亮相，把编程代理放进可观察的平铺工作空间",
+      "keywords": [
+        "编程代理",
+        "工作空间",
+        "界面"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Mastering Emacs",
+          "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+          "author": "Mickey Petersen",
+          "published": "2026-11-20（原文未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "2. OpenComputer 作者展示面向团队的开源云编程代理",
+      "keywords": [
+        "云端开发",
+        "团队协作",
+        "开源"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / OpenComputer",
+          "url": "https://github.com/diggerhq/opencomputer"
+        },
+        {
+          "role": "作者展示帖",
+          "site": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50581403",
+          "author": "iacguy（自述为共同创始人 Utpal）",
+          "posted": "2026-11-20 20:19:56 UTC"
+        }
+      ]
+    },
+    {
+      "title": "3. 近期日榜发现：MiniMind 展示小模型的完整训练链路",
+      "keywords": [
+        "小模型",
+        "训练流程",
+        "开源教程"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/jingyaogong/minimind",
+          "author": "jingyaogong"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "日榜采样 2026-11-21T01:00:08.278622+00:00；不是发布时点"
+        }
+      ]
+    },
+    {
+      "title": "4. 近期日榜发现：Firecrawl 区分本地网页处理与云端知识服务",
+      "keywords": [
+        "网页处理",
+        "本地运行",
+        "数据接入"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "author": "firecrawl"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "日榜采样 2026-11-21T01:00:08.278622+00:00；不是发布时点"
+        }
+      ]
+    },
+    {
+      "title": "5. 近期日榜发现：OpenVINO 提供模型转换与跨设备推理工具",
+      "keywords": [
+        "推理优化",
+        "模型部署",
+        "OpenVINO"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub",
+          "url": "https://github.com/openvinotoolkit/openvino",
+          "author": "openvinotoolkit"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending",
+          "url": "https://github.com/trending?since=daily",
+          "note": "日榜采样 2026-11-21T01:00:08.278622+00:00；不是发布时点"
+        }
+      ]
+    },
+    {
+      "title": "6. Alpöge 提出 Claude 协助证明黎曼猜想的主张，仍须独立核验",
+      "keywords": [
+        "数学研究",
+        "Claude",
+        "形式化证明"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Levent Alpöge",
+          "url": "https://alpo.ge/remark.pdf",
+          "author": "Levent Alpöge",
+          "note": "个人说明PDF；未标明确发布时间"
+        },
+        {
+          "role": "辅来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+          "author": "Simon Willison",
+          "published": "2026-11-20 16:30 UTC（原始RSS）"
+        }
+      ]
+    },
+    {
+      "title": "7. 作者披露代理优化 FPGA 推理实验，强调基准与正确性边界",
+      "keywords": [
+        "FPGA",
+        "编程代理",
+        "推理实验"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Ankit Gupta Blog",
+          "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+          "author": "Ankit Gupta",
+          "published": "2026-11-20（未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "8. ChatPRD 免费试用滥用案例：AI 产品需把获客与算力成本一起核算",
+      "keywords": [
+        "免费试用",
+        "算力成本",
+        "滥用防范"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+          "author": "Simon Willison",
+          "section": "Link Blog",
+          "note": "转述Claire Vo公开视频；未独立审计",
+          "published": "2026-11-20 02:49 UTC（原始RSS）"
+        }
+      ]
+    },
+    {
+      "title": "9. 四家银行同日提示贵金属业务风险，关注仓位与保证金变化",
+      "keywords": [
+        "贵金属",
+        "银行提示",
+        "风险管理"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社",
+          "url": "https://api3.cls.cn/share/article/2540426?app=&os=harmony&sv=845",
+          "author": "郭子硕",
+          "published": "2026-11-20 19:29（未标时区）"
+        },
+        {
+          "role": "辅来源",
+          "site": "海报新闻",
+          "url": "https://hb.dzwww.com/b/pdW92lxexb.html?f=00000v&r=o8Oa",
+          "note": "转载财联社",
+          "published": "2026-11-20 20:29（未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "10. 哈俄专家理事会在阿拉木图讨论能源、贸易与地区安全",
+      "keywords": [
+        "哈俄关系",
+        "能源合作",
+        "地区安全"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Kazinform / 哈萨克国际通讯社",
+          "url": "https://cn.inform.kz/news/congdaonengjiazuoqian-f3c972f3/",
+          "author": "达娜 努尔巴克提（编译）",
+          "published": "2026-11-20 13:44 UTC+05:00"
+        }
+      ]
+    },
+    {
+      "title": "11. 11月 LPR 维持不变，1年期3.0%、5年期以上3.5%",
+      "keywords": [
+        "LPR",
+        "贷款利率",
+        "货币政策"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "经济参考网",
+          "url": "https://www.jjckb.cn/20261120/de5af29d138440ad8e9e4239380d1879/c.html",
+          "author": "于典",
+          "published": "2026-11-20（未标时区）"
+        },
+        {
+          "role": "辅来源",
+          "site": "21财经",
+          "url": "https://www.21jingji.com/article/20261120/herald/ffcd8d867557adc3b3e1eaac6a056cd0.html",
+          "author": "董晗萱",
+          "note": "正文月份与标题存在不一致，以主来源核对",
+          "published": "2026-11-20 09:45（未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "12. 香港10月整体通胀2.2%，剔除一次性措施后为2.0%",
+      "keywords": [
+        "香港物价",
+        "通胀",
+        "统计口径"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "香港政府新闻公报",
+          "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000306.htm",
+          "author": "政府统计处",
+          "published": "2026-11-20 16:30 香港时间（UTC+08:00）"
+        }
+      ]
+    }
   ]
 }
