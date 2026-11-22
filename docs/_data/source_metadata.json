@@ -10796,5 +10796,226 @@
         }
       ]
     }
+  ],
+  "2026-11-22": [
+    {
+      "title": "1. Muru：资深 Python 开发者公开 AI 辅助构建服务器的过程",
+      "keywords": [
+        "Muru",
+        "AI辅助开发",
+        "Python"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/21/muru/",
+          "published": "2026-11-21 23:56:28 UTC（原站 RSS）；页面显示11月21日23:56，项目开发早于本期",
+          "author": "Simon Willison"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期日榜发现：App Store Compliance 把提交前检查接入编程代理",
+      "keywords": [
+        "应用上架",
+        "提交前检查",
+        "编程代理"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / mjmirza",
+          "url": "https://github.com/mjmirza/app-store-compliance",
+          "note": "GitHub 日榜采样2026-11-22 09:03:24（北京时间），不是项目发布日期"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending 日榜",
+          "url": "https://github.com/trending?since=daily",
+          "note": "本期归档采样；排名与星数不作全网热度结论"
+        }
+      ]
+    },
+    {
+      "title": "3. Lean 与 Mathlib 社区发布黎曼猜想证明核验声明",
+      "keywords": [
+        "黎曼猜想",
+        "形式化验证",
+        "Claude"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Lean community blog",
+          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+          "published": "2026-11-21 13:55 UTC（原页结构化发布时间）",
+          "author": "Lean and Mathlib communities"
+        },
+        {
+          "role": "辅来源",
+          "site": "MIT / Andrew Sutherland",
+          "url": "https://math.mit.edu/~drew/grh/",
+          "note": "公开核验结果页；部分项目仍标为进行中"
+        },
+        {
+          "role": "辅来源",
+          "site": "Levent Alpöge",
+          "url": "https://alpo.ge/remark.pdf",
+          "note": "11月20日作者说明，作为较早背景"
+        }
+      ]
+    },
+    {
+      "title": "4. 医师资格认证中心否认与大模型企业合作或开展模型测评",
+      "keywords": [
+        "模型测评",
+        "考试数据",
+        "宣传边界"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "北京日报客户端 / 长安街知事",
+          "url": "https://xinwen.bjd.com.cn/content/s6b01c141e4b0e42f8f0332d8.html",
+          "published": "2026-11-22 00:05（原页未标时区）；声明日期为11月21日"
+        }
+      ]
+    },
+    {
+      "title": "5. 国家数据局提出健全词元计量计费与质量测评规范",
+      "keywords": [
+        "词元计费",
+        "质量测评",
+        "数据要素"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社",
+          "url": "https://www.cls.cn/detail/2540805",
+          "published": "2026-11-21 16:51:24（原页未标时区）；讲话发生于11月20日"
+        }
+      ]
+    },
+    {
+      "title": "6. 延庆词元平台披露直抵式补贴，最高支持50%算力费用",
+      "keywords": [
+        "算力补贴",
+        "词元平台",
+        "创业成本"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新京报",
+          "url": "https://www.bjnews.com.cn/detail/1795255522129623.html",
+          "published": "2026-11-21 18:07（原页未标时区）；平台于11月20日上线",
+          "author": "曹晶瑞"
+        }
+      ]
+    },
+    {
+      "title": "7. 盐城 OPC 社区公布模型、算力与代码协作五类平台安排",
+      "keywords": [
+        "OPC社区",
+        "开源模型",
+        "产业服务"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网江苏频道",
+          "url": "https://js.news.cn/20261121/2f31c9be881b4023966b73c0538e3f8c/c.html",
+          "published": "2026-11-21（原页仅日期、未标时区）；启用活动为11月20日",
+          "author": "尹丽珊"
+        }
+      ]
+    },
+    {
+      "title": "8. 中新社观察金价急跌：区分媒体报价、零售价格与风险判断",
+      "keywords": [
+        "现货黄金",
+        "价格波动",
+        "零售金饰"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中国新闻网 / 中新社",
+          "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735752.shtml",
+          "published": "2026-11-21 16:00:11（原页未标时区）；文中价格观察日为11月21日",
+          "author": "陶思阅（正文署名）"
+        }
+      ]
+    },
+    {
+      "title": "9. 加拿大宣布加入北约创新基金，拟出资逾1亿加元",
+      "keywords": [
+        "加拿大",
+        "北约",
+        "创新基金"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网 / 新华社",
+          "url": "https://www.xinhuanet.com/20261122/f39dd4b1af0f4aa689a1c8253a38837c/c.html",
+          "published": "2026-11-22 07:10:05（原页未标时区）；宣布日期为加拿大当地11月21日",
+          "author": "林威"
+        }
+      ]
+    },
+    {
+      "title": "10. 英欧峰会后续报道：72项共识仍需落实，部分措施指向2028年",
+      "keywords": [
+        "英欧关系",
+        "贸易安排",
+        "碳市场"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中国金融信息网 / 新华社",
+          "url": "https://www.cnfin.com/yw-lb/detail/20261122/4498636_1.html",
+          "published": "2026-11-22（原页仅日期、未标时区）；峰会于11月20日举行",
+          "author": "张兆卿、赵家淞、李鲲"
+        }
+      ]
+    },
+    {
+      "title": "11. 美股11月20日收盘综述：纳指跌5.28%，三大股指进入回调区间",
+      "keywords": [
+        "美股",
+        "纳斯达克",
+        "市场波动"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经",
+          "url": "https://m.cnfin.com/yw-lb/zixun/20261121/4498500_1.html",
+          "published": "2026-11-21 09:23（原页未标时区）；数据为美国11月20日交易日",
+          "author": "刘亚南"
+        }
+      ]
+    },
+    {
+      "title": "12. 法国11月商业景气指数降至95，行业表现存在分化",
+      "keywords": [
+        "法国经济",
+        "商业景气",
+        "企业调查"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经",
+          "url": "https://www.cnfin.com/gs-lb/detail/20261121/4498517_1.html",
+          "published": "2026-11-21（原页日期）；栏目索引09:56:29未标时区；统计机构于11月20日发布数据",
+          "author": "李文昕"
+        }
+      ]
+    }
   ]
 }
