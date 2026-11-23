@@ -11017,5 +11017,175 @@
         }
       ]
     }
+  ],
+  "2026-11-23": [
+    {
+      "title": "1. 本地模型实践：GPU Partner 介绍 Unsloth Desktop 家庭部署流程",
+      "keywords": [
+        "本地模型",
+        "量化",
+        "显存"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GPU Partner",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "author": "Jerry James",
+          "published": "2026-11-22（原文仅日期，未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "2. 近期日榜发现：AFFiNE 把文档、白板与 AI 工作区放到一起",
+      "keywords": [
+        "知识管理",
+        "白板",
+        "AI工作区"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "author": "toeverything",
+          "note": "GitHub 日榜采样为2026-11-23 09:03:24.898903 +08:00，不是项目发布日期"
+        },
+        {
+          "role": "辅来源",
+          "site": "GitHub Trending 日榜",
+          "url": "https://github.com/trending?since=daily",
+          "note": "采样时间2026-11-23 09:03:24.898903 +08:00；非发布时间"
+        }
+      ]
+    },
+    {
+      "title": "3. OpenAI 提议用困惑度等指标讨论前沿模型发展边界",
+      "keywords": [
+        "困惑度",
+        "预训练",
+        "安全评估"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI",
+          "url": "https://openai.com/index/perplexity-and-intelligence/",
+          "author": "Jakub Pachocki",
+          "section": "Research / Safety",
+          "published": "2026-11-22（原文仅日期，未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "4. 上海创业社区披露留存与服务数据，强调 AI 团队资源配套",
+      "keywords": [
+        "AI创业",
+        "创业社区",
+        "算力服务"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "人民网·上海频道 / 解放日报",
+          "url": "https://sh.people.com.cn/n2/2026/1122/c134768-41757496.html",
+          "author": "舒抒",
+          "published": "2026-11-22 09:34（原页未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "5. 公募 AI 应用从单点工具延伸到组织、算力与数据治理",
+      "keywords": [
+        "公募基金",
+        "智能体",
+        "数据治理"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "第一财经",
+          "url": "https://www.yicai.com/news/103449308.html",
+          "author": "曹璐",
+          "section": "A股",
+          "published": "2026-11-22 22:12:00 +08:00（原页结构化时间）"
+        }
+      ]
+    },
+    {
+      "title": "6. 黄金消费观察：北京与深圳部分金店周末客流增加",
+      "keywords": [
+        "实物黄金",
+        "零售消费",
+        "水贝"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "第一财经（转述央视财经）",
+          "url": "https://www.yicai.com/news/103449361.html",
+          "section": "资讯",
+          "published": "2026-11-22 22:41:17（原页未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "7. 上交所公布融资保证金新安排，11月30日起最低比例为80%",
+      "keywords": [
+        "融资保证金",
+        "交易规则",
+        "风险管理"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "上海证券交易所",
+          "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/specific/margin/c/c_20261122_10838633.shtml",
+          "section": "融资融券 / 业务通知",
+          "published": "2026-11-22（通知发布日期）"
+        },
+        {
+          "role": "辅来源",
+          "site": "京报网 / 央视新闻客户端",
+          "url": "https://news.bjd.com.cn/2026/11/22/12040061.shtml",
+          "published": "2026-11-22 23:54（原页未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "8. 土耳其第三季度外资持有资产价值下降，不能等同于同额撤资",
+      "keywords": [
+        "国际投资头寸",
+        "资产估值",
+        "土耳其"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经",
+          "url": "https://www.cnfin.com/hs-lb/detail/20261122/4498641_1.html",
+          "author": "许万虎",
+          "section": "汇市",
+          "published": "2026-11-22 10:20:50（原页元数据，未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "9. 首批18只主动 ETF 计划今日上市，募集规模合计360亿元",
+      "keywords": [
+        "主动ETF",
+        "基金上市",
+        "基金募集"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "南方财经综合",
+          "url": "https://m.sfccn.com/2026/11-23/0NMDE1MjBfMjMxMzg0NA.html",
+          "section": "21早新闻",
+          "published": "2026-11-23 07:15:59（原页未标时区）"
+        }
+      ]
+    }
   ]
 }
