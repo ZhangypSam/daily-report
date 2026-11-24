@@ -11187,5 +11187,157 @@
         }
       ]
     }
+  ],
+  "2026-11-24": [
+    {
+      "title": "1. GLM-5.4 采用循环架构，官方列出编程与创作入口",
+      "keywords": [
+        "循环架构",
+        "编程模型",
+        "开放计划"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Z.ai",
+          "url": "https://z.ai/blog/glm-5.4",
+          "published": "2026-11-23（官方页面日期，未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "2. ChatGPT 聊天页开始推送面向日常对话的 GPT-6.2",
+      "keywords": [
+        "ChatGPT",
+        "日常对话",
+        "分批推送"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI Help Center",
+          "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+          "published": "2026-11-23（更新日志日期，未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "3. 蚂蚁展示 LingSante 健康模型家族，强调与真人医生协作",
+      "keywords": [
+        "健康模型",
+        "多模态",
+        "人机协作"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "智东西",
+          "url": "https://zhidx.com/p/613306.html",
+          "published": "2026-11-23 20:19:16 +08:00（原页结构化时间）",
+          "author": "毕伟豪"
+        }
+      ]
+    },
+    {
+      "title": "4. 新华社报道英伟达重新任命黄仁勋为总裁、CEO及董事",
+      "keywords": [
+        "英伟达",
+        "黄仁勋",
+        "管理层"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网",
+          "url": "https://www3.xinhuanet.com/world/20261123/3752f41391fd461abe2249b3aaaab2a4/c.html",
+          "published": "2026-11-23 23:38:06（原页未标时区）",
+          "author": "刘亚南"
+        }
+      ]
+    },
+    {
+      "title": "5. 杉数披露数亿元 D 轮融资，围绕求解器推进产业决策应用",
+      "keywords": [
+        "杉数科技",
+        "融资",
+        "决策式AI"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "钛媒体",
+          "url": "https://www.tmtpost.com/8214351.html",
+          "published": "2026-11-23 17:26（原页未标时区）",
+          "author": "TechPulse"
+        }
+      ]
+    },
+    {
+      "title": "6. 宁波外贸团队用智能体分工，采购决策仍由客户确认",
+      "keywords": [
+        "外贸服务",
+        "智能体",
+        "人工确认"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中国宁波网／宁波晚报",
+          "url": "https://news.cnnb.com.cn/system/2026/11/24/030837883.shtml",
+          "published": "2026-11-24 07:10:00（原页未标时区）",
+          "author": "严瑾"
+        }
+      ]
+    },
+    {
+      "title": "7. 上海黄金交易所发布近期贵金属市场风险提示",
+      "keywords": [
+        "黄金交易所",
+        "贵金属",
+        "风险控制"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "上海黄金交易所",
+          "url": "https://www.sge.com.cn/jjsnotice/10007674",
+          "published": "2026-11-23（公告日期，未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "8. 欧委会提出第22轮对俄制裁方案，涉及金融与能源等领域",
+      "keywords": [
+        "欧委会",
+        "制裁提案",
+        "能源服务"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网",
+          "url": "https://www3.xinhuanet.com/world/20261124/5d6c7403aca84b11810cf3d1498c32e1/c.html",
+          "published": "2026-11-24 03:15:27（原页未标时区）",
+          "author": "张兆卿、张馨文"
+        }
+      ]
+    },
+    {
+      "title": "9. “选择法国”峰会展示425亿欧元项目，其中149亿为首次公布",
+      "keywords": [
+        "法国投资",
+        "能源转型",
+        "项目计划"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网",
+          "url": "https://www3.xinhuanet.com/world/20261124/5a8e465f8a1a4520bfb386af68f2d2ee/c.html",
+          "published": "2026-11-24 05:32:03（原页未标时区）",
+          "author": "崔可欣"
+        }
+      ]
+    }
   ]
 }
