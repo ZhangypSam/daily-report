@@ -11339,5 +11339,168 @@
         }
       ]
     }
+  ],
+  "2026-11-25": [
+    {
+      "title": "1. PrismML 发布 Ternary Bonsai 2.5 27B，强调本地代理任务",
+      "keywords": [
+        "本地模型",
+        "代理编程",
+        "低内存"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "PrismML",
+          "url": "https://prismml.com/news/bonsai-2-5-27b",
+          "published": "2026-11-24（原文仅日期，未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "2. Datasette Charts 0.2a0 接入 Agent，可用聊天生成图表",
+      "keywords": [
+        "数据分析",
+        "图表生成",
+        "Datasette"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+          "author": "Simon Willison",
+          "published": "2026-11-24（原文仅日期，未标时区）"
+        },
+        {
+          "role": "辅来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+          "author": "Simon Willison",
+          "published": "2026-11-24（原文仅日期，未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "3. OpenAI 报告 GPT-6 蛋白质设计实验，仍依赖专用模型筛选",
+      "keywords": [
+        "蛋白质设计",
+        "实验验证",
+        "GPT-6"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "OpenAI",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+          "section": "Science",
+          "published": "2026-11-24（原文仅日期，未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "4. Axios 报道前沿模型发布的安全分歧，企业回应仍属审慎表态",
+      "keywords": [
+        "模型安全",
+        "发布节奏",
+        "前沿模型"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Axios",
+          "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+          "author": "Madison Mills",
+          "published": "2026-11-24 10:45:05 UTC"
+        }
+      ]
+    },
+    {
+      "title": "5. Versine 创始人展示代理支付工具，收入与合规效果尚待验证",
+      "keywords": [
+        "代理支付",
+        "MCP",
+        "创业案例"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50634426",
+          "author": "harshithl1777",
+          "section": "Launch HN",
+          "posted": "2026-11-24 20:44:15 UTC",
+          "note": "创始人第一人称产品介绍，非独立业绩或合规证明"
+        }
+      ]
+    },
+    {
+      "title": "6. 香港推出 OPC BUILD 培育计划，提供 AI 工具与创业支持",
+      "keywords": [
+        "一人公司",
+        "创业支持",
+        "AI应用"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中国新闻网",
+          "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737216.shtml",
+          "section": "财经频道",
+          "published": "2026-11-24 21:12:07（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "7. 汇通财经关注黄金反弹后的波动，利率预期仍是报道焦点",
+      "keywords": [
+        "黄金波动",
+        "利率预期",
+        "PCE"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "汇通财经",
+          "url": "https://www.fx678.com/C/20261124/202611242317508819.html",
+          "published": "2026-11-24 23:17:54（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "8. The Register：FCC 拟就外国卫星运营商对等限制启动规则程序",
+      "keywords": [
+        "卫星监管",
+        "美欧关系",
+        "FCC"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "The Register",
+          "url": "https://www.theregister.com/networks/2026/11/24/fcc-proposes-tit-for-tat-restrictions-on-foreign-satellite-operators/5311889",
+          "author": "Dan Robinson",
+          "section": "networks",
+          "published": "2026-11-24 13:45 UTC"
+        }
+      ]
+    },
+    {
+      "title": "9. 小米披露第三季度业绩：收入下降5.2%，经调整净利下降56.8%",
+      "keywords": [
+        "小米财报",
+        "经调整净利",
+        "汽车交付"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "小米集团投资者关系",
+          "url": "https://ir.mi.com/static-files/3d372aaa-8ff8-4e33-ba01-68c8d7975a0b",
+          "section": "业绩公告",
+          "published": "2026-11-24（公告署香港，仅到日期）"
+        }
+      ]
+    }
   ]
 }
