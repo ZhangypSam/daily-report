@@ -11502,5 +11502,160 @@
         }
       ]
     }
+  ],
+  "2026-11-26": [
+    {
+      "title": "1. Nod 0.9.7 恢复聊天内浏览器操作，修复已保存规则的重复确认",
+      "keywords": [
+        "Nod",
+        "浏览器",
+        "权限规则"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / n8n",
+          "url": "https://github.com/n8n-io/nod/releases/tag/nod-v0.9.7",
+          "published": "2026-11-25 09:39:22 UTC"
+        }
+      ]
+    },
+    {
+      "title": "2. Univer 1.6.2 扩展表格保护，调整脚本与智能体读取单元格的接口",
+      "keywords": [
+        "Univer",
+        "表格保护",
+        "单元格接口"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "GitHub / Univer",
+          "url": "https://github.com/dream-num/univer/releases/tag/v1.6.2",
+          "published": "2026-11-25 11:49:05 UTC"
+        }
+      ]
+    },
+    {
+      "title": "3. Scott Aaronson 讨论 AI 数学进展，同时保留密码学传闻的不确定性",
+      "keywords": [
+        "AI数学",
+        "形式化证明",
+        "密码学"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Scott Aaronson / Shtetl-Optimized",
+          "url": "https://scottaaronson.blog/?p=10379",
+          "published": "2026-11-25 19:01:13 UTC（页面发布时间元数据）",
+          "author": "Scott Aaronson"
+        }
+      ]
+    },
+    {
+      "title": "4. 中国日报披露连尚 AI 领航计划：提供早期股权投资与创业资源",
+      "keywords": [
+        "AI创业",
+        "股权投资",
+        "需求验证"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "中国日报网",
+          "url": "https://cn.chinadaily.com.cn/a/202611/25/WS6b067c38e4b0e14252fcd614.html",
+          "published": "2026-11-25 14:12（页面未标时区）；活动为11月24日",
+          "section": "中国日报专稿"
+        }
+      ]
+    },
+    {
+      "title": "5. 广州日报报道中国银行提示贵金属风险，强调持仓与承受能力",
+      "keywords": [
+        "贵金属",
+        "中国银行",
+        "风险提示"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "广州日报新花城",
+          "url": "https://huacheng.gz-cmc.com/pages/2026/11/25/8cb9c24b0bfd4bf68554895cb4bade7e.html",
+          "published": "2026-11-25 21:03:01（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "6. 美国 USTR 就14个经济体提出301关税措施，仍需征求意见和听证",
+      "keywords": [
+        "301调查",
+        "关税提案",
+        "贸易磋商"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "美国贸易代表办公室（USTR）",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+          "published": "2026-11-25（原文仅日期）"
+        },
+        {
+          "role": "辅来源",
+          "site": "中华人民共和国外交部",
+          "url": "https://www.fmprc.gov.cn/fyrbt_673021/202611/t20261125_12066982.shtml",
+          "published": "2026-11-25 17:05（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "7. 新华财经：欧盟将15家俄罗斯实体列入出口限制名单",
+      "keywords": [
+        "欧盟",
+        "出口限制",
+        "俄罗斯"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华财经 / 中国金融信息网",
+          "url": "https://www.cnfin.com/dz-lb/detail/20261125/4500282_1.html",
+          "published": "2026-11-25（原文仅日期）",
+          "author": "张兆卿、朱昊晨"
+        }
+      ]
+    },
+    {
+      "title": "8. 美联储褐皮书：八个地区经济增长，企业仍面临成本压力",
+      "keywords": [
+        "褐皮书",
+        "地区经济",
+        "价格压力"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "美国联邦储备委员会",
+          "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202611-summary.htm",
+          "published": "2026-11-25（本期发布日）；信息收集截至11月16日"
+        }
+      ]
+    },
+    {
+      "title": "9. 德国下修第三季度 GDP 环比增幅至0.1%，设备投资走弱",
+      "keywords": [
+        "德国GDP",
+        "数据修订",
+        "设备投资"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "德国联邦统计局（Destatis）",
+          "url": "https://www.destatis.de/EN/Press/2026/11/PE26_409_811.html",
+          "published": "2026-11-25（新闻稿日期）"
+        }
+      ]
+    }
   ]
 }
