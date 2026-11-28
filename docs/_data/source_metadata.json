@@ -11842,5 +11842,126 @@
         }
       ]
     }
+  ],
+  "2026-11-28": [
+    {
+      "title": "1. Datasette 图表插件发布 0.4a0，以 AI 辅助试用改善扩展接口",
+      "keywords": [
+        "数据可视化",
+        "插件接口",
+        "AI编程"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Simon Willison’s Weblog",
+          "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+          "published": "2026-11-27 23:57:17 UTC",
+          "author": "Simon Willison"
+        }
+      ]
+    },
+    {
+      "title": "2. 科创板日报实测：DeepSeek 安卓版新增对话资费查看功能",
+      "keywords": [
+        "DeepSeek",
+        "Token用量",
+        "费用展示"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "财联社／科创板日报",
+          "url": "https://www.cls.cn/detail/2546092",
+          "published": "2026-11-27 09:19:34（页面未标时区）",
+          "author": "黄心怡"
+        }
+      ]
+    },
+    {
+      "title": "3. 新刊发观察：Windows Latest 梳理纳德拉对初级招聘与 AI 组织调整的解释",
+      "keywords": [
+        "初级招聘",
+        "AI预算",
+        "组织调整"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "Windows Latest",
+          "url": "https://www.windowslatest.com/2026/11/27/lets-add-the-next-human-satya-nadella-admits-new-grad-hiring-slowed-as-companies-rebuild-around-ai-and-says-every-company-will-add-its-next-person-after-it-burns-through-its-ai-budget/",
+          "published": "2026-11-27 01:20:14 UTC",
+          "author": "Abhijith M B",
+          "section": "Microsoft"
+        }
+      ]
+    },
+    {
+      "title": "4. 有赞披露经营 Agent 付费使用规模，智东西现场采访白鸦",
+      "keywords": [
+        "有赞",
+        "经营Agent",
+        "付费商家"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "智东西",
+          "url": "https://www.zhidx.com/p/615061.html",
+          "published": "2026-11-27 20:11:48 +08:00",
+          "author": "李水青",
+          "section": "人工智能"
+        }
+      ]
+    },
+    {
+      "title": "5. 界面报道黄金配置研究：回测比例取决于组合与经济情景",
+      "keywords": [
+        "黄金配置",
+        "组合回测",
+        "经济周期"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "界面新闻",
+          "url": "https://www.jiemian.com/article/15384612.html",
+          "published": "2026-11-27 19:52（页面未标时区）",
+          "author": "蒋习"
+        }
+      ]
+    },
+    {
+      "title": "6. 国家统计局：前十个月规上工业企业利润同比增长16.0%",
+      "keywords": [
+        "工业利润",
+        "可比口径",
+        "行业分化"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "国家统计局",
+          "url": "https://www.stats.gov.cn/sj/zxfb/202611/t20261127_1965949.html",
+          "published": "2026-11-27 09:30（页面未标时区）"
+        }
+      ]
+    },
+    {
+      "title": "7. 人民银行公布大额存单管理办法，个人认购起点不低于10万元",
+      "keywords": [
+        "大额存单",
+        "认购门槛",
+        "生效日期"
+      ],
+      "sources": [
+        {
+          "role": "主来源",
+          "site": "新华网／中国人民银行公告",
+          "url": "https://www.news.cn/fortune/20261127/70789d77822242cc82216f51a416f872/c.html",
+          "published": "2026-11-27 18:55:25（页面未标时区）"
+        }
+      ]
+    }
   ]
 }
